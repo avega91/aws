@@ -1,0 +1,114 @@
+.ms-container{
+    background: none;
+}
+.ms-container .ms-selectable li.ms-hover,
+.ms-container .ms-selection li.ms-hover{
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+    background-color: #ff9900;
+}
+.ms-container{
+    width: 100%;
+}
+.ms-container .ms-list{
+    height: 300px;
+    background-color: #FFF;
+}
+.ms-container .ms-selectable li.ms-elem-selectable, .ms-container .ms-selection li.ms-elem-selection{
+    font-size: 15px;
+    padding: 7px 10px;
+    border-bottom: none;
+}
+.custom-header{
+    font-family: "sansbook";
+}
+.ms-container .ms-selectable, .ms-container .ms-selection{
+    background: transparent;
+    width: 42%;
+}
+.ms-legend{
+    top: 47%;
+    position: absolute;
+    left: 45%;
+    width: 11%;
+    text-align: center;
+
+}
+
+/** multiple select**/
+#removeSelected,#removeSelectedFailure{
+    position: absolute;
+    right: -20px;
+    top: 2px;
+    font-weight: 500;
+    color: #707571 !important;
+    font-family: "sansbook" !important;
+    font-size: 18px;
+    padding: 5px;
+
+}
+.ms-drop{
+    margin-top: 10px;
+    background: #F0F0F0 !important;
+    border: 1px solid #E1E4E1;
+}
+.filter-topbar{
+    text-align: initial !important;
+}
+.filter-topbar .ms-choice{
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    line-height: 2.3em;
+    font-family: "sansbook";
+    color: #707571 !important;
+
+}
+.ms-choice > div{
+    top: 5px;
+}
+.orange .ms-choice > div{
+    background: url('images/multiple-select-orange.png') no-repeat 0px 2px
+}
+.orange .ms-choice > div.open{
+    background: url('images/multiple-select-orange.png') no-repeat -20px 2px
+}
+.ms-choice b{
+    font-weight: 500;
+    color: #707571 !important;
+    font-family: "sansbook" !important;
+
+}
+.ms-drop li input{
+    width: auto !important;
+}
+.ms-drop li{
+    color: #707571;
+    font-family: "sanslight";
+    padding: 5px 0 5px
+}
+.ms-drop li.group{
+    font-weight:400;
+}
+.ms-drop li:not(.group){
+    padding-left: 10px;
+}
+.ms-drop li:hover{
+    background: #FF2D37;
+    color: #FFF;
+}
+
+.tipsy-float{
+    pointer-events:none !important;
+}
+.ui-dialog-buttonset .ui-button.cancel-confirm-btn{
+    background: transparent !important;
+    color: #969B96 !important;
+}
+.chosen-container{
+    background-color: #F8F8F8;
+}
+.conveyor-status .chosen-container{
+    background-color: transparent;
+}

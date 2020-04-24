@@ -1,0 +1,6 @@
+#Obtener a todos los clientes con sus distribuidores de la version 1
+
+SELECT  CONCAT(Cliente.name,' ',Cliente.last_name) AS "Nombre usuario",Cliente.username, Cliente.password, Cliente.region AS Region, Cliente.company AS "Empresa usuario", Distribuidor.company AS Distribuidor
+FROM `users` AS Cliente
+INNER JOIN `users` AS Distribuidor ON Cliente.parent = Distribuidor.id
+WHERE Cliente.aprobado = 'SI' AND Cliente.role='client' AND Cliente.deleted = 0

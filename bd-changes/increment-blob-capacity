@@ -1,0 +1,3 @@
+Update configuration mysql in order to increase blob processing
+max_allowed_packet = 16777216
+innodb_log_file_size = 33554432

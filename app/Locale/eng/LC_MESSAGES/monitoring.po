@@ -1,0 +1,2 @@
+msgid "Monitoring system"
+msgstr "Monitoring system"

@@ -1,0 +1,2 @@
+TRUNCATE `notifications`;
+ALTER TABLE `notifications` CHANGE `type_item` `type_item` ENUM('None','Conveyor','TrackingConveyor','Image','Movie','Noticia','Report','Note','Bucket','Archive','Ultrasonic','client','distributor','admin','master','Log','BucketFile') CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT 'None';

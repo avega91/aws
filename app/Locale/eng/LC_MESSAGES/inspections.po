@@ -1,0 +1,113 @@
+msgid "Issue Number"
+msgstr "Issue Number"
+
+msgid "Issue"
+msgstr "Issue"
+
+msgid "Part"
+msgstr "Part"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Recommended action"
+msgstr "Recommended action"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Cost"
+msgstr "Cost"
+
+msgid "Area"
+msgstr "Area"
+
+msgid "Assigned to"
+msgstr "Assigned to"
+
+msgid "INSPECTION MAP"
+msgstr "INSPECTION MAP"
+
+msgid "Inspection:"
+msgstr "Inspection:"
+
+msgid "HEAD"
+msgstr "HEAD"
+
+msgid "TAIL"
+msgstr "TAIL"
+
+msgid "Dust accumulation"
+msgstr "Dust accumulation"
+
+msgid "Released stamp"
+msgstr "Released stamp"
+
+msgid "Damaged coating"
+msgstr "Damaged coating"
+
+msgid "Missing cleaning"
+msgstr "Missing cleaning"
+
+msgid "Damage carcass"
+msgstr "Damage carcass"
+
+msgid "Idler"
+msgstr "Idler"
+
+msgid "Bend pulley"
+msgstr "Bend pulley"
+
+msgid "Belt"
+msgstr "Hose"
+
+msgid "Drive pulley"
+msgstr "Drive pulley"
+
+msgid "Feeding zone"
+msgstr "Feeding zone"
+
+msgid "Loading zone"
+msgstr "Loading zone"
+
+msgid "Carry"
+msgstr "Carry"
+
+msgid "Chute"
+msgstr "Chute"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Cleaning"
+msgstr "Cleaning"
+
+msgid "Repair"
+msgstr "Repair"
+
+msgid "Lagging"
+msgstr "Lagging"
+
+msgid "Splice"
+msgstr "Splice"
+
+msgid "Conveyor:"
+msgstr "Hose:"
+
+msgid "Dome"
+msgstr "Dome"
+
+msgid "Primary"
+msgstr "Primary"
+
+msgid "Trituration"
+msgstr "Trituration"
+
+msgid "Hoppers"
+msgstr "Hoppers"
+
+msgid "Secondary"
+msgstr "Secondary"
+
+msgid "Total cost"
+msgstr "Total cost"

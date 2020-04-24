@@ -1,0 +1,133 @@
+/*
+The Continental License
+Copyright 2016  Continental Automotive Systems, Inc.
+The copyright notice above does not evidence any actual
+or intended publication of such source code.
+The code contains Continental Confidential Proprietary Information.
+
+    @file <file name eg: foo.c or foo.h>
+    <Description of file>
+
+    @project    Contiplus
+    @author     toc-toc@cocothink.com,ieialbertogd@gmail.com
+    @date      2016
+*/
+/* 
+    Created on : 9/02/2016, 06:04:36 PM
+    Author     : cocothink1
+*/
+
+.circular-menu {
+  /*width: 200px;
+  height: 200px;*/
+}
+.circular-menu,
+.circular-menu button {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  z-index: 10;
+}
+
+.circular-menu button {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  
+  color: transparent;
+  font-size: 20px;
+  cursor: pointer;  
+  
+  -webkit-transition:500ms ease;
+  -moz-transition:500ms ease;
+  -o-transition:500ms ease;
+  transition:500ms ease;  
+}
+
+.circular-menu button:hover {
+  width: 100%;
+  height: 100%;  
+}
+
+.circular-menu button:active,.circular-menu a:active{ 
+    outline: none !important;
+}
+.circular-menu button:focus, .circular-menu a:focus { 
+    outline: none !important;
+}
+.circular-menu button::-moz-focus-inner,
+.circular-menu a::-moz-focus-inner{
+    outline: none !important;
+    border : 0px;
+}
+
+.circular-menu ul {
+  position: absolute;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  top: -20px;
+  right: -20px;
+  bottom: -20px;
+  left: -20px;
+}
+
+.circular-menu button.add-button{
+  transform-origin: center center;
+  transform-style: preserve-3D;
+  
+  /* border: 4px solid #E1E4E1;*/
+  border: none;
+  background-position: center center;
+  background: transparent url('images/icon_add_item_off.png') center center no-repeat !important;
+}
+.circular-menu button.add-button:hover, .circular-menu.open button.add-button{
+  border-radius: 50%;
+  background: #FFA500 url('images/icon_add_item_on.png') center center no-repeat !important;
+  border: none;
+}
+.circular-menu button.add-button.close-button{
+    transform: rotate(45deg);
+}
+
+.circular-menu li {
+  position: absolute;
+  width: 0;
+  height: 100%;
+  margin: 0 50%;
+  -webkit-transform: rotate(-360deg);
+  transition: all 0.8s ease-in-out;
+}
+
+.circular-menu li a {
+  position: absolute;
+  left: 50%;
+  bottom: 100%;
+  width: 0;
+  height: 0;
+  line-height: 1px;
+  margin-left: 0;
+  /*background: #024A92;
+  color: #FFF;*/
+  z-index: 100;
+  text-decoration: none;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 1px;
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: none;
+  transition: all 0.8s ease-in-out, color 0.1s, background 0.1s;
+}
+
+.circular-menu li a:hover { background: #f0f0f0; }
+
+
+.circular-menu.open li a {
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  margin-left: -40px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.1);
+  font-size: 14px;
+}

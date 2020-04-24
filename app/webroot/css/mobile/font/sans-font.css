@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'sansbook';
+    src: url('sans-book/continentalstagsans-book-webfont.eot');
+    src: url('sans-book/continentalstagsans-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sans-book/continentalstagsans-book-webfont.woff') format('woff'),
+         url('sans-book/continentalstagsans-book-webfont.ttf') format('truetype'),
+         url('sans-book/continentalstagsans-book-webfont#sansbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'sanslight';
+    src: url('sans-light/continentalstagsans-light-webfont.eot');
+    src: url('sans-light/continentalstagsans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sans-light/continentalstagsans-light-webfont.woff') format('woff'),
+         url('sans-light/continentalstagsans-light-webfont.ttf') format('truetype'),
+         url('sans-light/continentalstagsans-light-webfont#sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'sansmedium';
+    src: url('sans-medium/continentalstagsans-med-webfont.eot');
+    src: url('sans-medium/continentalstagsans-med-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sans-medium/continentalstagsans-med-webfont.woff') format('woff'),
+         url('sans-medium/continentalstagsans-med-webfont.ttf') format('truetype'),
+         url('sans-medium/continentalstagsans-med-webfont.svg#sansmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

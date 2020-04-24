@@ -1,0 +1,116 @@
+msgid "Issue Number"
+msgstr "Número de falla"
+
+msgid "Issue"
+msgstr "Falla"
+
+msgid "Part"
+msgstr "Parte"
+
+msgid "Position"
+msgstr "Posición"
+
+msgid "Recommended action"
+msgstr "Acción recomendada"
+
+msgid "Status"
+msgstr "Estatus"
+
+msgid "Cost"
+msgstr "Costo"
+
+msgid "Area"
+msgstr "Área"
+
+msgid "Assigned to"
+msgstr "Asignado a"
+
+msgid "INSPECTION MAP"
+msgstr "MAPA DE INSPECCIÓN"
+
+msgid "Inspection:"
+msgstr "Inspección:"
+
+msgid "Area"
+msgstr "Área"
+
+msgid "HEAD"
+msgstr "CABEZA"
+
+msgid "TAIL"
+msgstr "COLA"
+
+msgid "Dust accumulation"
+msgstr "Acumulación de polvo"
+
+msgid "Released stamp"
+msgstr "Sello desprendido"
+
+msgid "Damaged coating"
+msgstr "Recubrimiento dañado"
+
+msgid "Missing cleaning"
+msgstr "Falta limpieza"
+
+msgid "Damage carcass"
+msgstr "Daño carcasa"
+
+msgid "Idler"
+msgstr "Rodillo"
+
+msgid "Bend pulley"
+msgstr "Polea doblez"
+
+msgid "Belt"
+msgstr "Banda"
+
+msgid "Drive pulley"
+msgstr "Polea motriz"
+
+msgid "Feeding zone"
+msgstr "Zona de alimentación"
+
+msgid "Loading zone"
+msgstr "Zona descarga"
+
+msgid "Carry"
+msgstr "Lado carga"
+
+msgid "Chute"
+msgstr "Chute"
+
+msgid "Return"
+msgstr "Lado retorno"
+
+msgid "Cleaning"
+msgstr "Limpieza"
+
+msgid "Repair"
+msgstr "Reparación"
+
+msgid "Lagging"
+msgstr "Recubrimiento"
+
+msgid "Splice"
+msgstr "Empalme"
+
+msgid "Conveyor:"
+msgstr "Transportador:"
+
+msgid "Dome"
+msgstr "Domo"
+
+msgid "Primary"
+msgstr "Primario"
+
+msgid "Trituration"
+msgstr "Trituración"
+
+msgid "Hoppers"
+msgstr "Tolvas"
+
+msgid "Secondary"
+msgstr "Secundario"
+
+msgid "Total cost"
+msgstr "Costo total"

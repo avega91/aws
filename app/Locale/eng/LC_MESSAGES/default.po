@@ -1,0 +1,5359 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-12-22 18:39+0100\n"
+"PO-Revision-Date: 2017-07-17 10:10-0500\n"
+"Last-Translator: sdfdfdsf\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 2.0.2\n"
+"Language: en\n"
+
+#: /metadata_db.php:3
+msgid "test"
+msgstr "test"
+
+#: /AccessController.php:51;128
+#, fuzzy
+msgid "session_init"
+msgstr ""
+"#-#-#-#-#  catalog.po (PROJECT VERSION)  #-#-#-#-#\n"
+"session_init\n"
+"#-#-#-#-#  catalog.po (PROJECT VERSION)  #-#-#-#-#\n"
+"Session has been started."
+
+#: /AccessController.php:76
+msgid "El usuario %s fue bloqueado por intentos de login en diferentes regiones en un periodo corto de tiempo. Verifique posible robo de credenciales."
+msgstr "The user %s was blocked due to several attempts to log in different regions in a short period of time. Check possible theft of credentials."
+
+#: /AccessController.php:122;162
+msgid "La imagen seleccionada es incorrecta."
+msgstr "The selected image is incorrect."
+
+#: /AccessController.php:198
+msgid "Usuario y/o Contrase&ntilde;a son incorrectas."
+msgstr "Username and/or Password are incorrect."
+
+#: /AdvancedController.php:75
+msgid "Visitas por pais (top 5)"
+msgstr "Visits per country (top 5)"
+
+#: /AdvancedController.php:78
+msgid "Acceso por navegador"
+msgstr "Browser"
+
+#: /AdvancedController.php:81
+msgid "Acceso por SO"
+msgstr "Operating System"
+
+#: /AdvancedController.php:85 /Conveyors/dashboard.php:17 /Helper/ContentHelper.php:975 /Helper/MenuHelper.php:365
+msgid "Transportadores"
+msgstr "Hoses"
+
+#: /AdvancedController.php:86 /Component/CoreComponent.php:257 /Advanced/index.php:50 /Helper/ContentHelper.php:999 /Helper/MenuHelper.php:367 /Users/all.php:27
+#: /Users/clients.php:17
+msgid "Clientes"
+msgstr "Customers"
+
+#: /AdvancedController.php:87 /Helper/MenuHelper.php:302
+msgid "Calculador"
+msgstr "Calculator"
+
+#: /AdvancedController.php:88 /Helper/MenuHelper.php:303 /Index/index.php:37 /News/index.php:2
+msgid "Noticias"
+msgstr "News"
+
+#: /AdvancedController.php:89 /General/help.php:2 /Helper/MenuHelper.php:349
+msgid "Ayuda"
+msgstr "Help"
+
+#: /AdvancedController.php:99
+msgid "Visitas por seccion"
+msgstr "Visits per section"
+
+#: /AjaxController.php:42
+msgid "La operacion ha sido procesada exitomente."
+msgstr "The operation was successful."
+
+#: /AjaxController.php:44
+msgid "No se ha procesado ningun cambio."
+msgstr "No changes have been processed."
+
+#: /AjaxController.php:47
+msgid "El mensaje de bienvenida no puede ir vacio"
+msgstr "The welcome message cannot be empty"
+
+#: /AjaxController.php:169
+msgid "El comentario ha sido guardado exitosamente"
+msgstr "The comment was saved successfully"
+
+#: /AjaxController.php:174
+msgid "Ocurrio un error al tratar de guardar el comentario, intentelo nuevamente"
+msgstr "An error occurred while trying to save the comment, try again"
+
+#: /AjaxController.php:177 /CompaniesController.php:134;175 /ConveyorsController.php:342;368;424;511;541;592;989;1068;1225;1264 /NewsController.php:126;185;218
+#: /NotificationsController.php:83 /UsersController.php:263;359;493;536;569;596;643
+msgid "Acceso no autorizado"
+msgstr "Unauthorized access"
+
+#: /AjaxController.php:180 /CompaniesController.php:137;178 /ConveyorsController.php:345;371;427;514;544;595;992;1071;1228;1267 /NewsController.php:129;188;221
+#: /NotificationsController.php:86 /UsersController.php:266;362;496;539;572;599;646
+msgid "Los datos proporcionados son incorrectos"
+msgstr "Data provided is incorrect"
+
+#: /CompaniesController.php:41 /Helper/ContentHelper.php:942;943;993;994
+msgid "Reactivar"
+msgstr "Reactivate"
+
+#: /CompaniesController.php:41 /Helper/ContentHelper.php:942;943;993;994
+msgid "Suspender"
+msgstr "Suspend"
+
+#: /CompaniesController.php:116
+msgid "La empresa fue reactivada exitosamente"
+msgstr "The company was reactivated successfully"
+
+#: /CompaniesController.php:119
+msgid "La empresa fue suspendida exitosamente"
+msgstr "The company was suspended successfully"
+
+#: /CompaniesController.php:127;165 /NewsController.php:175;212
+msgid "Ocurrio un problema al procesar la operacion, intentelo nuevamente"
+msgstr "Error processing operation, try again"
+
+#: /CompaniesController.php:131;172 /NewsController.php:123;215 /UsersController.php:490;533;566;593;640
+msgid "No se encontro la informacion asociada"
+msgstr "There is no information associated"
+
+#: /CompaniesController.php:158
+msgid "La empresa fue eliminada exitosamente"
+msgstr "The company was deleted successfully"
+
+#: /CompaniesController.php:162
+msgid "Desea asociar los clientes de la empresa eliminada a un nuevo distribuidor?"
+msgstr "Would you like associate the eliminated company to a new Distributor?"
+
+#: /CompaniesController.php:169
+msgid "Imposible eliminar la empresa asociada a tu usuario"
+msgstr "Unable to remove the company."
+
+#: /CompaniesController.php:215
+msgid "Los clientes han sido asociados al distribuidor %s"
+msgstr "The customers have been associated with the distributor %s"
+
+#: /CompaniesController.php:217
+msgid "Ocurrio un error al asociar el distribuidor"
+msgstr "There was an error associating Distributor."
+
+#: /ConveyorsController.php:139;235 /UsersController.php:148;286;381
+msgid "Favor de proporcionar todos los campos requeridos"
+msgstr "Please provide all required fields."
+
+#: /ConveyorsController.php:197
+msgid "La banda transportadora ha sido guardada exitosamente"
+msgstr "The hose was saved successfully."
+
+#: /ConveyorsController.php:209;332 /UsersController.php:530
+msgid "Ocurrio un error al procesar la informacion, intentelo nuevamente"
+msgstr "There was an error processing the information, try again."
+
+#: /ConveyorsController.php:212;335
+msgid "Favor de proporcionar el cliente"
+msgstr "Please provide the Customer"
+
+#: /ConveyorsController.php:321
+msgid "La banda transportadora ha sido actualizada exitosamente"
+msgstr "The hose was updated successfully."
+
+#: /ConveyorsController.php:339
+msgid "El transportador que intenta actualizar no existe"
+msgstr "The hose you are trying to update does not exist."
+
+#: /ConveyorsController.php:366
+msgid "El estatus del transportador ha sido actualizado"
+msgstr "The hose status was updated successfully."
+
+#: /ConveyorsController.php:392
+msgid "El elemento fue eliminado exitosamente"
+msgstr "The element was deleted successfully"
+
+#: /ConveyorsController.php:421
+msgid "Error, el elemento a eliminar no fue encontrado"
+msgstr "Error, the item was not found."
+
+#: /ConveyorsController.php:508;538
+msgid "Error, el elemento no fue encontrado"
+msgstr "Error, the element was not found"
+
+#: /ConveyorsController.php:584
+msgid "El elemento fue editado exitosamente"
+msgstr "The element was edited successfully."
+
+#: /ConveyorsController.php:586;1062
+msgid "Proporcione todos los campos requeridos"
+msgstr "Provide all required fields."
+
+#: /ConveyorsController.php:589 /NewsController.php:182
+msgid "Error, el elemento a editar no fue encontrado"
+msgstr "Error, the element was not found."
+
+#: /ConveyorsController.php:1022
+msgid "La imagen fue agregada exitosamente"
+msgstr "The image was saved successfully."
+
+#: /ConveyorsController.php:1026
+msgid "El video fue agregado exitosamente"
+msgstr "The video was saved successfully."
+
+#: /ConveyorsController.php:1034
+msgid "El folder fue agregado exitosamente"
+msgstr "The folder was saved successfully."
+
+#: /ConveyorsController.php:1038
+msgid "El reporte fue agregado exitosamente"
+msgstr "The report was saved successfully."
+
+#: /ConveyorsController.php:1048
+msgid "La nota fue agregada exitosamente"
+msgstr "The note was saved successfully."
+
+#: /ConveyorsController.php:1065;1222;1261
+msgid "Error al consultar elemento"
+msgstr "Failed to consult element"
+
+#: /ConveyorsController.php:1100
+msgid "Deshacer"
+msgstr "Undo"
+
+#: /ConveyorsController.php:1101
+msgid "El elemento ha sido insertado correctamente. %s"
+msgstr "The element was inserted correctly. %s"
+
+#: /ConveyorsController.php:1104
+msgid "Error al insertar elemento, intentelo nuevamente"
+msgstr "Failed to add element, try again."
+
+#: /ConveyorsController.php:1107
+msgid "Elemento y/o Folder no encontrado"
+msgstr "Element and/or Folder not found"
+
+#: /ConveyorsController.php:1136
+msgid "La operacion se deshizo correctamente"
+msgstr "The operation was undone successfully."
+
+#: /ConveyorsController.php:1139;1142
+msgid "No se pudo deshacer la operacion, intentelo nuevamente"
+msgstr "Could not undo the operation, try again."
+
+#: /ConveyorsController.php:1162
+msgid "El codigo de rastreo ha sido alterado"
+msgstr "The tracking code was altered."
+
+#: /ConveyorsController.php:1165
+msgid "No se recibio el codigo de rastreo"
+msgstr "The tracking code was not received."
+
+#: /ConveyorsController.php:1252
+msgid "Su solicitud ha sido enviada"
+msgstr "Your request was sent successfully."
+
+#: /ConveyorsController.php:1254
+msgid "Error al enviar la solicitud de cotizacion, intentelo nuevamente"
+msgstr "Failed to send request for quote, try again."
+
+#: /ConveyorsController.php:1258
+msgid "Se requiere mas informacion para calcular la banda recomendada y solicitar la cotizacion"
+msgstr "More information is required to calculate the recommended hose and request quote."
+
+#: /GeneralController.php:59
+msgid "Tu mensaje ha sido enviado"
+msgstr "Your message was sent successfully."
+
+#: /GeneralController.php:62
+msgid "Error al enviar mensaje, intentalo nuevamente"
+msgstr "Failed to send message, try again."
+
+#: /NewsController.php:96
+msgid "La noticia ha sido guardada con exito"
+msgstr "The news was saved successfully."
+
+#: /NewsController.php:98
+msgid "Ocurrio un problema al guardar la noticia, intente nuevamente"
+msgstr "There was a problem saving your news, try again."
+
+#: /NewsController.php:101;179
+msgid "Para guardar la noticia es necesario capturar al menos un idioma"
+msgstr "To save the news you need to capture at least one language."
+
+#: /NewsController.php:172
+msgid "La noticia se actualizo correctamente"
+msgstr "The news was edited successfully."
+
+#: /NewsController.php:209
+msgid "La noticia fue eliminada exitosamente"
+msgstr "The news was deleted successfully."
+
+#: /NotificationsController.php:21
+msgid "Favor de seleccionar todos los campos requeridos"
+msgstr "Please select all required fields."
+
+#: /NotificationsController.php:29
+msgid "La notificacion ha sido programada correctamente"
+msgstr "The notification was scheduled successfully."
+
+#: /NotificationsController.php:31
+msgid "Ocurrio un error al insertar la notificacion, intentelo nuevamente"
+msgstr "Failed to create the notification, try again."
+
+#: /NotificationsController.php:74
+msgid "La notificacion fue eliminada exitosamente"
+msgstr "The notification was deleted successfully."
+
+#: /NotificationsController.php:77
+msgid "Ocurrio un error al eliminar la notificacion, intentelo nuevamente"
+msgstr "Failed to delete the notification, try again."
+
+#: /NotificationsController.php:80
+msgid "Error, la notificacion a eliminar no fue encontrado"
+msgstr "Error, the notification was not found."
+
+#: /UploaderController.php:93
+msgid "Error al guardar imagen"
+msgstr "Failed to save image."
+
+#: /UploaderController.php:96
+msgid "Error al procesar imagen"
+msgstr "Failed to process image."
+
+#: /UploaderController.php:99
+msgid "Error al procesar imagen 11"
+msgstr "Failed to process image."
+
+#: /UploaderController.php:102
+msgid "El archivo no existe"
+msgstr "File does not exist."
+
+#: /UsersController.php:210
+msgid "El usuario %s se guardo exitosamente"
+msgstr "The user %s was saved successfully."
+
+msgid "La empresa %s se guardo exitosamente"
+msgstr "Company %s was saved successfully."
+
+#: /UsersController.php:217
+msgid "No se pudo insertar el usuario %s, intentelo nuevamente"
+msgstr "Failed to add user %s, try again."
+
+#: /UsersController.php:222
+msgid "Ocurrio un error al registrar la empresa %s, intentelo nuevamente"
+msgstr "There was an error registering the company %s, try again."
+
+#: /UsersController.php:222
+msgid "La empresa %s ya se encuentra registrada"
+msgstr "The company %s is already registered."
+
+#: /UsersController.php:225
+msgid "El corporativo %s ya se encuentra registrado"
+msgstr "The corporate %s is already registered."
+
+#: /UsersController.php:231;449
+msgid "El email %s no tiene un formato de correo valido"
+msgstr "The email %s is not in a valid format."
+
+#: /UsersController.php:260
+msgid "No se encontro informacion"
+msgstr "No information was found."
+
+#: /UsersController.php:305;437
+msgid "La informacion se proceso correctamente"
+msgstr "The information was processed successfully."
+
+#: /UsersController.php:307;439;443;634
+msgid "Error al procesar la informacion, intentelo nuevamente"
+msgstr "Error processing the information, try again."
+
+#: /UsersController.php:310;452
+msgid "Error, permisos insuficientes"
+msgstr "Error, insufficient credentials."
+
+#: /UsersController.php:313;316;356;455;458
+msgid "El registro no fue encontrado"
+msgstr "The register was not found"
+
+#: /UsersController.php:446
+msgid "El email %s ya se encuentra registrado"
+msgstr "The email %s is already registered."
+
+#: /UsersController.php:479
+msgid "El usuario fue reactivado exitosamente"
+msgstr "The user was reactivated successfully."
+
+#: /UsersController.php:482
+msgid "El usuario fue suspendido exitosamente"
+msgstr "The user was suspended successfully."
+
+#: /UsersController.php:517
+msgid "El usuario fue desbloqueado exitosamente"
+msgstr "The user was unlocked successfully."
+
+#: /UsersController.php:521
+msgid "El usuario fue bloqueado exitosamente"
+msgstr "The user was blocked successfully."
+
+#: /UsersController.php:560
+msgid "El usuario fue eliminado exitosamente"
+msgstr "The user was deleted successfully."
+
+#: /UsersController.php:563
+msgid "Imposible eliminar a si mismo"
+msgstr "Unable to remove himself."
+
+#: /UsersController.php:631
+msgid "La informacion ha sido actualizada exitosamente"
+msgstr "The information was updated successfully."
+
+#: /UsersController.php:637
+msgid "El username proporcionado, ya se encuentra registrado, elija uno diferente"
+msgstr "The username provided is registered, choose a different one."
+
+#: /Component/AnalyticsComponent.php:67
+msgid "Visitas en el periodo: %s"
+msgstr "Visits in the period: %s"
+
+#: /Component/AnalyticsComponent.php:68
+msgid "Nuevos visitantes %s%"
+msgstr "New visitor %s%"
+
+#: /Component/AnalyticsComponent.php:69
+msgid "Visitantes que regresan %s%"
+msgstr "Returning visitor %s%"
+
+#: /Component/CoreComponent.php:243 /Users/all.php:24
+msgid "Administradores"
+msgstr "Administrators"
+
+#: /Component/CoreComponent.php:250 /Advanced/index.php:54 /Users/all.php:26
+msgid "Distribuidores"
+msgstr "Distributors"
+
+#: /Component/JsVarsComponent.php:13
+msgid "Se ha excedido el número de archivos permitido"
+msgstr "The number of files allowed is exceeded."
+
+#: /Component/JsVarsComponent.php:14
+msgid "Tipo de archivo no permitido"
+msgstr "File type not allowed"
+
+#: /Component/JsVarsComponent.php:15
+msgid "Archivo demasiado grande"
+msgstr "File too large"
+
+#: /Component/JsVarsComponent.php:16
+msgid "Archivo demasiado pequeño"
+msgstr "File too small"
+
+#: /Component/JsVarsComponent.php:27
+msgid "Es necesario seleccionar al menos un archivo de imagen"
+msgstr "You must select at least one image."
+
+#: /Component/JsVarsComponent.php:28
+msgid "Es necesario seleccionar un archivo de video"
+msgstr "You need to select a video."
+
+#: /Component/JsVarsComponent.php:29
+msgid "new_needed_pdf"
+msgstr "You need to select a PDF."
+
+#: /Component/JsVarsComponent.php:30
+msgid "* Este campo es requerido"
+msgstr "* This field is required"
+
+#: /Component/JsVarsComponent.php:31
+msgid "* Es necesario cargar una foto de perfil"
+msgstr "* You must upload a profile photo."
+
+# EXPIRACION AUTOMATICA DE SESION
+msgid "session_expiring_msg"
+msgstr "Your session will be expire in <span id=\"sessionTimeoutCountdown\"></span> seconds.<br />.Press <b>OK</b> to renew session."
+
+#: /Component/JsVarsComponent.php:40
+msgid "session_expired_msg"
+msgstr "Your session has expired. For security reasons your session will be closed."
+
+#: /Component/JsVarsComponent.php:43
+msgid "Aviso de seguridad."
+msgstr "Security warning"
+
+#: /Component/JsVarsComponent.php:92
+msgid "Operación no encontrada"
+msgstr "Operation not found"
+
+#: /Component/JsVarsComponent.php:96
+msgid "Contiplus"
+msgstr "ContiPlus"
+
+#: /Component/JsVarsComponent.php:98
+msgid "Imagen cargada"
+msgstr "Image uploaded"
+
+#: /Component/JsVarsComponent.php:99
+msgid "La imagen seleccionada ha sido cargada"
+msgstr "The selected image was loaded successfully."
+
+#: /Component/JsVarsComponent.php:100;102
+msgid "Error"
+msgstr "Error"
+
+#: /Component/JsVarsComponent.php:101
+msgid "El tipo de archivo no es permitido, solo JPG, GIF ó PNG"
+msgstr "The file type is not allowed, only JPG, GIF or PNG."
+
+#: /Component/JsVarsComponent.php:103
+msgid "El archivo es demasiado grande, seleccione uno menor o igual a 2MB"
+msgstr "The file is too large, max. allowed 2MB"
+
+#: /Component/JsVarsComponent.php:108
+msgid "Cargando..."
+msgstr "Loading..."
+
+#: /Component/JsVarsComponent.php:109;114
+msgid "Procesando..."
+msgstr "Processing..."
+
+#: /Component/JsVarsComponent.php:110
+msgid "Espere un momento..."
+msgstr "Please wait..."
+
+#: /Component/JsVarsComponent.php:115
+msgid "La operación ha sido procesada."
+msgstr "The operation was completed successfully."
+
+#: /Component/JsVarsComponent.php:122
+msgid "Salir"
+msgstr "Leave"
+
+#: /Component/JsVarsComponent.php:123
+msgid "¿Realmente desea salir de la página actual? Se perderán todos los cambios"
+msgstr "Do you really want to leave this page? All changes will be lost."
+
+#: /Component/JsVarsComponent.php:124;130;136;142;148;154;160;167;179
+msgid "Confirmar"
+msgstr "Confirm"
+
+#: /Component/JsVarsComponent.php:125;131;137;143;149;155;161;168;174;180 /Conveyors/data_sheet.php:32 /Conveyors/item.php:29 /Conveyors/item_1.php:29
+msgid "Cancelar"
+msgstr "Cancel"
+
+#: /Component/JsVarsComponent.php:128
+msgid "Publicación de noticia"
+msgstr "Publishing news"
+
+#: /Component/JsVarsComponent.php:129
+msgid "¿Realmente desea publicar la noticia seleccionada?"
+msgstr "Do you really want to publish the selected news?"
+
+#: /Component/JsVarsComponent.php:134
+msgid "Despublicar noticia"
+msgstr "Hide news"
+
+#: /Component/JsVarsComponent.php:135
+msgid "¿Realmente desea despublicar la noticia seleccionada?"
+msgstr "Do you really want to unpublish the selected news?"
+
+#: /Component/JsVarsComponent.php:140
+msgid "Atencion!!!"
+msgstr "Warning"
+
+#: /Component/JsVarsComponent.php:141
+msgid "¿Realmente desea proceder con la accion seleccionada?"
+msgstr "Do you really want to proceed with the selected action?"
+
+#: /Component/JsVarsComponent.php:146
+msgid "Suspensión de usuario"
+msgstr "User suspension"
+
+#: /Component/JsVarsComponent.php:147
+msgid "¿Realmente desea suspender el usuario seleccionado?"
+msgstr "Do you really want to suspend the selected user?"
+
+#: /Component/JsVarsComponent.php:152
+msgid "Reactivación de usuario"
+msgstr "User reactivation"
+
+#: /Component/JsVarsComponent.php:153
+msgid "¿Realmente desea reactivar el usuario seleccionado?"
+msgstr "Do you really want to reactivate the selected user?"
+
+#: /Component/JsVarsComponent.php:158
+msgid "Eliminación de usuario"
+msgstr "User deletion"
+
+#: /Component/JsVarsComponent.php:159
+msgid "¿Realmente desea eliminar el usuario seleccionado?"
+msgstr "Do you really want to delete the selected user?"
+
+#: /Component/JsVarsComponent.php:164;171
+msgid "Eliminación de elemento"
+msgstr "Element removal"
+
+#: /Component/JsVarsComponent.php:165
+msgid "¿Realmente desea eliminar el elemento seleccionado?"
+msgstr "Do you really want to delete the selected item?"
+
+#: /Component/JsVarsComponent.php:166
+msgid "¿Realmente desea quitar el elemento de la tabla?"
+msgstr "Do you really want to remove the element from the table?"
+
+#: /Component/JsVarsComponent.php:172
+msgid "new_confirm_remove_item"
+msgstr ""
+
+#: /Component/JsVarsComponent.php:173
+msgid "new_ok_btn_dialog"
+msgstr ""
+
+#: /Component/JsVarsComponent.php:177
+msgid "Aprobar elemento"
+msgstr "Approve element"
+
+#: /Component/JsVarsComponent.php:178
+msgid "¿Realmente desea aprobar el elemento seleccionado?"
+msgstr "Do you really want to approve the selected element?"
+
+#: /Component/JsVarsComponent.php:188
+msgid "No es un archivo de imagen valido"
+msgstr "Not a valid image file"
+
+#: /Component/JsVarsComponent.php:189
+msgid "No es un archivo pdf valido"
+msgstr "Not a valid PDF file"
+
+#: /Component/JsVarsComponent.php:190
+msgid "No es un archivo de video valido"
+msgstr "Not a valid video file"
+
+#: /Component/JsVarsComponent.php:191
+msgid "No se definio la ruta donde se cargara el archivo"
+msgstr "The route where the file is uploaded is not defined"
+
+#: /Component/JsVarsComponent.php:192
+msgid "El tipo de archivo es incorrecto"
+msgstr "The file type is incorrect"
+
+#: /Component/JsVarsComponent.php:193
+msgid "Tamanio de archivo excede el minimo permitido. Maximo %s Mb"
+msgstr "File size allowed is exceeded. Maximum %s MB"
+
+#: /Component/JsVarsComponent.php:194;225
+msgid "La carga de imagenes no esta soportada para este explorador, utilice Firefox, Chrome o Safary."
+msgstr "The images loaded are not supported by this browser, please use Firefox, Chrome or Safari."
+
+#: /Component/JsVarsComponent.php:198
+msgid "Url"
+msgstr "url"
+
+#: /Component/JsVarsComponent.php:199 /Companies/reporting_history.php:151 /Conveyors/edit_item.php:23 /Conveyors/reporting_history.php:144
+msgid "Titulo"
+msgstr "Title"
+
+#: /Component/JsVarsComponent.php:200
+msgid "Abrir en"
+msgstr "Open in"
+
+#: /Component/JsVarsComponent.php:201
+msgid "Misma Ventana"
+msgstr "Same window"
+
+#: /Component/JsVarsComponent.php:202
+msgid "Nueva Ventana"
+msgstr "New window"
+
+#: /Component/JsVarsComponent.php:203
+msgid "Proporcione una url valida"
+msgstr "Provide a valid url"
+
+#: /Component/JsVarsComponent.php:204
+msgid "Negrita"
+msgstr "Bold"
+
+#: /Component/JsVarsComponent.php:205
+msgid "Cursiva"
+msgstr "Italic"
+
+#: /Component/JsVarsComponent.php:206
+msgid "Subrayado"
+msgstr "Underline"
+
+#: /Component/JsVarsComponent.php:207
+msgid "Alinear a la izquierda"
+msgstr "Align left"
+
+#: /Component/JsVarsComponent.php:208
+msgid "Alinear a la derecha"
+msgstr "Align right"
+
+#: /Component/JsVarsComponent.php:209
+msgid "Centrar texto"
+msgstr "Center text"
+
+#: /Component/JsVarsComponent.php:210
+msgid "Justificar texto"
+msgstr "Justified text"
+
+#: /Component/JsVarsComponent.php:211
+msgid "Insertar lista ordenada"
+msgstr "Insert ordered list"
+
+#: /Component/JsVarsComponent.php:212
+msgid "Insertar lista desordenada"
+msgstr "Insert unordered list"
+
+#: /Component/JsVarsComponent.php:213
+msgid "Superindice"
+msgstr "Superscript"
+
+#: /Component/JsVarsComponent.php:214
+msgid "Subindice"
+msgstr "Subscript"
+
+#: /Component/JsVarsComponent.php:215
+msgid "Tachado"
+msgstr "Stroke"
+
+#: /Component/JsVarsComponent.php:216
+msgid "Eliminar formato"
+msgstr "Remove formatting"
+
+#: /Component/JsVarsComponent.php:217
+msgid "Indentar texto"
+msgstr "Indent text"
+
+#: /Component/JsVarsComponent.php:218
+msgid "Quitar Indentacion de texto"
+msgstr "Remove text indentation"
+
+#: /Component/JsVarsComponent.php:219
+msgid "Agregar separador horizontal"
+msgstr "Add horizontal separator"
+
+#: /Component/JsVarsComponent.php:220
+msgid "Agregar link"
+msgstr "Add link"
+
+#: /Component/JsVarsComponent.php:221
+msgid "Eliminar link"
+msgstr "Remove link"
+
+#: /Component/JsVarsComponent.php:222
+msgid "Cargar imagen"
+msgstr "Upload image"
+
+#: /Component/JsVarsComponent.php:223
+msgid "Agregar imagen"
+msgstr "Add image"
+
+#: /Component/JsVarsComponent.php:224
+msgid "Procesar"
+msgstr "Process"
+
+#: /Component/MailComponent.php:34
+msgid "Nuevo mensaje de contacto de parte de: "
+msgstr "ContiPlus contact message from:"
+
+#: /Component/MailComponent.php:49
+msgid "Confirmacion automatica. Contacto Contiplus"
+msgstr "Automatic confirmation. Contact ContiPlus"
+
+#: /Component/MailComponent.php:66 /Index/index.php:15
+msgid "Bienvenido a Contiplus"
+msgstr "Welcome to Contiplus IFS"
+
+#: /Component/MailComponent.php:103
+msgid "Notificacion Contiplus"
+msgstr "ContiPlus Notification"
+
+#: /Component/NotificationsComponent.php:164
+msgid "%s de %s, agrego el transportador %s para el cliente %s"
+msgstr "%s from %s, added the buoy system %s to the customer %s."
+
+#: /Component/NotificationsComponent.php:181
+msgid "%s de %s, agrego el transportador %s"
+msgstr "%s from %s, added the buoy system %s."
+
+#: /Component/NotificationsComponent.php:196
+msgid "Se agrego un nuevo transportador con titulo %s"
+msgstr "A buoy system was added with the title %s."
+
+#: /Component/NotificationsComponent.php:259
+msgid "%s de %s, edito el transportador %s del cliente %s"
+msgstr "%s, of %s, has edited the hose %s from the Customer %s"
+
+#: /Component/NotificationsComponent.php:276
+msgid "%s de %s, edito el transportador %s"
+msgstr "%s, of %s, has edited the hose %s"
+
+#: /Component/NotificationsComponent.php:338
+msgid "%s de %s, elimino el transportador %s del cliente %s"
+msgstr "%s from %s, deleted the buoy system %s of the customer %s."
+
+#: /Component/NotificationsComponent.php:355
+msgid "%s de %s, elimino el transportador %s"
+msgstr "%s from %s, deleted the buoy system %s."
+
+#: /Component/NotificationsComponent.php:429;446
+msgid "%s de %s, "
+msgstr "%s, of %s, "
+
+#: /Component/NotificationsComponent.php:534
+msgid "%s de %s, elimino el reporte %s del cliente %s"
+msgstr "%s, of %s, has deleted the report %s from the Customer %s"
+
+#: /Component/NotificationsComponent.php:551
+msgid "%s de %s, elimino el reporte %s"
+msgstr "%s, of %s, has deleted the report %s"
+
+#: /Component/NotificationsComponent.php:607
+msgid "El distribuidor %s de %s, agrego al cliente %s"
+msgstr "The Distributor %s, of %s, has added the customer %s"
+
+#: /Component/NotificationsComponent.php:627
+msgid "El administrador %s de la region %s, agrego la empresa %s"
+msgstr "The Administrator %s from %s region added the company %s"
+
+#: /Component/NotificationsComponent.php:642
+msgid "%s de %s, agrego la empresa %s"
+msgstr "%s, from %s has added the company %s"
+
+#: /Component/NotificationsComponent.php:692
+msgid "Se agrego la noticia %s"
+msgstr "News %s added."
+
+#: /Component/NotificationsComponent.php:764
+msgid "El usuario %s de %s, fue bloqueado por %s"
+msgstr "The user %s of %s was blocked due %s"
+
+#: /Component/NotificationsComponent.php:764 @BBTO FIX
+msgid "intentos de login en diferentes regiones en un periodo corto de tiempo"
+msgstr "attempts to log in different regions in a short period of time"
+
+#: /Component/NotificationsComponent.php:764 @BBTO FIX
+msgid "intentos fallidos al proporcionar una contrasena"
+msgstr "failed attempts to provide a correct password"
+
+msgid "temporalmente por intentos fallidos al proporcionar una contrasena"
+msgstr "failed attempts to provide a correct password. User has been blocked temporarily."
+
+#: /Component/SecurityComponent.php:43
+msgid ""
+"Si proporciona una contrasena incorrecta nuevamente, su cuenta sera bloqueada por %s minutos. En caso de duda acerca de sus datos de acceso, por favor reportelo "
+"a admin@contiplus.net."
+msgstr "If you provide an incorrect password again, your account will be blocked for %s minutes. If you have doubts, please send an email to admin@contiplus.net"
+
+#: /Component/SecurityComponent.php:48
+msgid ""
+"Por seguridad, la cuenta ha sido bloqueada temporalmente. Espere %s minutos para intentar nuevamente. En caso de duda acerca de sus datos de acceso, por favor "
+"reportelo a admin@contiplus.net."
+msgstr "For safety, the account has been blocked temporarily. Please wait %s minutes and try again. If you have doubts, please report it to admin@contiplus.net"
+
+#: /Component/SecurityComponent.php:51
+msgid ""
+"Si proporciona una contrasena incorrecta nuevamente, su cuenta sera bloqueada. En caso de duda acerca de sus datos de acceso, por favor reportelo a "
+"admin@contiplus.net."
+msgstr "If you provide an incorrect password again, your account will be blocked. If you have doubts, please send an email to login.ifs@contiplus.net"
+
+#: /Component/SecurityComponent.php:54
+msgid ""
+"Por seguridad la cuenta ha sido bloqueado debido a varios intentos de acceso con una contrasena incorrecta. Por favor notifique a admin@contiplus.net para "
+"verificar sus datos y desbloquear la cuenta."
+msgstr ""
+"For safety reason, your account was blocked due to several attempts to log in with an incorrect password. Please notify login.ifs@contiplus.net to verify your "
+"details and unlock the account."
+
+#: /Component/SecurityComponent.php:59
+msgid "La contrasena proporcionada es incorrecta"
+msgstr "The password is incorrect."
+
+#: /Component/SecurityComponent.php:79
+msgid ""
+"Usuario %s fue bloqueado por intentos fallidos al proporcionar una contrasena incorrecta. Es necesario esperar %s minutos antes de intentar nuevamente. "
+"Verifique posible robo de credenciales."
+msgstr ""
+"User %s was blocked due to several attempts to log in with an incorrect password. You need to wait %s minutes before trying again. Check possible theft of "
+"credentials."
+
+#: /Component/SecurityComponent.php:82
+msgid ""
+"Usuario %s fue bloqueado por intentos fallidos al proporcionar una contrasena incorrecta. Por favor notifique a admin@contiplus.net para verificar sus datos y "
+"desbloquear la cuenta."
+msgstr ""
+"User %s was blocked due to several attempts to log in with an incorrect password. Please notify admin@contiplus.net to verify your details and unlock the "
+"account."
+
+#: /Component/SecurityComponent.php:85
+msgid "Usuario %s fue bloqueado por intentos de login en diferentes regiones en un periodo corto de tiempo. Verifique posible robo de credenciales."
+msgstr "User %s was blocked due to log in attempts in different regions in a short period of time. Check possible theft of credentials."
+
+#: /Component/SecurityComponent.php:89
+msgid ""
+"La sesion se encuentra abierta. Si desconoce la causa por la que otro usuario esta conectado con su cuenta, reportelo de inmediato a admin@contiplus.net, puede "
+"tratarse de una usurpacion de identidad."
+msgstr ""
+"The session is open. If you do not know the cause for which another user is connected to your account, report it immediately to admin@contiplus.net, it may be a "
+"usurpation of identity."
+
+#: /Component/SecurityComponent.php:92
+msgid "El usuario proporcionado es incorrecto"
+msgstr "The username is incorrect."
+
+#: /Component/TransactionsComponent.php:182;183
+msgid "Imagen principal"
+msgstr "Cover image"
+
+#: /Component/TransactionsComponent.php:241
+msgid "Video principal"
+msgstr ""
+
+#: /Access/login.php:5 /Helper/MenuHelper.php:342 /Users/access_data.php:28 /Users/add.php:19 /Users/profile.php:21
+msgid "Usuario"
+msgstr "User"
+
+msgid "Usuario_Account"
+msgstr "Account"
+
+#: /Access/login.php:9
+msgid "Contraseña"
+msgstr "Password"
+
+#: /Access/login.php:18
+msgid "Al registrarse en el sistema usted acepta los"
+msgstr "By signing up, you agree to the "
+
+#: /Access/login.php:18 @BBTO FIX
+msgid "Al iniciar la sesion, estas de acuerdo con los <br>%s y %s"
+msgstr "By signing up, you agree to the <br>%s and %s"
+
+#: /Access/login.php:18 @BBTO FIX
+msgid "Terminos de Servicio"
+msgstr "Terms of Service"
+
+#: /Access/login.php:18 @BBTO FIX
+msgid "Politica de Privacidad"
+msgstr "Privacy Policy"
+
+#: /Access/login.php:18
+msgid "Términos de Uso"
+msgstr "Terms Of Service & Privacy Policy"
+
+#: /Access/login.php:24
+msgid "¿Olvidó sus datos?"
+msgstr "Forgot your password?"
+#msgstr "Trouble to login?"
+
+#: /Access/login.php:24
+msgid "Si tiene problemas para entrar al panel, por favor repórtelo a login@contiplus.net"
+msgstr "If you have trouble to login, please send a message to <b><a href='mailto:login.ifs@contiplus.net'>login.ifs@contiplus.net</a></b>"
+#msgstr "If you have trouble getting to the panel, please report it to  <a href='mailto:login@contiplus.net'>login@contiplus.net</a>"
+
+#: /Advanced/index.php:16 /Helper/MenuHelper.php:309
+msgid "Avanzado"
+msgstr "Advanced"
+
+#: /Advanced/index.php:23
+msgid "Seguridad"
+msgstr "Security"
+
+#: /Advanced/index.php:24
+msgid "Estadisticas"
+msgstr "Statistics"
+
+#: /Advanced/index.php:25
+msgid "Historial"
+msgstr "History"
+
+#: /Advanced/index.php:42
+msgid "Transportadores totales"
+msgstr "Total hoses"
+
+#: /Advanced/index.php:46
+msgid "Usuarios registrados"
+msgstr "Registered users"
+
+#: /Advanced/index.php:58
+msgid "Visitas promedio"
+msgstr "Average visits"
+
+#: /Advanced/index.php:62
+msgid "Tiempo promedio/vista"
+msgstr "Average time per visit"
+
+#: /Advanced/index.php:83
+msgid "Empresas mas activas"
+msgstr "Most active companies"
+
+#: /Advanced/index.php:84
+msgid "Empresas menos activas"
+msgstr "Less active companies"
+
+#: /Ajax/ax_get_companies_by_type.php:3 /Helper/ContentHelper.php:468;483;494;510;526;551;701;745;804;858;889;1042 /Helper/MenuHelper.php:248
+msgid "Editar"
+msgstr "Edit"
+
+#: /Ajax/ax_get_companies_by_type.php:4
+msgid "Nuevo"
+msgstr "New"
+
+#: /Ajax/ax_get_home_msg.php:17 /Companies/assoc_clients_distributor.php:28 /Conveyors/add.php:523 /Conveyors/add_item_conveyor.php:111
+#: /Conveyors/data_sheet.php:31 /Conveyors/edit_item.php:61 /Conveyors/item.php:28 /Conveyors/item_1.php:28 /Conveyors/update.php:527 /Notifications/add.php:44
+#: /Users/access_data.php:33 /Users/add.php:114 /Users/company_profile.php:56 /Users/profile.php:139
+msgid "Guardar"
+msgstr "Save"
+
+msgid "Guardar y Cerrar"
+msgstr "Save & Close"
+
+msgid "Cerrar"
+msgstr "Close"
+
+#: /Companies/assoc_clients_distributor.php:18
+msgid "Seleccione el distribuidor al que asociara los clientes"
+msgstr "Select the Distributor associate to the Customers."
+
+#: /Companies/assoc_clients_distributor.php:23 /Companies/reporting_history.php:137 /Conveyors/add.php:40 /Conveyors/download_datasheet.php:143
+#: /Conveyors/reporting_history.php:130 /Conveyors/update.php:44 /Conveyors/view.php:50 /Helper/ContentHelper.php:1226;1234;1284;1291;1348;1376;1377
+#: /Notifications/add.php:20
+msgid "Distribuidor"
+msgstr "Distributor"
+
+#: /Companies/reporting_history.php:132 /Conveyors/reporting_history.php:125
+msgid "Generado"
+msgstr "Generated"
+
+#: /Companies/reporting_history.php:136 /Conveyors/add.php:43 /Conveyors/download_datasheet.php:142 /Conveyors/reporting_history.php:129 /Conveyors/update.php:47
+#: /Conveyors/view.php:54 /Helper/ContentHelper.php:1227;1285;1342;1371;1401 /Helper/MenuHelper.php:220;252;282;288 /Notifications/add.php:23
+msgid "Cliente"
+msgstr "Customer"
+
+#: /Companies/reporting_history.php:142 /Conveyors/conveyor_qr.php:64 /Conveyors/download_datasheet.php:148 /Conveyors/export_smartview.php:114
+#: /Conveyors/reporting_history.php:135 /Layouts/default.ctp:135 /Layouts/login.ctp:116 /Layouts/open.ctp:107
+msgid "ContiTech Mexicana, ALL RIGHTS RESERVED"
+msgstr "ContiTech AG, ALL RIGHTS RESERVED"
+
+#: /Companies/reporting_history.php:147
+msgid "Lista de reportes generados"
+msgstr "List of reports generated"
+
+#: /Companies/reporting_history.php:151 /Conveyors/reporting_history.php:144 /Conveyors/view.php:62
+msgid "Creado"
+msgstr "Created"
+
+#: /Companies/reporting_history.php:151 /Conveyors/add.php:20 /Conveyors/update.php:24 /Helper/ContentHelper.php:178;343;468 /Helper/MenuHelper.php:120
+msgid "Transportador"
+msgstr "Hose"
+
+#: /Companies/reporting_history.php:151 /Conveyors/reporting_history.php:144
+msgid "Creado por"
+msgstr "Created by"
+
+#: /Companies/reporting_history.php:163
+msgid "No se encontraron reportes generados para este cliente"
+msgstr "Not found reports for this Customer"
+
+#: /Companies/view.php:37 /Helper/ContentHelper.php:899
+msgid "Suspendida"
+msgstr "Suspended"
+
+#: /Conveyors/add.php:19 /Conveyors/update.php:23 /Conveyors/view.php:44
+msgid "Detalles"
+msgstr "Details"
+
+#: /Conveyors/add.php:21;111 /Conveyors/update.php:25;115 /Helper/ContentHelper.php:229;232;358;361;483;486 /Tools/tension_operacion_unitaria.php:21
+msgid "Tipo de tensor"
+msgstr "Take up type"
+
+#: /Conveyors/add.php:22 /Conveyors/update.php:26 /Helper/ContentHelper.php:194;368;494
+msgid "Material"
+msgstr "Material"
+
+#: /Conveyors/add.php:23 /Conveyors/update.php:27 /Helper/ContentHelper.php:212;383;510
+msgid "Banda actual"
+msgstr "Installed hose"
+
+#: /Conveyors/add.php:24 /Conveyors/update.php:28 /Helper/ContentHelper.php:251;399;526
+msgid "Poleas"
+msgstr "Pulleys"
+
+#: /Conveyors/add.php:25 /Conveyors/update.php:29 /Helper/ContentHelper.php:276;424;551
+msgid "Rodillos"
+msgstr "Idlers"
+
+#: /Conveyors/add.php:26 /Conveyors/data_sheet.php:26 /Conveyors/update.php:30
+msgid "Observaciones"
+msgstr "Remarks"
+
+#: /Conveyors/add.php:27 /Conveyors/update.php:31
+msgid "Rastreo"
+msgstr "Tracking"
+
+#: /Conveyors/add.php:33 /Conveyors/update.php:37
+msgid "Agregar imagen de transportador"
+msgstr "Add image to hose"
+
+#: /Conveyors/add.php:36 /Conveyors/update.php:40
+msgid "Numero de transportador"
+msgstr "Hose number"
+
+#: /Conveyors/add.php:48 /Conveyors/update.php:52 /Conveyors/view.php:46
+msgid "Perfil transportador"
+msgstr "Profile of hose"
+
+#: /Conveyors/add.php:51;142;184;190;198;204;212;218;226;255;262;334;449;457;463;471;499
+#: /Conveyors/update.php:55;146;188;194;202;208;216;222;230;259;266;338;453;461;467;475;503
+msgid "Seleccione"
+msgstr "Select"
+
+#: /Conveyors/add.php:60 /Conveyors/update.php:64 /Helper/ContentHelper.php:181;346;471
+msgid "Distancia entre centros (m)"
+msgstr "Conveying length (ft)"
+
+#: /Conveyors/add.php:65 /Conveyors/update.php:69 /Helper/ContentHelper.php:185;350;475
+msgid "RPM motor"
+msgstr "Drive frequency (rpm)"
+
+#: /Conveyors/add.php:72 /Conveyors/update.php:76 /Helper/ContentHelper.php:182;347;472
+msgid "Elevacion (m)"
+msgstr "Lift (ft)"
+
+#: /Conveyors/add.php:77 /Conveyors/update.php:81 /Helper/ContentHelper.php:186;351;476
+msgid "Angulo de inclinación (°)"
+msgstr "Angle (°)"
+
+msgid "Angulo de inclinacion (°)"
+msgstr "Angle (°)"
+
+#: /Conveyors/add.php:84 /Conveyors/update.php:88 /Helper/ContentHelper.php:183;348;473
+msgid "HP Motor"
+msgstr "Drive Power (hp)"
+
+#: /Conveyors/add.php:89 /Conveyors/update.php:93 /Helper/ContentHelper.php:187;352;477
+msgid "Capacidad (t/h)"
+msgstr "Conveying capacity (stph)"
+
+#: /Conveyors/add.php:96 /Conveyors/update.php:100 /Helper/ContentHelper.php:184;349;474
+msgid "Relacion reductor"
+msgstr "Gear ratio"
+
+#: /Conveyors/add.php:101 /Conveyors/update.php:105 /Helper/ContentHelper.php:188;353;478
+msgid "Carga (percent)"
+msgstr "Percent load (%)"
+
+#: /Conveyors/add.php:114 /Conveyors/update.php:118 /Tools/tension_operacion_unitaria.php:22;26
+msgid "Seleccione tipo"
+msgstr "Select"
+
+#: /Conveyors/add.php:117 /Conveyors/update.php:121 /Helper/ContentHelper.php:234;363;488
+msgid "Carrera (m)"
+msgstr "Take up travel (ft)"
+
+#: /Conveyors/add.php:125 /Conveyors/update.php:129 /Helper/ContentHelper.php:233;362;487
+msgid "Peso estimado (lbs)"
+msgstr "Estimated weight (lb)"
+
+#: /Conveyors/add.php:139 /Conveyors/add_item_conveyor.php:41;55;79 /Conveyors/edit_item.php:33 /Conveyors/update.php:143 /Helper/ContentHelper.php:197;371;497
+msgid "Descripcion"
+msgstr "Description"
+
+#: /Conveyors/add.php:145 /Conveyors/update.php:149 /Helper/ContentHelper.php:198;372;498
+msgid "Densidad material"
+msgstr "Bulk density (lb/ft3)"
+
+#: /Conveyors/add.php:153 /Conveyors/update.php:157 /Helper/ContentHelper.php:199;373;499
+msgid "Tamano max terron"
+msgstr "Lump size (in)"
+
+#: /Conveyors/add.php:159 /Conveyors/update.php:163 /Helper/ContentHelper.php:200;374;500
+msgid "Temperatura"
+msgstr "Temperature (°F)"
+
+msgid "Temperatura Reading"
+msgstr "Temperature"
+
+#: /Conveyors/add.php:167 /Conveyors/update.php:171 /Helper/ContentHelper.php:201;375;501
+msgid "Altura de caida"
+msgstr "Chute drop (ft)"
+
+#: /Conveyors/add.php:173 /Conveyors/update.php:177 /Helper/ContentHelper.php:202;376;502
+msgid "Finos"
+msgstr "Contingent of fines (%)"
+
+#: /Conveyors/add.php:181 /Conveyors/update.php:185
+msgid "Material transportado"
+msgstr "Material conveyed"
+
+#: /Conveyors/add.php:187 /Conveyors/update.php:191
+msgid "Condiciones de alimentacion"
+msgstr "Feeding conditions"
+
+#: /Conveyors/add.php:195 /Conveyors/update.php:199
+msgid "Condiciones de carga"
+msgstr "Loading conditions"
+
+#: /Conveyors/add.php:201 /Conveyors/update.php:205
+msgid "Frecuencia de carga"
+msgstr "Loading frequency"
+
+#: /Conveyors/add.php:209 /Conveyors/update.php:213
+msgid "Tamanio granular"
+msgstr "Granular size"
+
+#: /Conveyors/add.php:215 /Conveyors/update.php:219
+msgid "Tipo densidad"
+msgstr "Density type"
+
+#: /Conveyors/add.php:223 /Conveyors/update.php:227
+msgid "Agresividad"
+msgstr "Aggresivity"
+
+#: /Conveyors/add.php:238;317;345;359;373;387;401;415;429 /Conveyors/update.php:242;321;349;363;377;391;405;419;433
+#: /Helper/ContentHelper.php:215;255;259;261;263;265;267;269;271;386;403;407;409;411;413;415;417;419;513;530;534;536;538;540;542;544;546
+msgid "Ancho (plg)"
+msgstr "Width (in)"
+
+#: /Conveyors/add.php:244 /Conveyors/update.php:248 /Helper/ContentHelper.php:216;387;514
+msgid "Tension Banda"
+msgstr "Rating (PIW)"
+
+#: /Conveyors/add.php:252 /Conveyors/update.php:256 /Helper/ContentHelper.php:217;388;515
+msgid "Espesor cubierta superior"
+msgstr "Top cover"
+
+#: /Conveyors/add.php:259 /Conveyors/update.php:263 /Helper/ContentHelper.php:218;389;516
+msgid "Espesor cubierta inferior"
+msgstr "Bottom cover"
+
+#: /Conveyors/add.php:267 /Conveyors/update.php:271 /Helper/ContentHelper.php:220;391;518
+msgid "Fecha de instalacion"
+msgstr "Installation date"
+
+#: /Conveyors/add.php:273 /Conveyors/update.php:278 /Helper/ContentHelper.php:221;392;519
+msgid "Marca"
+msgstr "Brand"
+
+#: /Conveyors/add.php:281 /Conveyors/update.php:286 /Helper/ContentHelper.php:222;393;520
+msgid "Desarrollo total"
+msgstr "Length (ft)"
+
+#: /Conveyors/add.php:287 /Conveyors/update.php:292
+msgid "Operacion hrs por anio"
+msgstr "Operating hours per year"
+
+#: /Conveyors/add.php:295 /Conveyors/update.php:300 /Helper/ContentHelper.php:219;390;517
+msgid "Velocidad banda"
+msgstr "Speed (ft/min)"
+
+#: /Conveyors/add.php:311 /Conveyors/update.php:315 /Helper/ContentHelper.php:254;402;529
+msgid "Polea motriz"
+msgstr "Drive pulley Ø (in)"
+
+#: /Conveyors/add.php:325 /Conveyors/update.php:329 /Helper/ContentHelper.php:256;404;531
+msgid "Recubrimiento (plg)"
+msgstr "Lagging (in)"
+
+#: /Conveyors/add.php:331 /Conveyors/update.php:335 /Helper/ContentHelper.php:257;405;532
+msgid "Arco de contacto"
+msgstr "Angle of wrap (°)"
+
+#: /Conveyors/add.php:339 /Conveyors/update.php:343 /Helper/ContentHelper.php:258;406;533
+msgid "Polea de cabeza"
+msgstr "Head pulley Ø (in)"
+
+#: /Conveyors/add.php:353 /Conveyors/update.php:357 /Helper/ContentHelper.php:260;408;535
+msgid "Polea de cola"
+msgstr "Tail pulley Ø (in)"
+
+#: /Conveyors/add.php:367 /Conveyors/update.php:371 /Helper/ContentHelper.php:262;410;537
+msgid "Polea de contacto"
+msgstr "Snub pulley Ø (in)"
+
+#: /Conveyors/add.php:381 /Conveyors/update.php:385 /Helper/ContentHelper.php:264;412;539
+msgid "Polea de doblez"
+msgstr "Bend pulley Ø (in)"
+
+#: /Conveyors/add.php:395 /Conveyors/update.php:399 /Helper/ContentHelper.php:266;414;541
+msgid "Polea tensora"
+msgstr "Take up pulley Ø (in)"
+
+#: /Conveyors/add.php:409 /Conveyors/update.php:413 /Helper/ContentHelper.php:268;416;543
+msgid "Polea adicional1"
+msgstr "Additional pulley 1 Ø (in)"
+
+#: /Conveyors/add.php:423 /Conveyors/update.php:427 /Helper/ContentHelper.php:270;418;545
+msgid "Polea adicional2"
+msgstr "Additional pulley 2 Ø (in)"
+
+#: /Conveyors/add.php:440 /Conveyors/update.php:444 /Helper/ContentHelper.php:279;427;554
+msgid "Impacto Ø (plg)"
+msgstr "Impact Ø (in)"
+
+#: /Conveyors/add.php:446 /Conveyors/update.php:450 /Helper/ContentHelper.php:280;428;555
+msgid "Impacto (°)"
+msgstr "Impact (°)"
+
+#: /Conveyors/add.php:454 /Conveyors/update.php:458 /Helper/ContentHelper.php:281;429;556
+msgid "Carga Ø (plg)"
+msgstr "Carry Ø (in)"
+
+#: /Conveyors/add.php:460 /Conveyors/update.php:464 /Helper/ContentHelper.php:282;430;557
+msgid "Carga (°)"
+msgstr "Angle carry (°)"
+
+#: /Conveyors/add.php:468 /Conveyors/update.php:472 /Helper/ContentHelper.php:283;431;558
+msgid "Retorno Ø (plg)"
+msgstr "Return Ø (in)"
+
+#: /Conveyors/add.php:474 /Conveyors/update.php:478 /Helper/ContentHelper.php:284;432;559
+msgid "Retorno (°)"
+msgstr "Angle return (°)"
+
+#: /Conveyors/add.php:482 /Conveyors/update.php:486 /Helper/ContentHelper.php:285;433;560
+msgid "Espacio(LC) (m)"
+msgstr "Top run spacing (ft)"
+
+#: /Conveyors/add.php:488 /Conveyors/update.php:492 /Helper/ContentHelper.php:286;434;561
+msgid "Espacio(LR) (m)"
+msgstr "Return run spacing (ft)"
+
+#: /Conveyors/add.php:496 /Conveyors/update.php:500
+msgid "Partes por artesa"
+msgstr "Part troughing"
+
+#: /Conveyors/add.php:516 /Conveyors/update.php:520
+msgid "Codigo de rastreo"
+msgstr "Tracking code"
+
+#: /Conveyors/add.php:520 /Conveyors/update.php:524
+msgid "Anterior"
+msgstr "Previous"
+
+#: /Conveyors/add.php:520 /Conveyors/update.php:524
+msgid "Siguiente"
+msgstr "Next"
+
+#: /Conveyors/add_item_conveyor.php:33
+msgid "Agregar imagen a transportador"
+msgstr "Add image to hose"
+
+#: /Conveyors/add_item_conveyor.php:35
+msgid "Titulo imagen"
+msgstr "Image title"
+
+#: /Conveyors/add_item_conveyor.php:48
+msgid "Agregar video a transportador"
+msgstr "Add video to hose"
+
+msgid "supported_files_videos"
+msgstr "Supported formats: .MOV, .MP4, .MPEG, .WMV. Max. 100 MB"
+
+#: /Conveyors/add_item_conveyor.php:50
+msgid "Titulo video"
+msgstr "Video title"
+
+#: /Conveyors/add_item_conveyor.php:63
+msgid "Titulo carpeta"
+msgstr "Folder title"
+
+#: /Conveyors/add_item_conveyor.php:73
+msgid "Titulo reporte"
+msgstr "Report title"
+
+#: /Conveyors/add_item_conveyor.php:83
+msgid "Cargar pdf de reporte"
+msgstr "Upload report in PDF"
+
+#: /Conveyors/add_item_conveyor.php:83
+msgid "Desde PDF"
+msgstr "Upload PDF"
+
+#: /Conveyors/add_item_conveyor.php:95 /Helper/ContentHelper.php:635
+msgid "Nota"
+msgstr "Note"
+
+#: /Conveyors/add_item_conveyor.php:101 /Conveyors/edit_item.php:46
+msgid "Agregar nota"
+msgstr "Add note"
+
+#: /Conveyors/conveyor_qr.php:69 /Helper/ContentHelper.php:750
+msgid "Ficha tecnica"
+msgstr "Technical data"
+
+#: /Conveyors/conveyor_qr.php:75
+msgid ""
+"Para leer el codigo QR utilice la aplicacion movil de su preferencia. Si no cuenta con una, descarguela desde la tienda de aplicaciones disponible en su "
+"telefono inteligente."
+msgstr "To read the QR code please use a mobile application. If you do not have one, download it from the app store available on your smart phone."
+
+#: /Conveyors/data_sheet.php:30 /Conveyors/item.php:27 /Conveyors/item_1.php:27
+msgid "Agregar comentario"
+msgstr "Add comment"
+
+#: /Conveyors/download_datasheet.php:126
+msgid "Ficha tecnica transportador"
+msgstr "Technical data of hose"
+
+#: /Conveyors/download_datasheet.php:138
+msgid "Ultima modificacion"
+msgstr "Last edited"
+
+#: /Conveyors/export_smartview.php:123 /Helper/ContentHelper.php:577
+msgid "Fotos"
+msgstr "Photos"
+
+#: /Conveyors/export_smartview.php:124 /Helper/ContentHelper.php:578
+msgid "Videos"
+msgstr "Videos"
+
+#: /Conveyors/life_estimation.php:23
+msgid "Vida estimada en meses"
+msgstr "Lifetime estimated in years"
+
+#: /Conveyors/life_estimation.php:24
+msgid "%s meses"
+msgstr "%s years"
+
+#: /Conveyors/life_estimation.php:25
+msgid "Tonelaje esperado en MMt (MM: Million)"
+msgstr "Expected tonnage in Mio/ton"
+
+#: /Conveyors/life_estimation.php:26
+msgid "%s toneladas"
+msgstr "%s Mio/ton"
+
+#: /Conveyors/life_estimation.php:27
+msgid "Fecha aproximada de cambio"
+msgstr "Approximate date of change"
+
+#: /Conveyors/life_estimation.php:39 /Conveyors/view.php:41 /Helper/ContentHelper.php:304
+msgid "Banda recomendada"
+msgstr "Recommended hose"
+
+#: /Conveyors/life_estimation.php:42;64
+msgid ""
+"El calculo de tension y espesor de banda esta basado en las especificaciones contenidas en la norma DIN 22101. No constituye ninguna garantia de calidad, no "
+"respondemos por danos y perjuicios que pudieran producirse del resultado de este calculo, sea cual fuera su motivo o causa jurídica."
+msgstr ""
+"The calculation of tension and hose thickness are based on the specifications contained in DIN 22101. There is no guarantee of quality, we do not answer for "
+"damages that may occur from the result of this calculation, whatever their reason or legal cause."
+
+#: /Conveyors/life_estimation.php:49
+msgid "No se cuenta con informacion suficiente para realizar el calculo"
+msgstr "There is not enough information to show the calculation."
+
+#: /Conveyors/life_estimation.php:50
+msgid "Banda recomendada en PIW"
+msgstr "Recommended host in PIW"
+
+#: /Conveyors/life_estimation.php:52
+msgid "Banda recomendada en N/mm"
+msgstr "Recommended host in N/mm"
+
+#: /Conveyors/life_estimation.php:58
+msgid "Solicitar cotizacion"
+msgstr "Request quote"
+
+#: /Conveyors/life_estimation.php:61 /Helper/ContentHelper.php:294
+msgid "Vida estimada"
+msgstr "Estimated life"
+
+#: /Conveyors/reporting_history.php:140
+msgid "Lista de reportes transportador"
+msgstr "Reports list"
+
+#: /Conveyors/reporting_history.php:155
+msgid "No se encontraron reportes generados para este transportador"
+msgstr "Reports not found for this hose."
+
+#: /Conveyors/view.php:40
+msgid "Tiempo de vida"
+msgstr "Lifetime"
+
+#: /Conveyors/view.php:42
+msgid "Rastreo de banda"
+msgstr "Tracking hose"
+
+#: /Conveyors/view.php:58
+msgid "Modificado"
+msgstr "Edited"
+
+#: /General/contact.php:19
+msgid "El siguiente formulario nos permitira responder a sus dudas tan rapido como sea posible"
+msgstr "The form bellow will allow us to answer your questions as quickly as possible."
+
+#: /General/contact.php:21
+msgid "Dirigido a"
+msgstr "Send to"
+
+#: /General/contact.php:35 /Helper/ContentHelper.php:1249;1306 /Users/profile.php:60
+msgid "Region"
+msgstr "Territory"
+
+#: /General/contact.php:40 /Notifications/add.php:36
+msgid "Mensaje"
+msgstr "Message"
+
+#: /General/contact.php:46
+msgid "Enviar"
+msgstr "Send"
+
+#: /General/contact.php:50
+msgid "Si su solicitud es exclusivamente sobre la plataforma Contiplus, puede contactarnos al correo admin@contiplus.net"
+msgstr "If your request is about ContiPlus, you can contact us at admin@contiplus.net"
+
+#: /General/help.php:7
+msgid "Preguntas frecuentes"
+msgstr "Frequently asked questions"
+
+#: /General/help.php:8
+msgid "Generales"
+msgstr "Generals"
+
+#: /General/help.php:9;74
+msgid "Tareas comunes"
+msgstr "Common tasks"
+
+#: /General/help.php:10;78
+msgid "Tareas avanzadas"
+msgstr "Advanced tasks"
+
+#: /General/help.php:11;82
+msgid "Glosario de iconos"
+msgstr "Icons glossary"
+
+#: /General/privacy.php:2
+msgid "Politica de privacidad"
+msgstr "Privacy Policy"
+
+#: /General/terms.php:2
+msgid "Terminos del servicio"
+msgstr "Terms of Service"
+
+#: /Component/AccessController.php:764 @BBTO FIX
+msgid "captcha_disclaimer"
+msgstr "Please select: "
+
+#: /Helper/ContentHelper.php:37
+msgid "Desde %s, %s"
+msgstr "From %s, %s"
+
+#: /Helper/ContentHelper.php:38;110 /Helper/MenuHelper.php:119 /Users/add.php:18 /Users/profile.php:20
+msgid "Empresa"
+msgstr "Company"
+
+#: /Helper/ContentHelper.php:39;111;237;974;996 /Helper/MenuHelper.php:348
+msgid "Perfil"
+msgstr "Profile"
+
+#: /Helper/ContentHelper.php:47
+msgid "Agrego"
+msgstr "Added"
+
+#: /Helper/ContentHelper.php:48
+msgid "Actualizo"
+msgstr "Updated"
+
+#: /Helper/ContentHelper.php:49
+msgid "Elimino"
+msgstr "Deleted"
+
+#: /Helper/ContentHelper.php:56
+msgid "Inicio session en el sistema a las %s"
+msgstr "Log into the system at %s"
+
+#: /Helper/ContentHelper.php:58
+msgid "Trato de iniciar session en el sistema a las %s"
+msgstr "Tried to login into the system at %s"
+
+#: /Helper/ContentHelper.php:64
+msgid " el transportador %s a las %s"
+msgstr " the hose %s at %s"
+
+#: /Helper/ContentHelper.php:67
+msgid " la imagen %s a las %s"
+msgstr " the image %s at %s"
+
+#: /Helper/ContentHelper.php:70
+msgid " el video %s a las %s"
+msgstr " the video %s at %s"
+
+#: /Helper/ContentHelper.php:73
+msgid " el reporte %s a las %s"
+msgstr " the report %s at %s"
+
+#: /Helper/ContentHelper.php:76
+msgid " el folder %s a las %s"
+msgstr " the folder %s at %s"
+
+#: /Helper/ContentHelper.php:79
+msgid " la nota %s a las %s"
+msgstr " the note %s at %s"
+
+msgid " la empresa %s a las %s"
+msgstr " the company %s at %s"
+
+#: /Helper/ContentHelper.php:91;128;1008
+msgid "No se encontraron resultados"
+msgstr "Result not found"
+
+#: /Helper/ContentHelper.php:109
+msgid "Ultimo login %s, %s"
+msgstr "Last login %s, %s"
+
+#: /Helper/ContentHelper.php:114;115
+msgid "Usuario desbloqueado"
+msgstr "User unlocked"
+
+#: /Helper/ContentHelper.php:114;115
+msgid "Desbloquear usuario"
+msgstr "Unlock user"
+
+#: /Helper/ContentHelper.php:203
+msgid "Grado Material"
+msgstr "Material conveyed"
+
+#: /Helper/ContentHelper.php:204;378;504
+msgid "Condicion alimentacion"
+msgstr "Feeding conditions"
+
+#: /Helper/ContentHelper.php:223;394;521
+msgid "Operacion hrs"
+msgstr "Operating hours"
+
+#: /Helper/ContentHelper.php:297
+msgid "En meses"
+msgstr "Lifetime in years"
+
+#: /Helper/ContentHelper.php:298
+msgid "En toneladas"
+msgstr "Lifetime in Mio/ton"
+
+#: /Helper/ContentHelper.php:299
+msgid "Cambio aproximado"
+msgstr "Approximate change"
+
+#: /Helper/ContentHelper.php:377;503
+msgid "Grado material"
+msgstr "Material grade"
+
+#: /Helper/ContentHelper.php:632;730
+msgid "Foto"
+msgstr "Photo"
+
+#: /Helper/ContentHelper.php:633;731
+msgid "Video"
+msgstr "Video"
+
+#: /Helper/ContentHelper.php:634;732
+msgid "Reporte"
+msgstr "Report"
+
+#: /Helper/ContentHelper.php:644
+msgid "Smart View"
+msgstr "Smart view"
+
+#: /Helper/ContentHelper.php:645
+msgid "Genera reporte a partir de los elementos del folder"
+msgstr "Report generated from the folder elements"
+
+#: /Helper/ContentHelper.php:665;771
+msgid "Realmente desea eliminar la imagen seleccionada"
+msgstr "Do you really want to delete the selected image?"
+
+#: /Helper/ContentHelper.php:674;781
+msgid "Realmente desea eliminar el video seleccionado"
+msgstr "Do you really want to delete the selected video?"
+
+#: /Helper/ContentHelper.php:683;790
+msgid "Realmente desea eliminar el folder seleccionado. Los elementos en el folder seran inaccesibles"
+msgstr "Are you sure you want to delete the selected folder? The items contained will be deleted too."
+
+#: /Helper/ContentHelper.php:687;795
+msgid "Realmente desea eliminar el reporte seleccionado"
+msgstr "Do you really want to delete the selected report?"
+
+#: /Helper/ContentHelper.php:692
+msgid "Realmente desea eliminar la nota seleccionada"
+msgstr "Do you really want to delete the selected note?"
+
+#: /Helper/ContentHelper.php:702;806;859;890;950;1002;1043 /Helper/MenuHelper.php:26;249
+msgid "Eliminar"
+msgstr "Delete"
+
+#: /Helper/ContentHelper.php:711;751;814;866
+msgid "Ultima edicion"
+msgstr "Last edition"
+
+#: /Helper/ContentHelper.php:733
+msgid "Folder"
+msgstr "Folder"
+
+msgid "folder_anio"
+msgstr "Folder year"
+
+#: /Helper/ContentHelper.php:746 /Helper/MenuHelper.php:284;290
+msgid "Generar PDF"
+msgstr "Create PDF"
+
+#: /Helper/ContentHelper.php:825
+msgid "Agregar transportador"
+msgstr "Add hose"
+
+#: /Helper/ContentHelper.php:841
+msgid "Operando"
+msgstr "Running"
+
+#: /Helper/ContentHelper.php:842
+msgid "Mantenimiento"
+msgstr "Maintenance"
+
+#: /Helper/ContentHelper.php:843
+msgid "Fuera de servicio"
+msgstr "Out of service"
+
+#: /Helper/ContentHelper.php:856
+msgid "Realmente desea eliminar la banda seleccionada"
+msgstr "Do you really want to delete the selected hose?"
+
+#: /Helper/ContentHelper.php:878
+msgid "Agregar cliente"
+msgstr "Add customer"
+
+#: /Helper/ContentHelper.php:897
+msgid "Registrado"
+msgstr "Registered"
+
+#: /Helper/ContentHelper.php:947
+msgid "Ver Perfil"
+msgstr "View profile"
+
+#: /Helper/ContentHelper.php:948 /Users/access_data.php:22 /Users/add.php:102
+msgid "Contrasena"
+msgstr "Password"
+
+#: /Helper/ContentHelper.php:989
+msgid "Agregar colaborador"
+msgstr "Add collaborator"
+
+#: /Helper/ContentHelper.php:997
+msgid "Colaboradores"
+msgstr "Collaborators"
+
+#: /Helper/ContentHelper.php:1043
+msgid "Realmente desea eliminar la noticia seleccionada"
+msgstr "Do you really want to delete the selected news?"
+
+#: /Helper/ContentHelper.php:1223;1282;1341;1370
+msgid "Tipo de usuario"
+msgstr "Type of user"
+
+#: /Helper/ContentHelper.php:1225
+msgid "Administrador"
+msgstr "Administrator"
+
+#: /Helper/MenuHelper.php:23
+msgid "Enviada"
+msgstr "Submitted"
+
+#: /Helper/MenuHelper.php:25
+msgid "Realmente desea eliminar la notificacion seleccionada?"
+msgstr "Do you really want to delete the selected notification?"
+
+#: /Helper/MenuHelper.php:33
+msgid "Para: %s"
+msgstr "To: %s"
+
+#: /Helper/MenuHelper.php:35
+msgid "Creada por: %s en %s"
+msgstr "Created by: %s in %s"
+
+#: /Helper/MenuHelper.php:101
+msgid "No se encontraron notificaciones"
+msgstr "No recent history data"
+
+#: /Helper/MenuHelper.php:117
+msgid "Nuevo elemento"
+msgstr "New element"
+
+#: /Helper/MenuHelper.php:121
+msgid "Noticia"
+msgstr "News"
+
+#: /Helper/MenuHelper.php:122
+msgid "Notificación"
+msgstr "Notification"
+
+#: /Helper/MenuHelper.php:132;150;185;222
+msgid "Ordenar por"
+msgstr "Sort by"
+
+#: /Helper/MenuHelper.php:133;138 /Users/profile.php:81
+msgid "Nombre"
+msgstr "Name"
+
+#: /Helper/MenuHelper.php:137;151;155;186;190;223;227 /Notifications/add.php:26
+msgid "Fecha"
+msgstr "Date"
+
+#: /Helper/MenuHelper.php:142;161;196;233;275
+msgid "Buscar"
+msgstr "Search"
+
+#: /Helper/MenuHelper.php:156;191;228
+msgid "Numero"
+msgstr "Number"
+
+#: /Helper/MenuHelper.php:157;192;229
+msgid "Estatus"
+msgstr "Status"
+
+#: /Helper/MenuHelper.php:178
+msgid "Ver historial de reportes"
+msgstr "View history of reports"
+
+msgid "Lista de transportadores"
+msgstr "List of hoses"
+
+#: /Helper/MenuHelper.php:179
+msgid "Editar empresa"
+msgstr "Edit company"
+
+#: /Helper/MenuHelper.php:181
+msgid "Eliminar empresa"
+msgstr "Delete company"
+
+#: /Helper/MenuHelper.php:213
+msgid "Generar codigo QR"
+msgstr "Generate QR code"
+
+#: /Helper/MenuHelper.php:214
+msgid "Ver lista de reportes"
+msgstr "View list of reports"
+
+#: /Helper/MenuHelper.php:214
+msgid "Reporte general"
+msgstr "General report"
+
+#: /Helper/MenuHelper.php:215
+msgid "Descargar reportes"
+msgstr "Download reports"
+
+#: /Helper/MenuHelper.php:216
+msgid "Editar transportador"
+msgstr "Edit hose"
+
+#: /Helper/MenuHelper.php:217
+msgid "Realmente desea eliminar el transportador seleccionado"
+msgstr "Do you really want to delete the selected hose?"
+
+#: /Helper/MenuHelper.php:217
+msgid "Eliminar transportador"
+msgstr "Delete hose"
+
+#: /Helper/MenuHelper.php:249
+msgid "Realmente desea eliminar el elemento seleccionado"
+msgstr "Do you really want to delete the selected element?"
+
+#: /Helper/MenuHelper.php:264
+msgid "security_filter_date"
+msgstr ""
+
+#: /Helper/MenuHelper.php:306 /Users/all.php:16
+msgid "Usuarios"
+msgstr "Users"
+
+#: /Helper/MenuHelper.php:328 /Layouts/login.ctp:98 /News/add.php:19 /News/update.php:24
+msgid "Espanol"
+msgstr "Spanish"
+
+#: /Helper/MenuHelper.php:329 /Layouts/login.ctp:99 /News/add.php:18 /News/update.php:23
+msgid "Ingles"
+msgstr "English"
+
+#: /Helper/MenuHelper.php:334
+msgid "Enviar mensaje de contacto"
+msgstr "Send message to contact"
+
+#: /Helper/MenuHelper.php:337
+msgid "Ver notificaciones"
+msgstr "View notifications"
+
+#: /Helper/MenuHelper.php:350
+msgid "Terminos"
+msgstr "Terms"
+
+#: /Helper/MenuHelper.php:351
+msgid "Cerrar Sesión"
+msgstr "Log out"
+
+#: /Index/index.php:24
+msgid "Calculador de bandas"
+msgstr "Calculator"
+
+#: /Index/index.php:28 /Tools/tension_operacion_unitaria.php:2
+msgid "Tension de operacion unitaria"
+msgstr "Tension of unit operation"
+
+#: /Layouts/default.ctp:104
+msgid "Notificaciones via email"
+msgstr "Email notifications"
+
+#: /Layouts/letter.ctp:93
+msgid "ContiTech AG, ALL RIGHTS RESERVED"
+msgstr "ContiTech, ALL RIGHTS RESERVED"
+
+#: /News/add.php:21 /News/update.php:26
+msgid "Agregar imagen de portada"
+msgstr "Add cover image"
+
+#: /News/add.php:26
+msgid "Proporcione el texto de la noticia"
+msgstr "Provide the text of the news"
+
+#: /News/add.php:37 /News/update.php:43
+msgid "Publicar"
+msgstr "Publish"
+
+#: /News/ax_get_news_info.php:6
+msgid "La noticia no fue encontrada"
+msgstr "The news was not found."
+
+#: /Notifications/add.php:39
+msgid "Enviar copia via email"
+msgstr "Send copy via email"
+
+#: /Notifications/refresh.php:19
+msgid "Mis notificaciones"
+msgstr "My notifications"
+
+#: /Notifications/refresh.php:21
+msgid "Programadas"
+msgstr "Scheduled"
+
+#: /Tools/tension_operacion_unitaria.php:5
+msgid "Potencia de motor (HP)"
+msgstr "Drive power (HP)"
+
+#: /Tools/tension_operacion_unitaria.php:9
+msgid "Ancho de banda (Pulg.)"
+msgstr "Hose width (in)"
+
+#: /Tools/tension_operacion_unitaria.php:13
+msgid "Velocidad de bandas (pies/min)"
+msgstr "Speed (ft/min)"
+
+#: /Tools/tension_operacion_unitaria.php:17
+msgid "Angulo de contacto"
+msgstr "Angle of wrap"
+
+#: /Tools/tension_operacion_unitaria.php:18
+msgid "Seleccione angulo"
+msgstr "Select"
+
+#: /Tools/tension_operacion_unitaria.php:25
+msgid "Tipo de polea"
+msgstr "Type of pulley"
+
+#: /Tools/tension_operacion_unitaria.php:33
+msgid ""
+"* Calculo metodo corto, para fines informativos, no incluye ni constituye de forma tacita ni expresa ninguna clase de garantia. Si requiere mayor informacion "
+"contacte a personal tecnico "
+msgstr ""
+"* Short hose tension calculation method, just for approximate information purposes and does not include or constitute any kind of warranty.  Tension value will "
+"overestimate the actual hose tension since it assumes that the motor is running at 100 percent.  If you need more information, please contact our ContiTech "
+"technical staff."
+
+#: /Users/access_data.php:25 /Users/add.php:105
+msgid "Generar contrasena"
+msgstr "Generate"
+
+msgid "Click this button for generating a secure password"
+msgstr "Click this button for generating a secure password"
+
+#: /Users/add.php:24
+msgid "Agregar logo de empresa"
+msgstr "Add company logo"
+
+#: /Users/add.php:28
+msgid "Empresa o Planta"
+msgstr "Company or Plant"
+
+#: /Users/add.php:32
+msgid "Corporativo"
+msgstr "Corporate"
+
+#: /Users/add.php:35
+msgid "Pais"
+msgstr "Country"
+
+#: /Users/add.php:40
+msgid "Estado"
+msgstr "State"
+
+#: /Users/add.php:45 /Users/company_profile.php:51 /Users/profile.php:56
+msgid "Ciudad"
+msgstr "City"
+
+#: /Users/add.php:48
+msgid "Domicilio"
+msgstr "Address"
+
+#: /Users/add.php:53
+msgid "Agregar foto de usuario"
+msgstr "Add user photo"
+
+#: /Users/add.php:56
+msgid "Nombre completo"
+msgstr "Full name"
+
+#: /Users/add.php:59 /Users/profile.php:90
+msgid "Email"
+msgstr "Email"
+
+#: /Users/add.php:62 /Users/profile.php:94
+msgid "Telefono"
+msgstr "Telephone"
+
+#: /Users/add.php:65 /Users/profile.php:85
+msgid "Puesto"
+msgstr "Role"
+
+#: /Users/add.php:68
+msgid "No. empleado"
+msgstr "Employee number"
+
+#: /Users/add.php:71
+msgid "Unidad de Negocio"
+msgstr "Business unit"
+
+#: /Users/add.php:74 /Users/profile.php:113
+msgid "Zona"
+msgstr "Zone"
+
+#: /Users/add.php:77 /Users/profile.php:116
+msgid "Atendido por"
+msgstr "Served by"
+
+#: /Users/add.php:88 /Users/profile.php:124
+msgid "Area"
+msgstr "Area"
+
+#: /Users/add.php:91
+msgid "Tipo de industria"
+msgstr "Type of industry"
+
+#: /Users/company_profile.php:22 /Users/profile.php:28
+msgid "Logo de empresa"
+msgstr "Company logo"
+
+#: /Users/company_profile.php:46 /Users/profile.php:51
+msgid "Direccion"
+msgstr "Address"
+
+#: /Users/profile.php:66
+msgid "Imagen de perfil"
+msgstr "Profile image"
+
+#: /Users/profile.php:102
+msgid "No. Empleado"
+msgstr "Employee number"
+
+#: /Users/profile.php:106
+msgid "Unidad de negocio"
+msgstr "Business unit"
+
+#: /Users/profile.php:127
+msgid "Industria"
+msgstr "Industry"
+
+# CAPTCHA MSGS
+msgid "camera"
+msgstr "Camera"
+
+msgid "battery"
+msgstr "Battery"
+
+msgid "car"
+msgstr "Car"
+
+msgid "flag"
+msgstr "Flag"
+
+msgid "rocket"
+msgstr "Rocket"
+
+msgid "inactivity_closed_session_msg"
+msgstr "Your session expired due to inactivity."
+
+# PREVIEW IMAGES
+msgid "Previsualizar"
+msgstr "Preview"
+
+# HOME
+msgid "Ver todas"
+msgstr "View all"
+
+msgid "ContiUniversity"
+msgstr "ContiUniversity"
+
+msgid "ContiUniPremiumText"
+msgstr ""
+"ContiUniversity is an eLearning platform allowing you, with a virtual coach, to learn everything you need to know about hoses. You will be able to "
+"select various training courses over maintenance."
+
+msgid "MinuteMan"
+msgstr "MinuteMan"
+
+msgid "MinuteManText"
+msgstr "The most complete and user-friendly tool, used for the most exact and complex calculations for hoses."
+
+msgid "MonitoringText"
+msgstr "See your hose monitoring system activity directly in Conti+ with dashboards depending on the sensors installed, and be notified when a maintenance related event occurs."
+
+msgid "Localizador GPS"
+msgstr "GPS Tracker"
+
+msgid "GpsTrackingText"
+msgstr ""
+"The innovative GPS satellite messenger system is a new tool for optimizing and speeding up communication in remote locations. The opportunity of being informed "
+"about the transit and delivery of your hose permits to schedule on time the replacement of it, with the specifications needed."
+
+msgid "Mostrar demo"
+msgstr "Show demo"
+
+msgid "Visitar sitio"
+msgstr "Visit website"
+
+# TIPOS INDUSTRIA
+msgid "Acerera"
+msgstr "Steel"
+
+msgid "Cementera"
+msgstr "Cement"
+
+msgid "Energia"
+msgstr "Energy"
+
+msgid "Fundicion"
+msgstr "Foundry"
+
+msgid "Maderera"
+msgstr "Wood"
+
+msgid "Minera"
+msgstr "Mining"
+
+msgid "Portuaria"
+msgstr "Port"
+
+msgid "Semillera"
+msgstr "Grain"
+
+msgid "Quimica"
+msgstr "Chemistry"
+
+msgid "Otra"
+msgstr "Another"
+
+# Actualizaciones
+msgid "Tipo"
+msgstr "Type"
+
+msgid "Imagenes"
+msgstr "Images"
+
+msgid "Reportes"
+msgstr "Reports"
+
+msgid "Carpetas"
+msgstr "Folders"
+
+msgid "Notas"
+msgstr "Notes"
+
+msgid "Distribuidor asociado"
+msgstr "Associated dealer"
+
+msgid "NORTHEAST"
+msgstr "US Northeast"
+
+msgid "MIDWEST"
+msgstr "US Midwest"
+
+msgid "SOUTH"
+msgstr "US South"
+
+msgid "WEST"
+msgstr "US West"
+
+msgid "MX1"
+msgstr "México A1"
+
+msgid "MX2"
+msgstr "México C1"
+
+msgid "CENAM"
+msgstr "Centro y Sudamérica"
+
+msgid "desde %s"
+msgstr "from %s"
+
+msgid "Filtrar por"
+msgstr "Filter by"
+
+msgid "Ver mas"
+msgstr "Show more"
+
+msgid "Confirmacion automatica"
+msgstr "Automatic confirmation."
+
+# PREMIUM
+msgid "premium_services_on_dev"
+msgstr "These services are under development, and will soon be available."
+
+msgid "Rastreo de bandas"
+msgstr "Hose tracking"
+
+msgid "Servicios Premium"
+msgstr "Premium Services"
+
+msgid "Servicios premium"
+msgstr "Premium Services"
+
+msgid "Agregar rastreo de banda"
+msgstr "Add GPS tracker"
+
+msgid "En transito"
+msgstr "On transit"
+
+msgid "Detenida"
+msgstr "Stopped"
+
+msgid "Entregada"
+msgstr "Delivered"
+
+msgid "El estatus de la banda ha sido actualizado"
+msgstr "The hose status was updated successfully."
+
+msgid "El elemento fue actualizado exitosamente"
+msgstr "The element was updated successfully."
+
+msgid "Error, el elemento a actualizar no fue encontrado"
+msgstr "Error, the element was not found."
+
+msgid "El rastreo de la banda fue desactivado para el cliente"
+msgstr "The GPS tracking is now deactivated for this customer."
+
+msgid "El rastreo de la banda fue activado para el cliente"
+msgstr "The GPS tracking is now activated for this customer."
+
+msgid "La banda ha sido guardada exitosamente"
+msgstr "The hose was successfully saved."
+
+msgid "Ocultar rastreo de banda"
+msgstr "Hide to the customer"
+
+msgid "Mostrar rastreo de banda"
+msgstr "Show to the customer"
+
+msgid "Rastrea en tiempo real la banda %s desde la seccion Servicios Premium"
+msgstr "Track location of your hose %s into Premium Services section"
+
+msgid "Rastrea en tiempo real la banda \"%s\" desde la seccion Servicios Premium o dando clic aqui"
+msgstr "Track location of your hose \"%s\" into Premium Services section or just click here"
+
+# Texto conti-training
+msgid "conti-training-description"
+msgstr ""
+"ContiUniversity is an eLearning platform allowing you, with a virtual coach, to learn everything you need to know about hoses. You will be able to "
+"select various training courses from hose fundamentals over maintenance to hoses safety or proper hose selection."
+
+msgid "Visitar ContiUniversity"
+msgstr "Visit ContiUniversity"
+
+msgid "minuteman-description"
+msgstr "The most complete and user-friendly tool, used for the most exact and complex calculations for hoses."
+
+msgid "Visitar MinuteMan"
+msgstr "Visit MinuteMan"
+
+# CUSTOM REPORTS
+msgid "Titulo de reporte"
+msgstr "Report title"
+
+msgid "Reporte Personalizado"
+msgstr "Reports"
+
+msgid "Reporte especial"
+msgstr "Custom report"
+
+msgid "Crear reporte personalizado"
+msgstr "Create custom report"
+
+msgid "El reporte ha sido guardado exitosamente"
+msgstr "The report was saved successfully."
+
+msgid "El nombre de la plantilla ya existe, intentelo nuevamente"
+msgstr "The template report is already registered."
+
+msgid "Descargar reporte"
+msgstr "Download report"
+
+msgid "El reporte ha sido actualizado exitosamente"
+msgstr "The report has been successfully updated."
+
+msgid "El reporte que intenta actualizar no existe"
+msgstr "The report you are trying to update does not exist."
+
+msgid "Plantilla"
+msgstr "Template"
+
+# RESUMEN CUSTOM REPORT
+msgid "Resumen"
+msgstr "Summary"
+
+msgid "Transportadores totales %s"
+msgstr "Total hoses %s"
+
+msgid "No. Tranportadores"
+msgstr "Hoses number"
+
+msgid "Mts. Summary"
+msgstr "Ft"
+
+msgid "No. Capas"
+msgstr "Layers number"
+
+msgid "Rodillos totales %s"
+msgstr "Total idlers %s"
+
+msgid "No. Rodillos"
+msgstr "Idlers number"
+
+msgid "Tipo Summary"
+msgstr "Type"
+
+msgid "Diametro"
+msgstr "Diameter"
+
+msgid "Impacto"
+msgstr "Impact"
+
+msgid "Carga"
+msgstr "Load"
+
+msgid "Retorno"
+msgstr "Return"
+
+msgid "No. Poleas"
+msgstr "Pulleys number"
+
+msgid "Resumen de bandas"
+msgstr "Hoses summary"
+
+msgid "Resumen de poleas"
+msgstr "Pulleys summary"
+
+msgid "Resumen de rodillos"
+msgstr "Idlers summary"
+
+# MANAGER
+msgid "Funcion exclusiva para usuarios asociados a un corporativo"
+msgstr "Enable user to view hoses from all quarries/mines/plants belonging to the corporate user if one exists."
+
+msgid "Habilita permisos para ver, editar y agregar transportadores a las empresas del corporativo"
+msgstr "Enable permissions to view, edit and add hoses to the companies associated with the corporative."
+
+msgid "Empresas"
+msgstr "Companies"
+
+msgid "Filtrar"
+msgstr "Filter"
+
+msgid "Filtrar por empresa"
+msgstr "Filter by company"
+
+# DISCLAIMERS BANDA RECOMENDADA
+msgid "For throughing condition, the minimum width should be: %s"
+msgstr "For troughing condition, the minimum width should be: %s."
+
+msgid "The Minimum Belt Width is correct"
+msgstr "The minimum hose width is correct."
+
+msgid "This Belt can't handle the load support selected, the maximum is: %s"
+msgstr "This hose can't handle the supported load selected, the maximum is: %s."
+
+msgid "With the load support mentioned, the Maximum Width is Correct"
+msgstr "With the supported load mentioned, the maximum width is correct."
+
+msgid "Please review your data, any belt can handle the width desired"
+msgstr "Please review your data, any hose can handle the width desired."
+
+msgid "For this width and load support, consider: %s"
+msgstr "For this width and load support, consider: %s"
+
+msgid "Aviso"
+msgstr "Notice"
+
+# NUEVOS CAMPOS BANDA
+msgid "Presencia de aceite"
+msgstr "Presence of oil"
+
+msgid "Ubicacion"
+msgstr "Location"
+
+msgid "Tamanio"
+msgstr "Bulk size"
+
+msgid "Angulo acanalamiento"
+msgstr "Troughing angle (°)"
+
+# CONTACTO BALLOON
+msgid "¿Necesitas ayuda? Contactanos y un experto te respondera."
+msgstr "Need help? Please contact us<br>and an expert will answer you."
+
+# ULTRASONIC
+msgid "Descargar"
+msgstr "Download"
+
+msgid "label_pulgadas_plot"
+msgstr "Inches"
+
+msgid "label_pulgadas_plot_metric"
+msgstr "Millimeters"
+
+msgid "require_fields_ultrasonic"
+msgstr "To add readings please complete the fields required (*) in specifications section."
+
+msgid "Specifications"
+msgstr "Specifications"
+
+msgid "Belt Specification"
+msgstr "Hose specification"
+
+msgid "Date Installed"
+msgstr "Date installed"
+
+msgid "Compound name"
+msgstr "Compound name"
+
+msgid "Original Top Cover Thickness"
+msgstr "Original top cover thickness"
+
+msgid "Ultrasonic width"
+msgstr "Width"
+
+msgid "Price of belt installed"
+msgstr "Price of hose installed ($)"
+
+msgid "Durometer New Belt"
+msgstr "Durometer new hose"
+
+msgid "Position Ultrasonic"
+msgstr "Position"
+
+msgid "Abrasion life"
+msgstr "Ultrasonic gauge"
+
+msgid "Add readings"
+msgstr "Add readings"
+
+msgid "Temperature Adjusted Readings"
+msgstr "Temperature Adjusted Readings"
+
+msgid "Wear Rate Statistics & Projections"
+msgstr "Wear Rate Statistics & Projections"
+
+msgid "Dates installed & Measured"
+msgstr "Dates installed & Measured"
+
+msgid "Location (inches) across belt width"
+msgstr "Location (inches) across hose width"
+
+msgid "Location (mm) across belt width"
+msgstr "Location (millimeters) across hose width"
+
+msgid "Shore-A"
+msgstr "Shore A"
+
+msgid "Durometer"
+msgstr "Durometer"
+
+msgid "Install Date"
+msgstr "Install Date"
+
+msgid "%s date read"
+msgstr "%s date read"
+
+msgid "Tons Conveyed"
+msgstr "<b>Total</b> tons conveyed"
+
+msgid "#months"
+msgstr "#months"
+
+msgid "Wear rate"
+msgstr "Wear rate"
+
+msgid "Projected Future Tons"
+msgstr "Projected Future Tons"
+
+msgid "Projected Future Life"
+msgstr "Projected Future Life"
+
+msgid "Estimated Total Life"
+msgstr "Estimated Total Life"
+
+msgid "Est. Total Cost per Ton"
+msgstr "Est. Total Cost per Ton"
+
+msgid "Est. Total Cost per Month"
+msgstr "Est. Total Cost per Month"
+
+msgid "(tons)"
+msgstr "(tons)"
+
+msgid "(months)"
+msgstr "(months)"
+
+msgid "tons/0.001*"
+msgstr "tons/0.001*"
+
+msgid "($/ton)"
+msgstr "($/ton)"
+
+msgid "($/month)"
+msgstr "($/month)"
+
+msgid "Date measured"
+msgstr "Date measured"
+
+msgid "Shore A Durometer"
+msgstr "Shore A Durometer"
+
+msgid "Reading %s"
+msgstr "Reading %s"
+
+msgid "Readings %s"
+msgstr "Readings %s"
+
+msgid "AVERAGE"
+msgstr "AVERAGE"
+
+msgid "Temp Avg"
+msgstr "Temp adjusted Avg"
+
+msgid "COVER WEAR MEASUREMENTS"
+msgstr "COVER WEAR MEASUREMENTS"
+
+msgid "Error al consultar datos"
+msgstr "Failed to consult data."
+
+msgid "La lectura se guardo exitosamente"
+msgstr "The reading was saved successfully."
+
+msgid "La lectura se actualizo exitosamente"
+msgstr "The reading was updated successfully."
+
+msgid "Error al guardar lectura, intentelo nuevamente"
+msgstr "Failed to save reading, try again."
+
+msgid "Error al actualizar lectura, intentelo nuevamente"
+msgstr "Failed to update reading, try again."
+
+msgid "Los datos han sido guardados exitosamente."
+msgstr "Data was saved successfully."
+
+msgid "Ocurrio un error al guardar los datos, intentelo nuevamente."
+msgstr "An error occurred while trying to save data, try again."
+
+msgid "CONTINENTAL CONTITECH SELECT ULTRASONIC GAUGE REPORT"
+msgstr "CONTINENTAL CONTITECH SELECT ULTRASONIC GAUGE REPORT"
+
+# ##TUTORIAL OVERLAY
+msgid "Ver tutorial"
+msgstr "View tutorial"
+
+msgid "tutorial_abrir_tutorial"
+msgstr "1. Show tutorial"
+
+msgid "tutorial_agregar_elementos_btn"
+msgstr "4. Button to add new elements to the system"
+
+msgid "tutorial_menu_principal"
+msgstr "6. Main menu"
+
+msgid "tutorial_acceso_directo"
+msgstr "3. Direct access"
+
+msgid "tutorial_cambiar_idioma"
+msgstr "2. Change language"
+
+msgid "tutorial_menu_secundario"
+msgstr "3. Secondary menu"
+
+msgid "tutorial_forma_de_contacto_btn"
+msgstr "8. Help button to open the contact form"
+
+msgid "tutorial_calculador_btn"
+msgstr "7. Click to show calculator of tension"
+
+msgid "tutorial_servicios_premium"
+msgstr "1. List of services"
+
+msgid "tutorial_ordenar_premium"
+msgstr "4. Change order of items"
+
+msgid "tutorial_buscar_premium"
+msgstr "3. Custom search button"
+
+msgid "tutorial_agregar_rastreo"
+msgstr "2. Button to add tracking service"
+
+msgid "tutorial_agregar_reporte"
+msgstr "1. Button to create report"
+
+msgid "tutorial_ordenar_reporte"
+msgstr "3. Change order of items"
+
+msgid "tutorial_buscar_reporte"
+msgstr "2. Custom search button"
+
+msgid "tutorial_titulo_agregar_reporte"
+msgstr "1. Place title"
+
+msgid "tutorial_dist_cte_agregar_reporte"
+msgstr "2. Select distributor and customer"
+
+msgid "tutorial_lista_transportadores_agregar_reporte"
+msgstr "5. Select hoses to include in the report. When you click in the box, all hoses will be selected."
+
+msgid "tutorial_slide_agregar_reporte"
+msgstr "4. Navigation buttons. Click to mark the fields you want included in the report."
+
+msgid "tutorial_plantilla_agregar_reporte"
+msgstr ""
+"3. Click to create or select a template. If you choose a template, the previously selected fields will be marked. You can create a new template to generate "
+"similar reports for different customers."
+
+msgid "tutorial_agregar_banda"
+msgstr "1. Button to add a new hoses"
+
+msgid "tutorial_ordenar_bandas"
+msgstr "3. Change order of items"
+
+msgid "tutorial_buscar_bandas"
+msgstr "2. Custom search button"
+
+msgid "tutorial_numero_agregar_banda"
+msgstr "1. Place number"
+
+msgid "tutorial_dist_cte_agregar_banda"
+msgstr "2. Select distributor and customer"
+
+msgid "tutorial_perfil_agregar_banda"
+msgstr "3. Select a profile"
+
+msgid "tutorial_portada_agregar_banda"
+msgstr "4. Click to add a cover image (optional)"
+
+msgid "tutorial_slide_agregar_banda"
+msgstr "5. Navigation buttons. In several sections appears a scroll bar, move down to see all fields"
+
+msgid "tutorial_menu_vista_banda"
+msgstr "1. Additional information"
+
+msgid "tutorial_acciones_vista_banda"
+msgstr "4. View more actions"
+
+msgid "tutorial_agregar_elemento_vista_banda"
+msgstr "3. Add new items to the hose"
+
+msgid "tutorial_filter_items_vista_banda"
+msgstr "2. Show items by type"
+
+msgid "tutorial_comentario_ficha_tecnica"
+msgstr "1. Click to add a new comment"
+
+msgid "tutorial_editar_panel_ficha_tecnica"
+msgstr "3. Button to edit hose data. On several sections appears a scroll bar, move down to see all fields."
+
+msgid "tutorial_generar_pdf_ficha_tecnica"
+msgstr "2. Click to generate PDF"
+
+msgid "tutorial_comentario_carpeta"
+msgstr "1. Click to add a new comment"
+
+msgid "tutorial_filtro_carpeta"
+msgstr "5. Isolate items by type"
+
+msgid "tutorial_agregar_elemento_carpeta"
+msgstr "2. Add new items"
+
+msgid "tutorial_smartview_carpeta"
+msgstr ""
+"3. Access to intelligent report. This report gathers automatically all notes and photos contained in the folder. If you do not want to include an item, click on "
+"the upper left box to hide."
+
+msgid "tutorial_acciones_carpeta"
+msgstr "4. View more actions"
+
+msgid "tutorial_agregar_cliente"
+msgstr "1. Button to add a new customer"
+
+msgid "tutorial_ordenar_clientes"
+msgstr "3. Change order of customers"
+
+msgid "tutorial_buscar_clientes"
+msgstr "2. Custom search button"
+
+msgid "tutorial_info_vista_empresa"
+msgstr "2. General company data"
+
+msgid "tutorial_acciones_vista_empresa"
+msgstr "3. View more actions"
+
+msgid "tutorial_especificaciones_ultrasonic"
+msgstr "1. Complete all fields of specifications"
+
+msgid "tutorial_guardar_ultrasonic"
+msgstr "2. Save the information"
+
+msgid "tutorial_lecturas_ultrasonic"
+msgstr "3. Add set of readings"
+
+msgid "tutorial_grafica_ultrasonic"
+msgstr "4. Chart of readings. Click on the line to highlight the measurement points."
+
+msgid "tutorial_grupo_usuarios"
+msgstr "1. Users by group. Click to change group."
+
+msgid "tutorial_ordenar_usuarios"
+msgstr "4. Change order of users"
+
+msgid "tutorial_buscar_usuarios"
+msgstr "3. Custom search button"
+
+msgid "tutorial_listado_empresas_usuarios"
+msgstr "2. List of companies"
+
+msgid "tutorial_acciones_usuarios"
+msgstr "4. Main actions"
+
+msgid "tutorial_tipo_usuario_agregar_cliente_master"
+msgstr "1. This field indicates the role that will have the new company and/or user."
+
+msgid "tutorial_region_agregar_cliente_master"
+msgstr "2. When adding a manager or distributor, must be associated with a region. If you create a customer, must be linked to a distributor."
+
+msgid "tutorial_empresa_agregar_cliente"
+msgstr ""
+"3. If the account is for a new user but the company already exists, please select it from the list to load the data. If it does not exist, click New to add it. "
+"Enter the company name and click on the button 'add’."
+
+msgid "tutorial_corporativo_agregar_cliente"
+msgstr ""
+"4. Follow the same process in this field as in ‘Company’. Choose a Corporative or click New to add it. If the company doesn’t belong to a Corporative, please "
+"ignore the field."
+
+msgid "tutorial_otros_campos_agregar_cliente"
+msgstr ""
+"5. Select and fill the following fields. If the country and state to the new company and/or user are not listed, check that it belongs to the correct region."
+
+msgid "tutorial_link_usuario_agregar_cliente"
+msgstr "6. Click to open the user fields and complete the data."
+
+msgid "tutorial_guardar_usuario_agregar_cliente"
+msgstr "7. After filling the fields of company and user, click Save. The access will be sent to the email associated with the new user."
+
+msgid "tutorial_welcome_msg"
+msgstr "This is a guide to know the basic functions of ContiPlus. To close the tutorial just click on any place of the screen."
+
+# Uploader archivos conveyors
+msgid "Solo se permiten archivos: excel, word, powerpoint y pdf"
+msgstr "Files allowed: Excel, Word, Powerpoint, Pdf, Bsi, Idw, Iam, Ipt, Dwg, Dxf, Bin Or Zip files"
+
+msgid "Tipo de archivo incorrecto"
+msgstr "Invalid format"
+
+msgid "Ruta de archivo no definida"
+msgstr "File path is not defined"
+
+msgid "Agregar archivo"
+msgstr "Add file"
+
+msgid "new_file"
+msgstr "File"
+
+msgid "Titulo de archivo"
+msgstr "Name"
+
+msgid "Cargar archivo"
+msgstr "Choose file"
+
+msgid "El archivo fue agregado exitosamente"
+msgstr "The file was uploaded successfully."
+
+msgid "Subir archivo"
+msgstr "Upload"
+
+msgid "share_location_required"
+msgstr "To log in, please share your location when required."
+
+# COuntry names
+msgid "Estados Unidos"
+msgstr "United States"
+
+msgid "Brasil"
+msgstr "Brazil"
+
+# company names
+msgid "ContiTech Brasil"
+msgstr "ContiTech Brazil"
+
+# Modificaciones al formulario de alta de fotos y videos
+msgid "item_date_capture"
+msgstr "Visit"
+
+msgid "item_date_uploaded"
+msgstr "Created"
+
+msgid "item_date_capture_form"
+msgstr "Visit date"
+
+msgid "add_item_conveyor"
+msgstr "Add"
+
+
+#NOTIFICACIONES DE IMODCO
+msgid "Se agrego el folder %s al transportador %s"
+msgstr "The asset %s was added in the folder %s."
+
+msgid "Se agrego el folder de archivo %s al transportador %s"
+msgstr "The file folder %s was added in the asset %s."
+
+msgid "Se agrego un archivo al folder %s al transportador %s"
+msgstr "One or more files were added to the folder %s in the buoy system %s."
+
+msgid "%s de %s, agrego el folder %s al transportador %s del cliente %s"
+msgstr "%s from %s, added the asset %s to the folder %s from the customer %s."
+
+msgid "%s de %s, agrego el folder de archivo %s al transportador %s del cliente %s"
+msgstr "%s from %s, added the file folder %s to the asset %s from the customer %s."
+
+msgid "%s de %s, agrego un archivo en el folder %s al transportador %s del cliente %s"
+msgstr "%s from %s, added one or more files to the folder %s in the buoy system %s from the customer %s."
+
+msgid "%s de %s, agrego el folder %s al transportador %s"
+msgstr "%s from %s, added the asset %s in the folder %s."
+
+msgid "%s de %s, agrego el folder de archivo %s al transportador %s"
+msgstr "%s from %s, added the file folder %s in the asset %s."
+
+msgid "%s de %s, agrego un archivo en el folder %s al transportador %s"
+msgstr "%s from %s, added one or more files to the folder %s in the buoy system %s."
+
+msgid "El usuario %s agrego el folder %s"
+msgstr "The user %s saved the asset %s."
+
+msgid "El usuario %s agrego el folder de archivo %s"
+msgstr "The user %s saved the file folder %s."
+
+msgid "El usuario %s agrego un archivo en el folder %s"
+msgstr "The user %s saved one or more files in the folder %s."
+
+msgid "El usuario %s elimino el folder %s"
+msgstr "The user %s deleted the asset %s."
+
+msgid "El usuario %s elimino el folder de archivo %s"
+msgstr "The user %s deleted the file folder %s."
+
+msgid "El usuario %s elimino archivos del folder %s"
+msgstr "The user %s deleted files from the folder %s."
+
+
+
+# PENDING LOCALE NOTIFICATIONS
+# ALTA DE ELEMENTOS
+msgid "Se agrego la imagen %s al transportador %s"
+msgstr "Image %s was added to hose %s."
+
+msgid "Se agrego el video %s al transportador %s"
+msgstr "Video %s was added to hose %s."
+
+msgid "Se agrego el reporte %s al transportador %s"
+msgstr "Report %s was added to hose %s."
+
+msgid "Se agrego la nota %s al transportador %s"
+msgstr "Note %s was added to hose %s."
+
+
+msgid "Se agrego el archivo %s al transportador %s"
+msgstr "File %s was added to hose %s."
+
+msgid "%s de %s, agrego la imagen %s al transportador %s del cliente %s"
+msgstr "%s, of %s, added the image %s to hose %s from the customer %s."
+
+msgid "%s de %s, agrego el video %s al transportador %s del cliente %s"
+msgstr "%s, of %s, added the video %s to hose %s from the customer %s."
+
+msgid "%s de %s, agrego el reporte %s al transportador %s del cliente %s"
+msgstr "%s, of %s, added the report %s to hose %s from the customer %s."
+
+msgid "%s de %s, agrego la nota %s al transportador %s del cliente %s"
+msgstr "%s, of %s, added the note %s to hose %s from the customer %s."
+
+
+msgid "%s de %s, agrego la imagen %s al transportador %s"
+msgstr "%s, of %s, added the image %s to hose %s."
+
+msgid "%s de %s, agrego el video %s al transportador %s"
+msgstr "%s, of %s, added the video %s to hose %s."
+
+msgid "%s de %s, agrego el reporte %s al transportador %s"
+msgstr "%s, of %s, added the report %s to hose %s."
+
+msgid "%s de %s, agrego la nota %s al transportador %s"
+msgstr "%s, of %s, added the note %s to hose %s."
+
+
+# TRADUCCION DEL LOG
+msgid "Registro de actividad"
+msgstr "Activity feed"
+
+msgid "El usuario %s agrego la imagen %s"
+msgstr "User %s has saved the image %s."
+
+msgid "El usuario %s agrego el video %s"
+msgstr "User %s has saved the video %s."
+
+msgid "El usuario %s agrego el reporte %s"
+msgstr "User %s has saved the report %s."
+
+msgid "El usuario %s agrego la nota %s"
+msgstr "User %s has saved the note %s."
+
+
+
+msgid "El usuario %s edito la imagen %s"
+msgstr "User %s has updated the image %s."
+
+msgid "El usuario %s edito el video %s"
+msgstr "User %s has updated the video %s."
+
+msgid "El usuario %s edito el reporte %s"
+msgstr "User %s has updated the report %s."
+
+msgid "El usuario %s edito la nota %s"
+msgstr "User %s has updated the note %s."
+
+msgid "El usuario %s edito el folder %s"
+msgstr "User %s has updated the folder %s."
+
+msgid "El usuario %s edito el archivo %s"
+msgstr "User %s has updated the file %s."
+
+msgid "El usuario %s elimino la imagen %s"
+msgstr "User %s has deleted the image %s."
+
+msgid "El usuario %s elimino el video %s"
+msgstr "User %s has deleted the video %s."
+
+msgid "El usuario %s elimino el reporte %s"
+msgstr "User %s has deleted the report %s."
+
+msgid "El usuario %s elimino la nota %s"
+msgstr "User %s has deleted the note %s."
+
+
+msgid "El usuario %s edito la hoja tecnica del transportador"
+msgstr "User %s has updated the technical data."
+
+msgid "El usuario %s edito los datos de ultrasonic"
+msgstr "User %s has updated the ultrasonic data."
+
+msgid "El usuario %s agrego la lectura %s en ultrasonic"
+msgstr "User %s has added the reading %s on ultrasonic."
+
+msgid "El usuario %s edito los datos de la lectura %s en ultrasonic"
+msgstr "User %s has updated ultrasonic reading %s on ultrasonic."
+
+msgid "No existe actividad reciente"
+msgstr "No recent activity"
+
+# New changes Abril 2016
+msgid "Corporativo del distribuidor"
+msgstr "Associated Corporate"
+
+msgid "Contacto Distribuidor"
+msgstr "Distributor Contact"
+
+msgid "Contacto Ventas Conti"
+msgstr "Continental Sales Associate Contact"
+
+msgid "Guardar Sin Usuarios"
+msgstr "Save"
+
+msgid "Guardar Usuario"
+msgstr "Save"
+
+msgid "Next to User"
+msgstr "Next"
+
+# Actualización Web  App 2.4.1
+msgid "Proximamente en linea"
+msgstr "Coming soon"
+
+# Actualización Web  App 2.5.0
+msgid "v.2.5.0.ZonaTransicion"
+msgstr "Transition zone"
+
+msgid "v.2.5.0.Carcasa"
+msgstr "Carcass"
+
+msgid "v.2.5.0.Diametro_Cable"
+msgstr "Cord diameter (mm)"
+
+msgid "v.2.5.0.Numero_Cables"
+msgstr "Number of cords"
+
+msgid "v.2.5.0.Pitch_Cable"
+msgstr "Cord pitch"
+
+msgid "v.2.5.0.Numero_Capas"
+msgstr "Plies number"
+
+msgid "v.2.5.0.Familia"
+msgstr "Family"
+
+msgid "v.2.5.0.Calidad_Cubierta"
+msgstr "Cover compound"
+
+msgid "v.2.5.0.Nombre_Comercial"
+msgstr "Trade name"
+
+msgid "v.2.5.0.Danios"
+msgstr "Damages "
+
+msgid "v.2.5.0.Empalme_Tipo"
+msgstr "Splice/Type"
+
+msgid "v.2.5.0.Numero_Empalmes"
+msgstr "Splices quantity"
+
+msgid "v.2.5.0.Condicion_Empalme"
+msgstr "Splice condition"
+
+msgid "v.2.5.0.Historico"
+msgstr "History (previous lifetime in years)"
+
+msgid "v.2.5.0.Ultimo_Cambio"
+msgstr "Last replacement"
+
+msgid "v.2.5.0.Razon_Cambio"
+msgstr "Reason of replacement"
+
+msgid "v.2.5.0.DurezaShoreA"
+msgstr "Shore hardness A "
+
+msgid "v.2.5.0.ModoFalla"
+msgstr "Failure mode"
+
+msgid "v.2.5.0.NumeroEstaciones"
+msgstr "Number of stations"
+
+msgid "v.2.5.0.BandaTubo"
+msgstr "Pipe hose"
+
+msgid "v.2.5.0.RotacionBanda"
+msgstr "Hose turnover"
+
+msgid "v.2.5.0.DireccionRotacion"
+msgstr "Direction turnover"
+
+msgid "v.2.5.0.CondicionesAmbientales"
+msgstr "Ambient conditions"
+
+msgid "v.2.5.0.TemperaturaMinima"
+msgstr "Minimum temperature (°F)"
+
+msgid "v.2.5.0.TemperaturaMaxima"
+msgstr "Maximum temperature (°F)"
+
+msgid "v.2.5.0.Humedad"
+msgstr "Humidity"
+
+msgid "v.2.5.0.NivelMar"
+msgstr "Height above sea level (ft)"
+
+msgid "v.2.5.0.SistemaMonitoreoBanda"
+msgstr "Hose monitoring system"
+
+msgid "v.2.5.0.Fabricante"
+msgstr "Manufacturer"
+
+msgid "v.2.5.0.Cubiertas"
+msgstr "Housing"
+
+msgid "v.2.5.0.Radio"
+msgstr "Radius"
+
+msgid "v.2.5.0.Curvas"
+msgstr "Curves"
+
+msgid "v.2.5.0.LargoCurva"
+msgstr "Length of curve (ft)"
+
+msgid "v.2.5.0.AnguloCurvaInt"
+msgstr "Curve angle interior (°)"
+
+msgid "v.2.5.0.AnguloCurvaExt"
+msgstr "Curve angle exterior (°)"
+
+msgid "v.2.5.0.FactorFriccion"
+msgstr "Friction factor"
+
+msgid "v.2.5.0.FactorLongitud"
+msgstr "Length factor"
+
+msgid "v.2.5.0.NumRodillosImpacto"
+msgstr "Number of idlers"
+
+msgid "v.2.5.0.NumRodillosCarga"
+msgstr "Number of idlers"
+
+msgid "v.2.5.0.NumRodillosRetorno"
+msgstr "Number of idlers"
+
+msgid "v.2.5.0.PartesArtesaCarga"
+msgstr "Number of carry side idlers"
+
+msgid "v.2.5.0.PartesArtesaRetorno"
+msgstr "Number of return side idlers"
+
+msgid "v.2.5.0.CondicionGeneral"
+msgstr "General condition"
+
+msgid "v.2.5.0.RodillosAtascados"
+msgstr "Stuck idlers"
+
+msgid "v.2.5.0.RodillosDesfasados"
+msgstr "Idler offset (Pathfinder Belting Only)"
+
+msgid "v.2.5.0.RodillosAlineadoresCarga"
+msgstr "Misalignment sensors upper"
+
+msgid "v.2.5.0.RodillosAlineadoresRetorno"
+msgstr "Misalignment sensors lower"
+
+msgid "v.2.5.0.RecubrimientoTipo"
+msgstr "Lagging type"
+
+msgid "v.2.5.0.EspesorRecubrimiento"
+msgstr "Lagging thickness"
+
+msgid "v.2.5.0.CondicionSuperficie"
+msgstr "Surface condition"
+
+msgid "v.2.5.0.DispositivoFrenado"
+msgstr "Brake device"
+
+msgid "v.2.5.0.LargoPlanoAcanalado"
+msgstr "Flat-to-trough transition length (ft)"
+
+msgid "v.2.5.0.AnguloAcanalamiento"
+msgstr "Troughing angle (°)"
+
+msgid "v.2.5.0.AlturaPolea"
+msgstr "Pulley lift (ft)"
+
+msgid "v.2.5.0.CondicionPresionRodillos"
+msgstr "Condition (pressure on outer idlers)"
+
+msgid "v.2.5.0.LargoZonaTransicion"
+msgstr "Trough-to-flat transition length (ft)"
+
+msgid "v.2.5.0.AuxiliaresOrientacion"
+msgstr "Material guidance"
+
+msgid "v.2.5.0.CondicionMantenimiento"
+msgstr "Maintenance condition"
+
+msgid "v.2.5.0.SituacionGeneral"
+msgstr "Overall status"
+
+msgid "v.2.5.0.ConstruccionBandaAnterior"
+msgstr "Previous hose construction"
+
+msgid "v.2.5.0.TipoFallaAnterior"
+msgstr "Previous hose failure mode"
+
+msgid "v.2.5.0.ObservacionesAdicionales"
+msgstr "Additional remarks"
+
+# Dropdowns v.2.5.0
+msgid "Sin danios"
+msgstr "Without damages"
+
+msgid "Desprendimiento de caucho"
+msgstr "Rubber detachement"
+
+msgid "Cantos mordidos"
+msgstr "Bitten sides"
+
+msgid "Corte longitudinal"
+msgstr "Longitudinal cut"
+
+msgid "Corte transversal"
+msgstr "Transversal cut"
+
+msgid "Desgaste de cubierta (regular)"
+msgstr "Cover wear (regular)"
+
+msgid "Marca abrasion extrema"
+msgstr "Extreme abrasion marks"
+
+msgid "Cubiertas desquebrajadas"
+msgstr "Cracks on cover"
+
+msgid "Piola/cable roto"
+msgstr "Broken cable"
+
+msgid "Piquete"
+msgstr "Puncture"
+
+msgid "Piquetes multiples"
+msgstr "Multiple punctures"
+
+msgid "Steps"
+msgstr "Steps"
+
+msgid "Finger"
+msgstr "Finger"
+
+msgid "Lasin"
+msgstr "Lasin"
+
+msgid "Buena"
+msgstr "Good"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "Mala"
+msgstr "Bad"
+
+msgid "Si"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Cabeza"
+msgstr "Left/counterclockwise"
+
+msgid "Cola"
+msgstr "Right/clockwise"
+
+msgid "Constante"
+msgstr "Constant"
+
+msgid "Alterno"
+msgstr "Alternating"
+
+msgid "Seco"
+msgstr "Dry"
+
+msgid "Mojado"
+msgstr "Wet"
+
+msgid "No existe"
+msgstr "No exist"
+
+msgid "Medidor de espesor"
+msgstr "Hose thickness"
+
+msgid "Elongacion de empalme"
+msgstr "Splice elongation"
+
+msgid "Inspeccion superficie de banda"
+msgstr "Hose surface inspection"
+
+msgid "Escaneo de cable"
+msgstr "Cord condition"
+
+msgid "Detector de corte"
+msgstr "Cut detector"
+
+msgid "Removible"
+msgstr "Removable"
+
+msgid "Fijo"
+msgstr "Fixed"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Conveyor with permanent or other well aligned structures with normal maintenance = 0.022"
+msgstr "Hose with permanent or other well aligned structures with normal maintenance = 0.022"
+
+msgid "Temporary, portable, or poorly aligned conveyors. Also for cold weather conveyors less than zero continuously = 0.030"
+msgstr "Temporary, portable, or poorly aligned hoses. Also for cold weather hoses less than zero continuously = 0.030"
+
+msgid "Screw"
+msgstr "Screw"
+
+msgid "Automatic"
+msgstr "Automatic"
+
+msgid "Adapted"
+msgstr "Adapted"
+
+msgid "Pobre"
+msgstr "Poor"
+
+msgid "Moderada"
+msgstr "Moderate"
+
+msgid "In-line"
+msgstr "In-line"
+
+msgid "Offset equal roll"
+msgstr "Offset equal roll"
+
+msgid "Offset lc roll"
+msgstr "Offset lc roll"
+
+msgid "Liso"
+msgstr "Bare steel"
+
+msgid "Recubierto hule"
+msgstr "Rubber lagged"
+
+msgid "Ceramica"
+msgstr "Ceramic lagged"
+
+msgid "Diamante"
+msgstr "Diamond"
+
+msgid "Boton"
+msgstr "Button"
+
+msgid "Ceramico"
+msgstr "Ceramic"
+
+msgid "Cola pescado"
+msgstr "Herringbone"
+
+msgid "Verde"
+msgstr "Green"
+
+msgid "Amarillo"
+msgstr "Yellow"
+
+msgid "Rojo"
+msgstr "Red"
+
+msgid "Sin guia"
+msgstr "Unguided"
+
+msgid "Guiado"
+msgstr "Guided"
+
+msgid "Soportado"
+msgstr "Supported"
+
+msgid "More actions"
+msgstr "More actions"
+
+# Ultrasonic Gauge
+msgid "%s durometer"
+msgstr "%s Durometer"
+
+msgid "%s months left"
+msgstr "%s months"
+
+msgid "%s years left"
+msgstr "%s years"
+
+msgid "15+ years left"
+msgstr "15+ years"
+
+# v2.5.1 Change savings and position menus
+msgid "c2.5.1_AddElement"
+msgstr "Add item"
+
+msgid "v2.5.1_AddElement"
+msgstr "Add item"
+
+msgid "v.2.5.1.AddSaving"
+msgstr "Calculate savings"
+
+msgid "v.2.5.1.Details"
+msgstr "Details"
+
+msgid "v.2.5.1.Contacts"
+msgstr "Contacts"
+
+msgid "v.2.5.1.Improvements"
+msgstr "Improvements"
+
+msgid "v.2.5.1.Savings"
+msgstr "Savings"
+
+msgid "v.2.5.1.Actions"
+msgstr "Remarks"
+
+msgid "v.2.5.1.Photos"
+msgstr "Photos"
+
+msgid "v.2.5.1.ExistingProblemOpportunity"
+msgstr "Existing problem or opportunity"
+
+msgid "v.2.5.1.SavingsReportTitle"
+msgstr "Savings report"
+
+msgid "v.2.5.1.DVASubmittedBy"
+msgstr "Documented Value Added submitted by"
+
+msgid "v.2.5.1.EndUserRepresentative"
+msgstr "End user representative"
+
+msgid "v.2.5.1.EndUserPosition"
+msgstr "End user position"
+
+msgid "v.2.5.1.EndUserEmail"
+msgstr "End user email"
+
+msgid "v.2.5.1.EndUserPhone"
+msgstr "End user phone"
+
+msgid "v.2.5.1.EndUserLocation"
+msgstr "End user location"
+
+msgid "v.2.5.1.DistributorSalesperson"
+msgstr "Distributor salesperson"
+
+msgid "v.2.5.1.ContitechSalesperson"
+msgstr "ContiTech salesperson"
+
+msgid "v.2.5.1.ApprovalOptions"
+msgstr "Approval options"
+
+msgid "v.2.5.1.Engineering"
+msgstr "Engineering"
+
+msgid "v.2.5.1.Operations/Production"
+msgstr "Operations/Production"
+
+msgid "v.2.5.1.Purchasing"
+msgstr "Purchasing"
+
+msgid "v.2.5.1.Safety"
+msgstr "Safety"
+
+msgid "v.2.5.1.Maintenance"
+msgstr "Maintenance"
+
+msgid "v.2.5.1.Training"
+msgstr "Training"
+
+msgid "v.2.5.1.Storeroom/Inventory"
+msgstr "Storeroom/Inventory"
+
+msgid "v.2.5.1.Other"
+msgstr "Other"
+
+msgid "v.2.5.1.Yield"
+msgstr "Yield"
+
+msgid "v.2.5.1.Improvement"
+msgstr "$ improvement/(ton or unit)"
+
+msgid "v.2.5.1.TonHourItem"
+msgstr "Tons or units"
+
+msgid "v.2.5.1.OperationalLaborSavings"
+msgstr "Operational labor savings"
+
+msgid "v.2.5.1.EndUserLaborRate"
+msgstr "End User Labor Rate ($)/hr"
+
+msgid "v.2.5.1.Hours"
+msgstr "Hours"
+
+msgid "v.2.5.1.hour$"
+msgstr "$/hour"
+
+msgid "v.2.5.1.UptimeGained"
+msgstr "Uptime gained"
+
+msgid "v.2.5.1.UptimeHrsIncreased"
+msgstr "Uptime hrs increased or downtime avoided (hrs)"
+
+msgid "v.2.5.1.ProductionCost"
+msgstr "Production cost/hr ($)"
+
+msgid "v.2.5.1.EngineeringSolution"
+msgstr "Engineering solution"
+
+msgid "v.2.5.1.SavedFromImproving"
+msgstr "Money saved from improving efficiency, consumption, production process, etc. ($)"
+
+msgid "v.2.5.1.RepairRebuild"
+msgstr "Repair/rebuild"
+
+msgid "v.2.5.1.SavedByRepairing"
+msgstr "Saved by repairing instead of having to buy new or by reducing downtime"
+
+msgid "v.2.5.1.ImprovedValueLongerLife"
+msgstr "Improved value product substitution (longer life)"
+
+msgid "v.2.5.1.BeltLength"
+msgstr "Hose Length (ft)"
+
+msgid "v.2.5.1.NewlifeYrs"
+msgstr "New life (yrs)"
+
+msgid "v.2.5.1.OldLifeYrs"
+msgstr "Old life (yrs)"
+
+msgid "v.2.5.1.NewBeltCost$"
+msgstr "New hose cost ($)/ft"
+
+msgid "v.2.5.1.OldBeltCost$"
+msgstr "Old hose cost ($)/ft"
+
+msgid "v.2.5.1.RepairCostReduced$"
+msgstr "Repair cost reduced ($)"
+
+msgid "v.2.5.1.SplicingCostReduced$"
+msgstr "Splicing cost reduced ($)"
+
+msgid "v.2.5.1.ImprovedValueLowerPrice"
+msgstr "Improved value product substitution (lower price)"
+
+msgid "v.2.5.1.OldBeltCostFt"
+msgstr "Old Price/ft"
+
+msgid "v.2.5.1.NewBeltCostFt"
+msgstr "New Price/ft"
+
+msgid "v.2.5.1.BeltLengthFt"
+msgstr "Hose Length (ft)"
+
+msgid "v.2.5.1.CapitalExpansion"
+msgstr "Capital expansion or large purchase discount"
+
+msgid "v.2.5.1.DiscountPercent"
+msgstr "Discount (%)"
+
+msgid "v.2.5.1.InitialPurchase$"
+msgstr "Initial purchase ($)"
+
+msgid "v.2.5.1.FreightSavings"
+msgstr "Freight savings"
+
+msgid "v.2.5.1.PriceBelt$"
+msgstr "Freight cost ($)"
+
+msgid "v.2.5.1.InventoryCommitment"
+msgstr "Inventory commitment"
+
+msgid "v.2.5.1.InventoryValue$"
+msgstr "Inventory value ($)"
+
+msgid "v.2.5.1.InventoryCarryingCost$"
+msgstr "Inventory carrying cost (%)"
+
+
+msgid "v.2.5.1.InventoryBeltRepurchased"
+msgstr "Inventory or old hose repurchased"
+
+msgid "v.2.5.1.TotalReduced$"
+msgstr "Total reduced ($)"
+
+msgid "v.2.5.1.InventoryReduction"
+msgstr "Inventory reduction (reallocation) or standarization"
+
+msgid "v.2.5.1.VendorProvidedEquipment"
+msgstr "Vendor provided equipment"
+
+msgid "v.2.5.1.SavedHavingRentPurchase"
+msgstr "Saved for not having to rent or purchase equip."
+
+msgid "v.2.5.1.EnergyEfficiency"
+msgstr "Energy efficiency"
+
+msgid "v.2.5.1.KwHours"
+msgstr "kW Hours"
+
+msgid "v.2.5.1.KwCost"
+msgstr "kW Cost/hour"
+
+msgid "v.2.5.1.TimeHrs"
+msgstr "Time (hrs)"
+
+msgid "v.2.5.1.OtherUtilityConservation"
+msgstr "Other utility conservation"
+
+msgid "v.2.5.1.SavedFromReductionWater"
+msgstr "Savings from reduction of water and gaz ($)"
+
+msgid "v.2.5.1.SurveysInspectionsTroubleshooting"
+msgstr "Surveys, inspections, trouble shooting or diagnosis"
+
+msgid "v.2.5.1.EmergencyServices"
+msgstr "Emergency services"
+
+msgid "v.2.5.1.Days"
+msgstr "Days"
+
+msgid "v.2.5.1.People"
+msgstr "People"
+
+msgid "v.2.5.1.Miscellaneous"
+msgstr "Miscellaneous"
+
+msgid "v.2.5.1.Saved$"
+msgstr "Saved ($)"
+
+msgid "v.2.5.1.ActionsRecomendations"
+msgstr "Actions or recommendations"
+
+msgid "v.2.5.1.Results"
+msgstr "Results"
+
+msgid "v.2.5.1.PhotoBefore"
+msgstr "Photo before "
+
+msgid "v.2.5.1.PhotoAfter"
+msgstr "Photo after"
+
+msgid "v.2.5.1.StandBy"
+msgstr "Stand-by"
+
+msgid "v.2.5.1.Downloaded"
+msgstr "Downloaded"
+
+msgid "v.2.5.1.Approved"
+msgstr "Approved"
+
+msgid "v.2.5.1.SavingWasApproved"
+msgstr "Authorization has been saved"
+
+msgid "v.2.5.1.ImprovementsCenterNeeded"
+msgstr "Select the improvement centers"
+
+msgid "Seleccione al menos un transportador y alguno de los campos de transportador"
+msgstr "Please select at least one hose and one field."
+
+# History
+msgid "v.2.5.1.AddHistory"
+msgstr "Add History"
+
+msgid "v.2.5.1.HistoryDetails"
+msgstr "Details"
+
+msgid "v.2.5.1.AddHistoryComment"
+msgstr "Add comment"
+
+msgid "v.2.5.1.Prev"
+msgstr "Previous"
+
+msgid "v.2.5.1.Next"
+msgstr "Next"
+
+msgid "v.2.5.1.BrandCompounds"
+msgstr "Brand & compounds"
+
+msgid "v.2.5.1.BeltDetails"
+msgstr "Hose details"
+
+msgid "v.2.5.1.AgeFailure"
+msgstr "Age & failure mode"
+
+msgid "v.2.5.1.Conveyor"
+msgstr "Hose"
+
+msgid "v.2.5.1.BeltManufacturer"
+msgstr "Hose manufacturer"
+
+msgid "v.2.5.1.OtherBeltManufacturer"
+msgstr "Other hose manufacturer"
+
+msgid "v.2.5.1.ImportFromTechnicalData"
+msgstr "Import information from technical data"
+
+msgid "v.2.5.1.Family"
+msgstr "Family"
+
+msgid "v.2.5.1.CompoundsTopCover"
+msgstr "Top cover compounds"
+
+msgid "v.2.5.1.FabricType"
+msgstr "Fabric type"
+
+msgid "v.2.5.1.TensionUnit"
+msgstr "Tension unit"
+
+msgid "v.2.5.1.Tension"
+msgstr "Tension"
+
+msgid "v.2.5.1.Plies"
+msgstr "Plies"
+
+msgid "v.2.5.1.Width"
+msgstr "Width"
+
+msgid "v.2.5.1.TopCover"
+msgstr "Top cover"
+
+msgid "v.2.5.1.PulleyCover"
+msgstr "Pulley cover"
+
+msgid "v.2.5.1.OtherSpecial"
+msgstr "Other special"
+
+msgid "v.2.5.1.NameRipDetection"
+msgstr "Name of Rip Detection"
+
+msgid "v.2.5.1.DateInstalled"
+msgstr "Date installed"
+
+msgid "v.2.5.1.DateFailed"
+msgstr "Date failed"
+
+msgid "v.2.5.1.YearsOnSystem"
+msgstr "Years on system"
+
+msgid "v.2.5.1.FailureMode"
+msgstr "Failure mode"
+
+msgid "mx.Date belt failed"
+msgstr "Date failed"
+
+msgid "v.2.5.1.Remarks"
+msgstr "Remarks"
+
+msgid "v.2.5.1.SaveHistory"
+msgstr "Save & Close"
+
+msgid "v.2.5.1.Select"
+msgstr "Select"
+
+msgid "v.2.5.1.poly-nylon(EP)"
+msgstr "Poly-nylon (EP)"
+
+msgid "v.2.5.1.Poly-nylon-nylonstraightwarp(EPP)"
+msgstr "Poly-nylon-nylon straight warp (EPP)"
+
+msgid "v.2.5.1.poly-poly(EE)"
+msgstr "Poly-poly (EE)"
+
+msgid "v.2.5.1.Nylon-Nylon(PP)"
+msgstr "Nylon-nylon (PP)"
+
+msgid "v.2.5.1.Aramid(DPP)"
+msgstr "Aramid (DPP)"
+
+msgid "v.2.5.1.Steel(ST)"
+msgstr "Steel (ST)"
+
+msgid "v.2.5.1.Unknown"
+msgstr "Unknown"
+
+msgid "v.2.5.1.ImperialFabric(piw)"
+msgstr "Imperial Fabric (piw)"
+
+msgid "v.2.5.1.MetricFabric(kN/m)"
+msgstr "Metric Fabric (kN/m)"
+
+msgid "v.2.5.1.ImperialSteel(piw)"
+msgstr "Imperial Steel (piw)"
+
+msgid "v.2.5.1.MetricSteelST(kN/m)"
+msgstr "Metric Steel \"ST\" (kN/m)"
+
+msgid "v.2.5.1.Imperial(piw)"
+msgstr "Imperial (piw)"
+
+msgid "v.2.5.1.Metric(kN/m)"
+msgstr "Metric (kN/m)"
+
+msgid "v.2.5.1.COVERRELATED1"
+msgstr "COVER RELATED "
+
+msgid "v.2.5.1.TopCoverAbrasion"
+msgstr "Top cover abrasion"
+
+msgid "v.2.5.1.TopCoverCutGouge"
+msgstr "Top cover cut-gouge"
+
+msgid "v.2.5.1.PulleyCoverAbrasion"
+msgstr "Pulley cover abrasion"
+
+msgid "v.2.5.1.EdgeCracking"
+msgstr "Edge cracking"
+
+msgid "v.2.5.1.CenterBeltCracking"
+msgstr "Center hose cracking"
+
+msgid "v.2.5.1.Toohard"
+msgstr "Too hard"
+
+msgid "v.2.5.1.Covertoosoft"
+msgstr "Cover too soft"
+
+msgid "v.2.5.1.Beltburned"
+msgstr "Hose burned"
+
+msgid "v.2.5.1.Carrybackmaterial"
+msgstr "Carryback material"
+
+msgid "v.2.5.1.Materialstickingbelt"
+msgstr "Material sticking hose"
+
+msgid "v.2.5.1.Excessivecoverswelling"
+msgstr "Excessive cover swelling"
+
+msgid "v.2.5.1.Coverdelamination"
+msgstr "Cover delamination"
+
+msgid "v.2.5.1.Wrongcovercompound"
+msgstr "Wrong cover compound"
+
+msgid "v.2.5.1.COVERRELATED2"
+msgstr "CARCASS RELATED  "
+
+msgid "v.2.5.1.PuncturesCarcass"
+msgstr "Punctures to carcass"
+
+msgid "v.2.5.1.TrappedMaterialPunctures"
+msgstr "Trapped material punctures"
+
+msgid "v.2.5.1.EdgeDamageStructure"
+msgstr "Edge damage by structure"
+
+msgid "v.2.5.1.CarcassLoadSupportIdlerJunctionFailure"
+msgstr "Carcass load support/Idler junction failure"
+
+msgid "v.2.5.1.PlyDelaminationSeparation"
+msgstr "Ply delamination/separation"
+
+msgid "v.2.5.1.SYSTEMRELATED"
+msgstr "SYSTEM RELATED"
+
+msgid "v.2.5.1.Wonttrough"
+msgstr "Won't trough"
+
+msgid "v.2.5.1.Wonttrack"
+msgstr "Won't track"
+
+msgid "v.2.5.1.Outoftakeuptravel"
+msgstr "Out of takeup travel"
+
+msgid "v.2.5.1.Wrongapplicaction"
+msgstr "Wrong application"
+
+msgid "v.2.5.1.Randomsystemcausedfailure"
+msgstr "Random system caused failure"
+
+msgid "v.2.5.1.PoorSystemMaintenance"
+msgstr "Poor system maintenance"
+
+msgid "v.2.5.1.SPLICINGRELATED"
+msgstr "SPLICING RELATED"
+
+msgid "v.2.5.1.Cantholdfastener"
+msgstr "Can't hold fastener"
+
+msgid "v.2.5.1.Vulcanizedsplicefailures"
+msgstr "Vulcanized splice failures"
+
+msgid "v.2.5.1.OTHER"
+msgstr "OTHER"
+
+msgid "v.2.5.1.Manufacturingdefect"
+msgstr "Manufacturing defect"
+
+msgid "v.2.5.1.BeltCamberBow"
+msgstr "Hose Camber/Bow"
+
+msgid "v.2.5.1.BeltLifeHistory"
+msgstr "Hose Life History"
+
+msgid "v.2.5.1.PleaseFillRequiredData"
+msgstr "Please fill required data"
+
+msgid "v.2.5.1.HistoryHasBeenSaved"
+msgstr "Hose life history has been saved."
+
+msgid "v.2.5.1.ContitechSelect"
+msgstr "ContiTech Select"
+
+msgid "v.2.5.1.ContitechHeritage"
+msgstr "ContiTech Heritage"
+
+msgid "v.2.5.1.Bridgestone"
+msgstr "Bridgestone"
+
+msgid "v.2.5.1.Fenner"
+msgstr "Fenner"
+
+msgid "v.2.5.1.Garlock"
+msgstr "Garlock"
+
+msgid "v.2.5.1.ICL"
+msgstr "ICL"
+
+msgid "v.2.5.1.Legg"
+msgstr "Legg"
+
+msgid "v.2.5.1.Phoenix"
+msgstr "Phoenix"
+
+msgid "v.2.5.1.PriceRubber"
+msgstr "Price Rubber"
+
+msgid "v.2.5.1.Semperit/Sempertrans"
+msgstr "Semperit/Sempertrans"
+
+msgid "v.2.5.1.USRubber"
+msgstr "US Rubber"
+
+msgid "v.2.5.1.Yokohama"
+msgstr "Yokohama"
+
+msgid "v.2.5.1.Mepusaip"
+msgstr "Mepusaip"
+
+msgid "v.2.5.1.Fesabelt"
+msgstr "Fesabelt"
+
+msgid "v.2.5.1.Depreux"
+msgstr "Depreux"
+
+msgid "v.2.5.1.SIG"
+msgstr "SIG"
+
+msgid "v.2.5.1.kauman"
+msgstr "kauman"
+
+msgid "v.2.5.1.OrientalRubber"
+msgstr "Oriental Rubber"
+
+msgid "v.2.5.1.OtherManufacturer"
+msgstr "Other"
+
+msgid "v.2.5.1.ContiCleat"
+msgstr "ContiCleat"
+
+msgid "v.2.5.1.Contipipe"
+msgstr "Contipipe"
+
+msgid "v.2.5.1.Flexsteel"
+msgstr "Flexsteel"
+
+msgid "v.2.5.1.FortressXP"
+msgstr "Fortress XP"
+
+msgid "v.2.5.1.Goldspec"
+msgstr "Goldspec"
+
+msgid "v.2.5.1.GravelMaster"
+msgstr "Gravel Master"
+
+msgid "v.2.5.1.PathfinderPlus"
+msgstr "Pathfinder Plus"
+
+msgid "v.2.5.1.PlylonPlus"
+msgstr "Plylon Plus"
+
+msgid "v.2.5.1.PowerPly"
+msgstr "PowerPly"
+
+msgid "v.2.5.1.Solarshield"
+msgstr "Solarshield "
+
+msgid "v.2.5.1.Spartan"
+msgstr "Spartan"
+
+msgid "v.2.5.1.SpartanGrain"
+msgstr "Spartan Grain"
+
+msgid "v.2.5.1.SpartanMOR"
+msgstr "Spartan MOR"
+
+msgid "v.2.5.1.Texsteel"
+msgstr "Texsteel"
+
+msgid "v.2.5.1.WoodSawyerPlus"
+msgstr "WoodSawyer Plus"
+
+msgid "v.2.5.1.Confine(old)"
+msgstr "Confine (old)"
+
+msgid "v.2.5.1.ConquestXP(old)"
+msgstr "Conquest XP (old)"
+
+msgid "v.2.5.1.Endurance(old)"
+msgstr "Endurance (old)"
+
+msgid "v.2.5.1.Plylon(old)"
+msgstr "Plylon (old)"
+
+msgid "v.2.5.1.Raider(old)"
+msgstr "Raider (old)"
+
+msgid "v.2.5.1.WoodSawyer(old)"
+msgstr "WoodSawyer (old)"
+
+msgid "v.2.5.1.XtraGrip(old)"
+msgstr "Xtra Grip (old)"
+
+msgid "v.2.5.1.Chem-X"
+msgstr "Chem-X"
+
+msgid "v.2.5.1.ContiFlex"
+msgstr "ContiFlex"
+
+msgid "v.2.5.1.ContiFlexEP"
+msgstr "ContiFlex EP"
+
+msgid "v.2.5.1.StahlCord"
+msgstr "StahlCord"
+
+msgid "v.2.5.1.Vulcan"
+msgstr "Vulcan"
+
+msgid "v.2.5.1.Fabric"
+msgstr "Fabric "
+
+msgid "v.2.5.1.Steel"
+msgstr "Steel"
+
+msgid "v.2.5.1.Cleatline"
+msgstr "Cleatline"
+
+msgid "v.2.5.1.DeltaHeat"
+msgstr "Delta Heat"
+
+msgid "v.2.5.1.Dynaflight"
+msgstr "Dynaflight"
+
+msgid "v.2.5.1.Harvestflex"
+msgstr "Harvestflex"
+
+msgid "v.2.5.1.HotShot"
+msgstr "HotShot"
+
+msgid "v.2.5.1.Kordflex"
+msgstr "Kordflex"
+
+msgid "v.2.5.1.LogFlex"
+msgstr "Log Flex"
+
+msgid "v.2.5.1.LogMaster"
+msgstr "Log Master"
+
+msgid "v.2.5.1.Novacore"
+msgstr "Novacore"
+
+msgid "v.2.5.1.Patriot"
+msgstr "Patriot"
+
+msgid "v.2.5.1.PSR"
+msgstr "PSR"
+
+msgid "v.2.5.1.Rockmaster"
+msgstr "Rockmaster"
+
+msgid "v.2.5.1.UltraGrain"
+msgstr "Ultra Grain"
+
+msgid "v.2.5.1.USFlex"
+msgstr "USFlex"
+
+msgid "v.2.5.1.WoodMaster"
+msgstr "Wood Master"
+
+msgid "v.2.5.1.DuraKing"
+msgstr "DuraKing"
+
+msgid "v.2.5.1.FlexKing"
+msgstr "FlexKing"
+
+msgid "v.2.5.1.GTRFlexKing"
+msgstr "GTR FlexKing"
+
+msgid "v.2.5.1.HeatKing"
+msgstr "HeatKing"
+
+msgid "v.2.5.1.LogKing"
+msgstr "LogKing"
+
+msgid "v.2.5.1.Techflex"
+msgstr "Techflex"
+
+msgid "v.2.5.1.Champion"
+msgstr "Champion"
+
+msgid "v.2.5.1.Cleatprofile"
+msgstr "Cleatprofile"
+
+msgid "v.2.5.1.GrainHandler"
+msgstr "Grain Handler"
+
+msgid "v.2.5.1.Grizzly"
+msgstr "Grizzly"
+
+msgid "v.2.5.1.HighHeat"
+msgstr "HighHeat"
+
+msgid "v.2.5.1.Kodiak"
+msgstr "Kodiak"
+
+msgid "v.2.5.1.Legg-Flex"
+msgstr "Legg-Flex"
+
+msgid "v.2.5.1.Renegade"
+msgstr "Renegade"
+
+msgid "v.2.5.1.Tiger"
+msgstr "Tiger"
+
+msgid "v.2.5.1.Viper"
+msgstr "Viper"
+
+msgid "v.2.5.1.Coalquest"
+msgstr "Coalquest"
+
+msgid "v.2.5.1.GlidePlus"
+msgstr "Glide Plus"
+
+msgid "v.2.5.1.Phoenocord"
+msgstr "Phoenocord"
+
+msgid "v.2.5.1.Phoenopipe"
+msgstr "Phoenopipe"
+
+msgid "v.2.5.1.GlideUltra"
+msgstr "Glide Ultra"
+
+msgid "v.2.5.1.GlideSurface"
+msgstr "Glide Surface"
+
+msgid "v.2.5.1.Polyflex"
+msgstr "Polyflex"
+
+msgid "v.2.5.1.MagmaExtreme"
+msgstr "Magma Extreme"
+
+msgid "v.2.5.1.Grain"
+msgstr "Grain"
+
+msgid "v.2.5.1.S-Wall"
+msgstr "S-Wall"
+
+msgid "v.2.5.1.Phoenohoist"
+msgstr "Phoenohoist"
+
+msgid "v.2.5.1.HotService"
+msgstr "HotService"
+
+msgid "v.2.5.1.MSHANitrile"
+msgstr "MSHA Nitrile"
+
+msgid "v.2.5.1.PRC"
+msgstr "PRC"
+
+msgid "v.2.5.1.PriceFlex"
+msgstr "Price Flex"
+
+msgid "v.2.5.1.PriceCleat"
+msgstr "PriceCleat"
+
+msgid "v.2.5.1.Sempercord"
+msgstr "Sempercord"
+
+msgid "v.2.5.1.MultiTrans"
+msgstr "MultiTrans"
+
+msgid "v.2.5.1.Flextrans"
+msgstr "Flextrans"
+
+msgid "v.2.5.1.Metalcord"
+msgstr "Metalcord"
+
+msgid "v.2.5.1.Autostable"
+msgstr "Autostable"
+
+msgid "v.2.5.1.Translev"
+msgstr "Translev"
+
+msgid "v.2.5.1.Trasprofile"
+msgstr "Trasprofile"
+
+msgid "v.2.5.1.Biathlon"
+msgstr "Biathlon"
+
+msgid "v.2.5.1.Transpipe"
+msgstr "Transpipe"
+
+msgid "v.2.5.1.Transrigid"
+msgstr "Transrigid"
+
+msgid "v.2.5.1.Transglis"
+msgstr "Transglis"
+
+msgid "v.2.5.1.GrainSCORF"
+msgstr "Grain SCORF"
+
+msgid "v.2.5.1.LoadStar"
+msgstr "Load Star"
+
+msgid "v.2.5.1.LoadStarXT"
+msgstr "Load Star XT "
+
+msgid "v.2.5.1.SuperHeatEPDM"
+msgstr "Super Heat EPDM"
+
+msgid "v.2.5.1.Aramid"
+msgstr "Aramid"
+
+msgid "v.2.5.1.Chevron"
+msgstr "Chevron"
+
+msgid "v.2.5.1.Hamaheat"
+msgstr "Hamaheat"
+
+msgid "v.2.5.1.MJType"
+msgstr "MJ Type"
+
+msgid "v.2.5.1.Multilayer"
+msgstr "Multilayer"
+
+msgid "v.2.5.1.OilResistant"
+msgstr "Oil Resistant"
+
+msgid "v.2.5.1.Protex"
+msgstr "Protex"
+
+msgid "v.2.5.1.RipStop"
+msgstr "Rip Stop"
+
+msgid "v.2.5.1.SteelCord"
+msgstr "Steel Cord"
+
+msgid "v.2.5.1.6740A"
+msgstr "6740A"
+
+msgid "v.2.5.1.Aluma-Hot"
+msgstr "Aluma-Hot"
+
+msgid "v.2.5.1.DefenderPlus"
+msgstr "Defender Plus"
+
+msgid "v.2.5.1.FR2G"
+msgstr "FR 2G"
+
+msgid "v.2.5.1.FRAR2G"
+msgstr "FRAR 2G"
+
+msgid "v.2.5.1.FrasSA"
+msgstr "Fras \"SA\""
+
+msgid "v.2.5.1.FrasC"
+msgstr "Fras C"
+
+msgid "v.2.5.1.FRORS"
+msgstr "FRORS"
+
+msgid "v.2.5.1.GlobalX"
+msgstr "Global X"
+
+msgid "v.2.5.1.HTNitrile"
+msgstr "HT Nitrile"
+
+msgid "v.2.5.1.LTORS"
+msgstr "LTORS"
+
+msgid "v.2.5.1.Monsterhide"
+msgstr "Monsterhide"
+
+msgid "v.2.5.1.MORS"
+msgstr "MORS"
+
+msgid "v.2.5.1.PathfinderArtic"
+msgstr "Pathfinder Artic"
+
+msgid "v.2.5.1.PathfinderSupreme"
+msgstr "Pathfinder Supreme"
+
+msgid "v.2.5.1.Protector"
+msgstr "Protector"
+
+msgid "v.2.5.1.Solar-Shield400"
+msgstr "Solar-Shield 400"
+
+msgid "v.2.5.1.Solar-ShieldXL750"
+msgstr "Solar-Shield XL750"
+
+msgid "v.2.5.1.Stacker"
+msgstr "Stacker"
+
+msgid "v.2.5.1.Survivor"
+msgstr "Survivor"
+
+msgid "v.2.5.1.SurvivorPlus"
+msgstr "Survivor Plus"
+
+msgid "v.2.5.1.ARMASBR(old)"
+msgstr "ARMA SBR (old)"
+
+msgid "v.2.5.1.ARMAII(old)"
+msgstr "ARMA II (old)"
+
+msgid "v.2.5.1.ARMA(old)"
+msgstr "ARMA (old)"
+
+msgid "v.2.5.1.Shield(old)"
+msgstr "Shield (old)"
+
+msgid "v.2.5.1.Arma-Elite(old)"
+msgstr "Arma-Elite (old)"
+
+msgid "v.2.5.1.Omega(old)"
+msgstr "Omega (old)"
+
+msgid "v.2.5.1.Shield-oz(old)"
+msgstr "Shield-oz (old)"
+
+msgid "v.2.5.1.Style-BII(old)"
+msgstr "Style-B II (old)"
+
+msgid "v.2.5.1.BLE(old)"
+msgstr "BLE (old)"
+
+msgid "v.2.5.1.Arma-LE(old)"
+msgstr "Arma-LE (old)"
+
+msgid "v.2.5.1.COWB"
+msgstr "COWB"
+
+msgid "v.2.5.1.AR"
+msgstr "AR"
+
+msgid "v.2.5.1.ARPlus"
+msgstr "AR Plus"
+
+msgid "v.2.5.1.ARPlusII"
+msgstr "AR Plus II"
+
+msgid "v.2.5.1.Coaline"
+msgstr "Coaline"
+
+msgid "v.2.5.1.CoalineOR"
+msgstr "Coaline OR"
+
+msgid "v.2.5.1.CoalinePlus"
+msgstr "Coaline Plus"
+
+msgid "v.2.5.1.ContiClean"
+msgstr "ContiClean"
+
+msgid "v.2.5.1.ContiGrain"
+msgstr "ContiGrain"
+
+msgid "v.2.5.1.CSA-AR"
+msgstr "CSA-AR"
+
+msgid "v.2.5.1.DINW"
+msgstr "DIN W"
+
+msgid "v.2.5.1.DINX"
+msgstr "DIN X"
+
+msgid "v.2.5.1.DINY"
+msgstr "DIN Y"
+
+msgid "v.2.5.1.Durastar"
+msgstr "Durastar"
+
+msgid "v.2.5.1.DuraStarAR"
+msgstr "DuraStar AR"
+
+msgid "v.2.5.1.DurastarCGT"
+msgstr "Durastar CGT"
+
+msgid "v.2.5.1.Everlast"
+msgstr "Everlast"
+
+msgid "v.2.5.1.FireSentinel"
+msgstr "Fire Sentinel"
+
+msgid "v.2.5.1.MOR"
+msgstr "MOR"
+
+msgid "v.2.5.1.MSHA-AR"
+msgstr "MSHA-AR"
+
+msgid "v.2.5.1.MSHA-ARII"
+msgstr "MSHA-AR II"
+
+msgid "v.2.5.1.MSHA-MOR"
+msgstr "MSHA-MOR"
+
+msgid "v.2.5.1.MSHA-SOR"
+msgstr "MSHA-SOR"
+
+msgid "v.2.5.1.MSHA-SORLT"
+msgstr "MSHA-SOR LT"
+
+msgid "v.2.5.1.OilSand"
+msgstr "OilSand"
+
+msgid "v.2.5.1.SAR"
+msgstr "SAR"
+
+msgid "v.2.5.1.SARII"
+msgstr "SAR II"
+
+msgid "v.2.5.1.SENTRY"
+msgstr "SENTRY"
+
+msgid "v.2.5.1.SENTRYAR"
+msgstr "SENTRY AR"
+
+msgid "v.2.5.1.SENTRYPLUS"
+msgstr "SENTRY PLUS"
+
+msgid "v.2.5.1.SOR"
+msgstr "SOR"
+
+msgid "v.2.5.1.SOR-LT"
+msgstr "SOR-LT"
+
+msgid "v.2.5.1.Vuclan400SAR"
+msgstr "Vuclan 400 SAR"
+
+msgid "v.2.5.1.VuclanOR"
+msgstr "Vuclan OR"
+
+msgid "v.2.5.1.VulkanClassic"
+msgstr "Vulkan Classic"
+
+msgid "v.2.5.1.VulkanOptimum"
+msgstr "Vulkan Optimum"
+
+msgid "v.2.5.1.VulkanPrime"
+msgstr "Vulkan Prime"
+
+msgid "v.2.5.1.A110"
+msgstr "A110"
+
+msgid "v.2.5.1.A2000"
+msgstr "A2000"
+
+msgid "v.2.5.1.DINK"
+msgstr "DIN K"
+
+msgid "v.2.5.1.DINZ"
+msgstr "DIN Z"
+
+msgid "v.2.5.1.F110"
+msgstr "F110"
+
+msgid "v.2.5.1.FXS"
+msgstr "FXS"
+
+msgid "v.2.5.1.MF180"
+msgstr "MF180"
+
+msgid "v.2.5.1.MSHA"
+msgstr "MSHA"
+
+msgid "v.2.5.1.OILACE-G"
+msgstr "OIL ACE-G"
+
+msgid "v.2.5.1.OILACE-H"
+msgstr "OIL ACE-H"
+
+msgid "v.2.5.1.OILACE-L"
+msgstr "OIL ACE-L"
+
+msgid "v.2.5.1.SF180"
+msgstr "SF180"
+
+msgid "v.2.5.1.stick-free"
+msgstr "stick-free"
+
+msgid "v.2.5.1.SXEW"
+msgstr "SXEW"
+
+msgid "v.2.5.1.UAR"
+msgstr "UAR"
+
+msgid "v.2.5.1.Abrader"
+msgstr "Abrader"
+
+msgid "v.2.5.1.ClassicGrainHandler"
+msgstr "Classic Grain Handler"
+
+msgid "v.2.5.1.CSAFFOR"
+msgstr "CSA FFOR"
+
+msgid "v.2.5.1.CSA-FF"
+msgstr "CSA-FF"
+
+msgid "v.2.5.1.CSA-FFAR"
+msgstr "CSA-FFAR"
+
+msgid "v.2.5.1.CWOR"
+msgstr "CWOR"
+
+msgid "v.2.5.1.Deltaheat"
+msgstr "Deltaheat"
+
+msgid "v.2.5.1.Granite"
+msgstr "Granite"
+
+msgid "v.2.5.1.Guardian"
+msgstr "Guardian"
+
+msgid "v.2.5.1.GuardianAR"
+msgstr "Guardian AR"
+
+msgid "v.2.5.1.GuardianCA"
+msgstr "Guardian CA"
+
+msgid "v.2.5.1.Matchless"
+msgstr "Matchless"
+
+msgid "v.2.5.1.MiningFAR"
+msgstr "Mining FAR"
+
+msgid "v.2.5.1.MiningFFAR"
+msgstr "Mining FFAR"
+
+msgid "v.2.5.1.MiningFFSAR"
+msgstr "Mining FFSAR"
+
+msgid "v.2.5.1.MORandORWP"
+msgstr "MOR and ORWP"
+
+msgid "v.2.5.1.OHRandSOHR"
+msgstr "OHR and SOHR"
+
+msgid "v.2.5.1.PlatinumPlus"
+msgstr "Platinum Plus"
+
+msgid "v.2.5.1.Platinum"
+msgstr "Platinum"
+
+msgid "v.2.5.1.Sahara"
+msgstr "Sahara"
+
+msgid "v.2.5.1.SOHR"
+msgstr "SOHR"
+
+msgid "v.2.5.1.Titanium"
+msgstr "Titanium"
+
+msgid "v.2.5.1.UltraGrainHandler"
+msgstr "Ultra Grain Handler"
+
+msgid "v.2.5.1.ZR2"
+msgstr "ZR2"
+
+msgid "v.2.5.1.EPDMHotService400F"
+msgstr "EPDM Hot Service 400F"
+
+msgid "v.2.5.1.FavorMSHA"
+msgstr "Favor MSHA"
+
+msgid "v.2.5.1.FAVOROR2"
+msgstr "FAVOR OR2"
+
+msgid "v.2.5.1.FlameoutNeoprene"
+msgstr "Flameout Neoprene"
+
+msgid "v.2.5.1.FlameoutOR"
+msgstr "Flameout OR"
+
+msgid "v.2.5.1.FlameoutSBR"
+msgstr "Flameout SBR"
+
+msgid "v.2.5.1.GradeI"
+msgstr "Grade I"
+
+msgid "v.2.5.1.GradeII"
+msgstr "Grade II"
+
+msgid "v.2.5.1.HeatKingOR350F"
+msgstr "Heat King OR 350F"
+
+msgid "v.2.5.1.HeatKingRA300F"
+msgstr "Heat King RA 300F"
+
+msgid "v.2.5.1.Nitrile"
+msgstr "Nitrile"
+
+msgid "v.2.5.1.RORExcellentOilResistance"
+msgstr "ROR Excellent Oil Resistance"
+
+msgid "v.2.5.1.SuperHeatKingBT450F"
+msgstr "Super Heat King BT 450F"
+
+msgid "v.2.5.1.VORModerateOilResitance"
+msgstr "VOR Moderate Oil Resitance"
+
+msgid "v.2.5.1.Grade1"
+msgstr "Grade 1"
+
+msgid "v.2.5.1.Grade2"
+msgstr "Grade 2"
+
+msgid "v.2.5.1.Grade1Hark"
+msgstr "Grade 1 Hark"
+
+msgid "v.2.5.1.FF"
+msgstr "FF"
+
+msgid "v.2.5.1.G1-P"
+msgstr "G1-P"
+
+msgid "v.2.5.1.GHS"
+msgstr "GHS"
+
+msgid "v.2.5.1.GI"
+msgstr "GI"
+
+msgid "v.2.5.1.GII"
+msgstr "GII"
+
+msgid "v.2.5.1.HA-HOR"
+msgstr "HA-HOR"
+
+msgid "v.2.5.1.HHEPDM"
+msgstr "HH EPDM"
+
+msgid "v.2.5.1.HT-SBR"
+msgstr "HT-SBR"
+
+msgid "v.2.5.1.TanSlowDown"
+msgstr "Tan Slow Down"
+
+msgid "v.2.5.1.Whitefood"
+msgstr "White food"
+
+msgid "v.2.5.1.XT-GI"
+msgstr "XT-GI"
+
+msgid "v.2.5.1.XT-GII"
+msgstr "XT-GII"
+
+msgid "v.2.5.1.XT-MOR"
+msgstr "XT-MOR"
+
+msgid "v.2.5.1.ARCTICGRAIN"
+msgstr "ARCTIC GRAIN"
+
+msgid "v.2.5.1.ARMAElite"
+msgstr "ARMA Elite"
+
+msgid "v.2.5.1.ARMAORSC"
+msgstr "ARMA ORSC"
+
+msgid "v.2.5.1.ARMASBR"
+msgstr "ARMASBR"
+
+msgid "v.2.5.1.ARMATOUGH"
+msgstr "ARMATOUGH"
+
+msgid "v.2.5.1.COMPOUNDP"
+msgstr "COMPOUND P"
+
+msgid "v.2.5.1.EXTREMECG(GRII)"
+msgstr "EXTREME CG (GR II)"
+
+msgid "v.2.5.1.FRAS-C"
+msgstr "FRAS-C"
+
+msgid "v.2.5.1.FRAS-SA"
+msgstr "FRAS-SA"
+
+msgid "v.2.5.1.GRAIN"
+msgstr "GRAIN"
+
+msgid "v.2.5.1.LTOR"
+msgstr "LTOR"
+
+msgid "v.2.5.1.MAGMA"
+msgstr "MAGMA"
+
+msgid "v.2.5.1.MAGMAEXTREME"
+msgstr "MAGMA EXTREME"
+
+msgid "v.2.5.1.MAGMAHT"
+msgstr "MAGMA HT"
+
+msgid "v.2.5.1.MVF"
+msgstr "MVF"
+
+msgid "v.2.5.1.MVFPLUS"
+msgstr "MVF PLUS"
+
+msgid "v.2.5.1.SUPREME"
+msgstr "SUPREME"
+
+msgid "v.2.5.1.SUPREMECG"
+msgstr "SUPREME CG"
+
+msgid "v.2.5.1.THERMOCHEM"
+msgstr "THERMOCHEM"
+
+msgid "v.2.5.1.Alumina"
+msgstr "Alumina"
+
+msgid "v.2.5.1.Chlorobutyl"
+msgstr "Chlorobutyl"
+
+msgid "v.2.5.1.GTXGradeII"
+msgstr "GTX Grade II"
+
+msgid "v.2.5.1.HighTempSBR"
+msgstr "High Temp SBR"
+
+msgid "v.2.5.1.HYFLEXAR"
+msgstr "HYFLEX AR"
+
+msgid "v.2.5.1.LowTempPolarBear"
+msgstr "Low Temp Polar Bear"
+
+msgid "v.2.5.1.MiineStar"
+msgstr "Miine Star"
+
+msgid "v.2.5.1.MSHAAboveground"
+msgstr "MSHA Aboveground"
+
+msgid "v.2.5.1.MSHAClimatic"
+msgstr "MSHA Climatic"
+
+msgid "v.2.5.1.MSHAUnderground"
+msgstr "MSHA Underground"
+
+msgid "v.2.5.1.MSHA/Nitrile"
+msgstr "MSHA/Nitrile"
+
+msgid "v.2.5.1.NitrileBlack350F"
+msgstr "Nitrile Black 350F"
+
+msgid "v.2.5.1.TanNonMarking"
+msgstr "Tan Non Marking"
+
+msgid "v.2.5.1.Transcold"
+msgstr "Transcold"
+
+msgid "v.2.5.1.TransduraD30"
+msgstr "Transdura D30"
+
+msgid "v.2.5.1.TransduraD50"
+msgstr "Transdura D50"
+
+msgid "v.2.5.1.TransduraX+"
+msgstr "Transdura X+"
+
+msgid "v.2.5.1.Transevo"
+msgstr "Transevo"
+
+msgid "v.2.5.1.TransflamK"
+msgstr "Transflam K"
+
+msgid "v.2.5.1.TransflamS"
+msgstr "Transflam S"
+
+msgid "v.2.5.1.TransflamTG-V"
+msgstr "TransflamTG-V"
+
+msgid "v.2.5.1.TransoilG"
+msgstr "Transoil G"
+
+msgid "v.2.5.1.TransoilGK"
+msgstr "Transoil GK"
+
+msgid "v.2.5.1.TransoilGM"
+msgstr "Transoil GM"
+
+msgid "v.2.5.1.TransoilGMS"
+msgstr "Transoil GMS"
+
+msgid "v.2.5.1.TransoilGS"
+msgstr "Transoil GS"
+
+msgid "v.2.5.1.TransthermCW"
+msgstr "Transtherm CW"
+
+msgid "v.2.5.1.TransthermTEA"
+msgstr "Transtherm TEA"
+
+msgid "v.2.5.1.TransthermTEB"
+msgstr "Transtherm TEB"
+
+msgid "v.2.5.1.TransthermTEC"
+msgstr "Transtherm TEC"
+
+msgid "v.2.5.1.TransthermUHR"
+msgstr "Transtherm UHR"
+
+msgid "v.2.5.1.HOS"
+msgstr "HOS"
+
+msgid "v.2.5.1.MSHA/SAR"
+msgstr "MSHA/SAR"
+
+msgid "v.2.5.1.RubstoneSAR"
+msgstr "Rubstone SAR"
+
+msgid "v.2.5.1.HamaHeat750F"
+msgstr "HamaHeat 750F"
+
+msgid "v.2.5.1.Super100NonStick"
+msgstr "Super 100 Non Stick"
+
+msgid "v.2.5.1.Super50NonStick"
+msgstr "Super 50  Non Stick"
+
+msgid "v.2.5.1.EcotexLRR"
+msgstr "Ecotex - LRR"
+
+msgid "v.2.5.1.OR"
+msgstr "OR"
+
+msgid "v.2.5.1.OHR"
+msgstr "OHR"
+
+msgid "v.2.5.1.Fire-retardant"
+msgstr "Fire-retardant"
+
+msgid "v.2.5.1.Cold-resistant"
+msgstr "Cold-resistant"
+
+msgid "v.2.5.1.Wear-resistant"
+msgstr "Wear-resistant"
+
+msgid "v.2.5.1.Heat-resistant"
+msgstr "Heat-resistant"
+
+msgid "v.2.5.1.Acidandalkalineresistant"
+msgstr "Acid and alkaline resistant"
+
+msgid "v.2.5.1.Antistaticelectricity"
+msgstr "Antistatic electricity"
+
+msgid "v.2.5.1.High-grade"
+msgstr "High-grade"
+
+msgid "v.2.5.1.FESAGI"
+msgstr "FESA GI"
+
+msgid "v.2.5.1.FESAGII"
+msgstr "FESA GII"
+
+msgid "v.2.5.1.FESAGW"
+msgstr "FESA GW"
+
+msgid "v.2.5.1.FESAOR"
+msgstr "FESA OR"
+
+msgid "v.2.5.1.FESAMOR"
+msgstr "FESA MOR"
+
+msgid "v.2.5.1.FESAHR150"
+msgstr "FESA HR150"
+
+msgid "v.2.5.1.FESAHR200"
+msgstr "FESA HR200"
+
+msgid "v.2.5.1.FESAHR400"
+msgstr "FESA HR400"
+
+msgid "v.2.5.1.FESAFR"
+msgstr "FESA FR"
+
+msgid "v.2.5.1.FESAAH"
+msgstr "FESA AH"
+
+msgid "v.2.5.1.RMAI"
+msgstr "RMA I"
+
+msgid "v.2.5.1.RAMII"
+msgstr "RAM II"
+
+msgid "v.2.5.1.B"
+msgstr "B"
+
+msgid "v.2.5.1.SH"
+msgstr "SH"
+
+msgid "v.2.5.1.ICE/STICK"
+msgstr "ICE/STICK"
+
+msgid "v.2.5.1.CL"
+msgstr "CL"
+
+msgid "v.2.5.1.EC"
+msgstr "EC"
+
+msgid "v.2.5.1.CX"
+msgstr "CX"
+
+msgid "v.2.5.1.BS"
+msgstr "BS"
+
+msgid "v.2.5.1.AS"
+msgstr "AS"
+
+msgid "v.2.5.1.TS"
+msgstr "TS"
+
+msgid "v.2.5.1.TB"
+msgstr "TB"
+
+msgid "v.2.5.1.AG"
+msgstr "AG"
+
+msgid "v.2.5.1.OH"
+msgstr "OH"
+
+msgid "v.2.5.1.TX"
+msgstr "TX"
+
+msgid "v.2.5.1.MX"
+msgstr "MX"
+
+msgid "v.2.5.1.AAAntiabrasivaExtra"
+msgstr "AA Extra anti-abrasive"
+
+msgid "v.2.5.1.ACAnticorte"
+msgstr "AC Cut resistant"
+
+msgid "v.2.5.1.AAAAbrasionExtrema"
+msgstr "AAA Extreme abrasion"
+
+msgid "v.2.5.1.SAntillamasubterraneo"
+msgstr "S Underground flame retardant"
+
+msgid "v.2.5.1.KAntillamaexterior"
+msgstr "K Exterior flame retardant"
+
+msgid "v.2.5.1.KGAntillama-AntiaceiteExt"
+msgstr "KG Exterior flame retardant and oil resistant"
+
+msgid "v.2.5.1.SGAntillama-AntiaceiteInt."
+msgstr "SG Interior flame retardant and oil resistant"
+
+msgid "v.2.5.1.T15"
+msgstr "T15"
+
+msgid "v.2.5.1.T18"
+msgstr "T18"
+
+msgid "v.2.5.1.T20"
+msgstr "T20"
+
+msgid "v.2.5.1.CResistenteQuimicos"
+msgstr "C Chemical resistant"
+
+msgid "v.2.5.1.HeatResistant"
+msgstr "Heat Resistant"
+
+msgid "v.2.5.1.FireResistant"
+msgstr "Fire Resistant"
+
+msgid "v.2.5.1.CutResistant"
+msgstr "Cut Resistant"
+
+msgid "v.2.5.1.OtherWidth"
+msgstr "Other"
+
+msgid "v.2.5.1.LowRollingResistancePulleycover"
+msgstr "Low Rolling Resistance Pulley cover"
+
+msgid "v.2.5.1.Breaker"
+msgstr "Breaker"
+
+msgid "v.2.5.1.RipDetection"
+msgstr "Rip Detection"
+
+msgid "v.2.5.1.Anythingelsespecial"
+msgstr "Anything else special"
+
+msgid "v.2.5.1.CreatePDF"
+msgstr "Create PDF"
+
+# Nuevas notificaciones
+msgid "Se elimino el folder de archivo %s del transportador %s"
+msgstr "The file folder %s was deleted from the asset %s."
+
+msgid "%s de %s, elimino el folder de archivo %s del transportador %s del cliente %s"
+msgstr "The user %s, of %s, has deleted the file folder %s from the asset %s of Customer %s."
+
+msgid "%s de %s, elimino el folder de archivo %s del transportador %s"
+msgstr "The user %s, of %s, has deleted the file folder %s from the asset %s."
+
+msgid "Se eliminaron archivos del folder %s del transportador %s"
+msgstr "Files were deleted in the folder %s from the buoy system %s."
+
+msgid "%s de %s, elimino archivos del folder %s del transportador %s del cliente %s"
+msgstr "The user %s, of %s, has deleted files in the folder %s from the buoy system %s of Customer %s."
+
+msgid "%s de %s, elimino archivos del folder %s del transportador %s"
+msgstr "The user %s, of %s, has deleted files in the folder %s from the buoy system %s."
+
+
+
+msgid "Se elimino el folder %s del transportador %s"
+msgstr "The asset %s was deleted from the folder %s."
+
+msgid "%s de %s, elimino el folder %s del transportador %s del cliente %s"
+msgstr "The user %s, of %s, has deleted the asset %s from the folder %s of Customer %s."
+
+msgid "%s de %s, elimino el folder %s del transportador %s"
+msgstr "The user %s, of %s, has deleted the asset %s from the folder %s."
+
+
+
+
+
+msgid "El usuario %s de %s, elimino la imagen %s del transportador %s del cliente %s. Favor de verificar."
+msgstr "User %s, of %s, has deleted the image %s of hose %s from the Customer %s. Please check."
+
+msgid "El usuario %s de %s, elimino el video %s del transportador %s del cliente %s. Favor de verificar."
+msgstr "User %s, of %s, has deleted the video %s of hose %s from the Customer %s. Please check."
+
+msgid "A la banda del transportador %s de la empresa %s le queda un tiempo estimado de vida de %s. Favor de contactar a su cliente."
+msgstr "The hose %s, of the company %s, has an estimated lifetime of %s. Please contact your customer."
+
+msgid "A la banda del transportador %s le queda un tiempo estimado de vida de %s. Favor de contactar a su distribuidor."
+msgstr "The hose %s has an estimated lifetime of %s. Please contact your distributor or technical advisor."
+
+msgid "El usuario %s de la empresa %s entro al sistema desde un pais distinto al que pertenece. Favor de verificar."
+msgstr "The user %s, of the company %s, has logged in a different country to which it belongs. Please verify authenticity."
+
+msgid "Security question"
+msgstr "Security question"
+
+msgid "Select a security question. This will help us verify your identity."
+msgstr "Please select a security question and an answer to help us verify your identity when necessary."
+
+msgid "To access the system with a new device, please answer correctly your security question."
+msgstr "To access the system with a new device, please answer correctly your security question."
+
+msgid "Error on response security question"
+msgstr "The answer is wrong."
+
+msgid "The maximum number of attempts has been exceeded. Please send a request to your Administrator %s at this email %s to allow you accessing with a new device."
+msgstr "The maximum number of attempts has been exceeded. Please send a request to %s to allow you accessing with a new device."
+
+msgid "Please send a request to your Administrator %s at this email %s to allow you accessing with a new device."
+msgstr "Please send a request to %s to allow you accessing with a new device."
+
+msgid "Answer"
+msgstr "Answer"
+
+msgid "Continue"
+msgstr "Continue"
+
+msgid "What is the name of your first pet?"
+msgstr "What is the name of your first pet?"
+
+msgid "What is the name of your first manager?"
+msgstr "What is the name of your first manager?"
+
+msgid "What is your favorite book?"
+msgstr "What is your favorite book?"
+
+msgid "Where was your first job?"
+msgstr "In what city was your first job?"
+
+msgid "What was the first car you owned?"
+msgstr "What was the first car you owned?"
+
+msgid "For security reason, your account will be associated to this device and it will not be possible to use another computer to access the system."
+msgstr "For security reason, your account will be associated to this device and it will not be possible to use another computer to access the system."
+
+# New login
+msgid "Username is required"
+msgstr "Username is required"
+
+msgid "Password is required"
+msgstr "Password is required"
+
+msgid "Username and password are required."
+msgstr "Username and password are required."
+
+msgid "Verificacion captcha incorrecta."
+msgstr "Captcha verification required."
+
+# Resend welcome email
+msgid "Realmente desea reenviar el email de confirmacion?"
+msgstr "Would you like to resend the welcome email?"
+
+msgid "Reenviar"
+msgstr "Resend"
+
+msgid "Reenviar invitacion"
+msgstr "Resend invite"
+
+msgid "El email de bienvenida ha sido reenviado exitosamente."
+msgstr "Welcome email has been resent."
+
+msgid "Si, reenviar"
+msgstr "Yes, resend"
+
+msgid "Share Distributor"
+msgstr "Share Distributor"
+
+msgid "Territories"
+msgstr "Territories"
+
+msgid "Filtrar por:"
+msgstr "Filter by:"
+
+msgid "Area / Sub area"
+msgstr "Area / Sub area"
+
+msgid "Area"
+msgstr "Area"
+
+msgid "Areas"
+msgstr "Areas"
+
+msgid "Sub areas"
+msgstr "Sub areas"
+
+msgid "Add area"
+msgstr "Add area"
+
+msgid "Add sub area"
+msgstr "Add sub area"
+
+msgid "New"
+msgstr "New"
+
+msgid "Territories"
+msgstr "Territories"
+
+msgid "Regions"
+msgstr "Regions"
+
+msgid "Countries"
+msgstr "Countries"
+
+msgid "Markets"
+msgstr "Markets"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "Type of company"
+msgstr "Type of company"
+
+msgid "Salesperson"
+msgstr "Salesperson"
+
+msgid "Territorio"
+msgstr "Territory"
+
+msgid "Para completar la operacion es necesario asociar los clientes del distribuidor"
+msgstr "To complete the process is necessary to associate customers with another distributor. Would you like continue?"
+
+msgid "Distributor corporates"
+msgstr "Distributor corporates"
+
+msgid "Client corporates"
+msgstr "Customer corporates"
+
+msgid "Permissions"
+msgstr "Permissions"
+
+msgid "Choose market"
+msgstr "Choose market"
+
+msgid "Selected market"
+msgstr "Selected market"
+
+msgid "Units"
+msgstr "Units"
+
+msgid "Imperial"
+msgstr "Imperial"
+
+msgid "Metric"
+msgstr "Metric"
+
+msgid "Private folder"
+msgstr "Click on the box to make the folder private (only ContiTech staff will see it)"
+
+msgid "Uncheck to hide item in smart view"
+msgstr "Uncheck to hide item in smart view"
+
+msgid "Duplicar"
+msgstr "Duplicate"
+
+msgid "Realmente desea copiar la banda seleccionada"
+msgstr "Do you really want to duplicate the selected hose?"
+
+msgid "Fecha de falla ha sido llenado. Al llenar este dato la informacion de banda instalada se exportara a history y los campos respaldados se limpiaran. ¿Está de acuerdo?"
+msgstr "Failure date has been filled. By filling this field and saving, the data of the current hose will be transferred to the history section and the installed hose tab will be reset"
+
+msgid "La informacion de banda instalada fue exportada a history y los campos estan limpios para agregar informacion de una nueva banda"
+msgstr "The installed hose information was exported to history section and the fields were cleared to add information from a new hose."
+
+#Headers History Columns
+msgid "HistoryHeaderManufacturer"
+msgstr "Manufacturer"
+
+msgid "HistoryHeaderFamily"
+msgstr "Family"
+
+msgid "HistoryHeaderCompounds"
+msgstr "Compounds"
+
+msgid "HistoryHeaderInformation"
+msgstr "Information"
+
+msgid "HistoryHeaderInstalledDate"
+msgstr "Installed date"
+
+msgid "HistoryHeaderFailedDate"
+msgstr "Failed date"
+
+msgid "HistoryHeaderOtherSpecial"
+msgstr "Other special"
+
+msgid "HistoryHeaderYearsSystem"
+msgstr "Years on system"
+
+msgid "HistoryHeaderFailureMode"
+msgstr "Failure mode(s)"
+
+msgid "HistoryHeaderRemarks"
+msgstr "Remarks"
+
+msgid "HistoryHeaderActions"
+msgstr "Actions"
+
+msgid "No comments"
+msgstr "No comments"
+
+msgid "View datasheet"
+msgstr "View datasheet"
+
+msgid "v.2.7.1.GenericBucket"
+msgstr "Archive"
+
+msgid "Export data to history"
+msgstr "Export data to history"
+
+msgid "An installed belt failure date was registered, we suggest you export the data to History."
+msgstr "An installed hose failure date was registered, we suggest you export the data to History."
+
+msgid "disclaimer_export_to_history_btn"
+msgstr "By entering a failure date in the installed hose, this button will be activated to transfer the data of the current hose to the history section and the installed hose tab will be reset."
+
+msgid "confirm_export_history"
+msgstr "Do you agree to export the current information of the installed hose to the History section?<br><br>Remember that the data of the installed hose will be transferred and the fields will be cleared to enter new information."
+
+msgid "Yes, Export"
+msgstr "Yes, Export"
+
+msgid "No, Cancel"
+msgstr "No, Cancel"
+
+msgid "Failures"
+msgstr "Failures"
+
+msgid "Todas"
+msgstr "All"
+
+#Fallas
+msgid "Abrasion or aging/cracking/swelling"
+msgstr "Abrasion or aging / cracking / swelling"
+
+msgid "Belt punctures/tears"
+msgstr "Cut / tears"
+
+msgid "Cut-Gouge cover damage"
+msgstr "Cut-Gouge cover damage"
+
+msgid "Recent Tweets"
+msgstr "Recent Tweets"
+
+#Clear fingerprint and security question
+msgid "Realmente desea limpiar la huella de equipo del colaborador?"
+msgstr "Do you really want to proceed with the selected action?"
+
+msgid "Huella"
+msgstr "Fingerprint"
+
+msgid "Pregunta"
+msgstr "Question"
+
+msgid "Realmente desea limpiar la pregunta de seguridad del colaborador?"
+msgstr "Do you really want to proceed with the selected action?"
+
+msgid "Si, limpiar"
+msgstr "Confirm"
+
+msgid "Limpiar huella"
+msgstr "Clear fingerprint"
+
+msgid "Limpiar pregunta de seguridad"
+msgstr "Clear security question"
+
+msgid "la huella del usuario se limpio exitosamente."
+msgstr "The operation was successful."
+
+msgid "la pregunta de seguridad se limpio exitosamente."
+msgstr "The operation was successful."
+
+msgid "Otro"
+msgstr "Other"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Recommended Belt"
+msgstr "Recommended hose"
+
+msgid "Reason to recommend this belt"
+msgstr "Reason to recommend this hose"
+
+msgid "Conveyor number"
+msgstr "Hose number"
+
+msgid "Installed belt"
+msgstr "Installed hose"
+
+msgid "Belt manufacturer"
+msgstr "Hose manufacturer"
+
+
+

@@ -1,0 +1,184 @@
+@import url("font/sans-font.css");
+body{
+    margin: 0px;
+    padding: 0px;
+    min-width: 1000px;
+    background: #000000 url("images/grid.png") repeat scroll 0 0;
+}
+
+#container{
+    color: #CDD2CD;
+    font-family: "sanslight";
+}
+
+#footer{
+    width: 100%;
+    height: 30px;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    font-size: 12px;  
+    color: #707571;
+    font-family: "sansbook";
+    clear: both;
+    padding-top: 30px;
+}
+#footer > div{
+/*    margin-bottom: 20px;*/
+}
+
+#language_login_bar{  
+    width: 100%;   
+    display: none;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#language_login_bar > div{
+    width: 32px;
+    margin: 0 auto !important;
+    float: none !important;
+}
+
+
+#wrapper{
+    width: 100%;
+    height: 100%;
+    /*background: transparent url('images/logos/continental_logo_white.png') 50px 20px no-repeat;*/    
+}
+
+#access_form{
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid transparent;
+    background: transparent url('images/logos/imodco_logo_login.png') center 100px no-repeat;
+    padding: 20px 100px 0;
+}
+
+#login_form_container{
+    margin-top: 200px;
+}
+
+#form_login > div{
+    font-size: 17px;    
+}
+#form_login input[type="text"],#form_login input[type="password"]{
+    background-color: transparent;
+    border: none;    
+    width: 300px;   
+    color: #CDD2CD !important;
+    font-size: 17px;    
+    font-family: "sanslight";
+    padding: 20px 5px 20px 5px;
+}
+
+.login_separator{
+    border: none;
+    border-bottom: 1px solid #CDD2CD;
+    height: 1px;
+    display: block;
+    margin: 0 !important;
+}
+
+#disclaimer_login{
+    clear: both;
+    font-size: 13px !important;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
+#disclaimer_login a{
+    color: #FFA500;
+    font-family: "sansbook";
+}
+
+#actions_login{
+    clear: both;
+    position: relative;
+    display:block;
+    height: 50px;
+    margin: 50px 0 50px 0;
+}
+.submit_btn{
+    width: 300px;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    position: absolute;
+    cursor: pointer;
+}
+.submit_btn.off{
+    background: transparent url('images/login/button_login_off.png') no-repeat;
+}
+.submit_btn.on{
+    background: transparent url('images/login/button_login_on.png') no-repeat;
+}
+
+#submit_login{
+/*    width: 300px;
+    height: 50px;
+    padding: 10px;
+    background-color: #FFA500;
+    border: none;
+    background: url('images/login/button_login_off.png');*/
+/*    -webkit-transition: all 0.30s linear;
+  -moz-transition: all 0.30s linear;
+  transition: all 0.30s linear;*/
+}
+
+/*#submit_login:hover{
+    background: transparent url('images/login/button_login_on.png');
+    cursor: pointer;
+}*/
+
+
+#captcha{
+    text-align: center;
+    margin: 40px 0 40px 0;
+    clear: both;
+    height: 65px;
+}
+#captcha > div{
+    width: 175px;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+#captcha div.option {
+    float: left;
+    margin: 0 auto;
+} 
+
+#information_login{
+    color: #FFA500;
+    margin-top: 35px;
+    display: block;
+    font-family: 'sansbook';
+    font-size: 13px;
+    text-align: center;
+}
+
+#flashMessage{
+    color: #ffa500;
+    font-family: sansbook;
+    text-align: center;
+}
+
+/*
+#form_login input:-webkit-autofill {
+    -webkit-box-shadow:0 0 0 50px transparent inset;
+    -webkit-text-fill-color: #FFF;
+}
+#form_login input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0 50px transparent inset;
+    -webkit-text-fill-color: #FFF;
+}*/
+#form_login input:-webkit-autofill,
+#form_login input:-webkit-autofill:hover,
+#form_login input:-webkit-autofill:focus,
+#form_login input:-webkit-autofill:active {
+    transition: background-color 5000s ease-in-out 0s;
+    -webkit-text-fill-color: #cdd2cd;
+}
+
+#language_trigger{
+    pointer-events: none !important;
+}

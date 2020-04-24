@@ -1,0 +1,70 @@
+msgid "Sort by"
+msgstr "Sort by"
+
+msgid "Conveyors alphabetically"
+msgstr "Hoses alphabetically"
+
+msgid "Shortest abrasion life left"
+msgstr "Shortest abrasion life left"
+
+msgid "Specifications"
+msgstr "Specifications"
+
+msgid "Width (lower to higher)"
+msgstr "Width (lower to higher)"
+
+msgid "Conveyor name"
+msgstr "Hose's name"
+
+msgid "Manufacturer"
+msgstr "Manufacturer"
+
+msgid "Family"
+msgstr "Family"
+
+msgid "Compounds"
+msgstr "Compounds"
+
+msgid "Specification"
+msgstr "Specification"
+
+msgid "Width (in)"
+msgstr "Width (in)"
+
+msgid "Width Summary"
+msgstr "Width"
+
+msgid "Length (ft)"
+msgstr "Length (ft)"
+
+msgid "Length Summary"
+msgstr "Length"
+
+msgid "Installed date"
+msgstr "Installed date"
+
+msgid "Years on system"
+msgstr "Years on system"
+
+msgid "Estimated remaining lifetime (years)"
+msgstr "Estimated remaining lifetime (years)"
+
+msgid "Ultrasonic gauge"
+msgstr "Ultrasonic gauge"
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "Sort"
+msgstr "Sort"
+
+

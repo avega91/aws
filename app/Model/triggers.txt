@@ -1,0 +1,76 @@
+#Actualizar campo last_update de empresas, inmediatamente despues de actualizar su info
+
+DELIMITER $$
+CREATE TRIGGER actualizacion_ultima_modificacion_usuarios
+BEFORE UPDATE on usuarios_empresas
+FOR EACH ROW
+BEGIN
+  SET NEW.last_updated=NOW();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE TRIGGER actualizacion_ultima_modificacion_empresas
+BEFORE UPDATE on empresas
+FOR EACH ROW
+BEGIN
+  SET NEW.last_update=NOW();
+END$$
+DELIMITER ;
+
+
+#Actualizar campo actualizada de transportadores, inmediatamente despues de actualizar su info
+
+DELIMITER $$
+CREATE TRIGGER actualizacion_ultima_modificacion_transportador
+BEFORE UPDATE on conveyors
+FOR EACH ROW
+BEGIN
+  SET NEW.actualizada=NOW();
+END$$
+DELIMITER ;
+
+
+#Actualizar campo actualizada de images, inmediatamente despues de actualizar su info
+
+DELIMITER $$
+CREATE TRIGGER actualizacion_ultima_modificacion_fotos
+BEFORE UPDATE on images
+FOR EACH ROW
+BEGIN
+  SET NEW.actualizada=NOW();
+END$$
+DELIMITER ;
+
+#Actualizar campo actualizada de videos, inmediatamente despues de actualizar su info
+
+DELIMITER $$
+CREATE TRIGGER actualizacion_ultima_modificacion_videos
+BEFORE UPDATE on movies
+FOR EACH ROW
+BEGIN
+  SET NEW.actualizada=NOW();
+END$$
+DELIMITER ;
+
+
+#Actualizar campo actualizada de folders, inmediatamente despues de actualizar su info
+DELIMITER $$
+CREATE TRIGGER actualizacion_ultima_modificacion_folders
+BEFORE UPDATE on folders
+FOR EACH ROW
+BEGIN
+  SET NEW.actualizada=NOW();
+END$$
+DELIMITER ;
+
+
+#Actualizar campo actualizada de reportes, inmediatamente despues de actualizar su info
+DELIMITER $$
+CREATE TRIGGER actualizacion_ultima_modificacion_reportes
+BEFORE UPDATE on reports
+FOR EACH ROW
+BEGIN
+  SET NEW.actualizada=NOW();
+END$$
+DELIMITER ;

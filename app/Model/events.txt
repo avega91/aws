@@ -1,0 +1,14 @@
+//Update all conveyor profiles where id <= 0 (not valid profile)
+CREATE EVENT update_profiles
+ON SCHEDULE EVERY 20 SECOND
+DO
+UPDATE conveyors
+SET perfil=1
+WHERE perfil<=0;
+
+CREATE EVENT update_profiles
+ON SCHEDULE EVERY 5 MINUTE
+DO
+UPDATE conveyors
+SET perfil=1
+WHERE perfil<=0;

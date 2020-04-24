@@ -1,0 +1,68 @@
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "Conveyors alphabetically"
+msgstr "Nombre alfabéticamente"
+
+msgid "Shortest abrasion life left"
+msgstr "Menor tiempo de vida"
+
+msgid "Specifications"
+msgstr "Especificación"
+
+msgid "Width (lower to higher)"
+msgstr "Ancho (menor a mayor)"
+
+msgid "Conveyor name"
+msgstr "Nombre de transportador"
+
+msgid "Manufacturer"
+msgstr "Marca"
+
+msgid "Family"
+msgstr "Nombre comercial"
+
+msgid "Compounds"
+msgstr "Componente"
+
+msgid "Specification"
+msgstr "Especificación"
+
+msgid "Width (in)"
+msgstr "Ancho (in)"
+
+msgid "Width Summary"
+msgstr "Ancho"
+
+msgid "Length (ft)"
+msgstr "Longitud (ft)"
+
+msgid "Length Summary"
+msgstr "Longitud"
+
+msgid "Installed date"
+msgstr "Fecha de instalación"
+
+msgid "Years on system"
+msgstr "Años en sistema"
+
+msgid "Estimated remaining lifetime (years)"
+msgstr "Tiempo estimado de vida restante (años)"
+
+msgid "Ultrasonic gauge"
+msgstr "Ultrasonic gauge"
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "Sort"
+msgstr "Sort"
+
+msgid "Sort"
+msgstr "Sort"

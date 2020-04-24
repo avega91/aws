@@ -1,0 +1,269 @@
+msgid "Ancho (plg)"
+msgstr "Width"
+
+msgid "Tension Banda"
+msgstr "Rating"
+
+msgid "v.2.5.0.Diametro_Cable"
+msgstr "Cord diameter"
+
+msgid "Desarrollo total"
+msgstr "Length"
+
+msgid "Densidad material"
+msgstr "Bulk density"
+
+msgid "Tamano max terron"
+msgstr "Lump size"
+
+msgid "Temperatura"
+msgstr "Temperature"
+
+msgid "Altura de caida"
+msgstr "Chute drop"
+
+msgid "Distancia entre centros (m)"
+msgstr "Conveying length"
+
+msgid "Elevacion (m)"
+msgstr "Lift"
+
+msgid "HP Motor"
+msgstr "Drive Power"
+
+msgid "v.2.5.0.TemperaturaMinima"
+msgstr "Minimum temperature"
+
+msgid "v.2.5.0.TemperaturaMaxima"
+msgstr "Maximum temperature"
+
+msgid "v.2.5.0.LargoCurva"
+msgstr "Length of curve"
+
+msgid "Velocidad banda"
+msgstr "Speed"
+
+msgid "Carrera (m)"
+msgstr "Take up travel"
+
+msgid "Peso estimado (lbs)"
+msgstr "Estimated weight"
+
+msgid "Impacto Ø (plg)"
+msgstr "Impact Ø"
+
+msgid "Carga Ø (plg)"
+msgstr "Carry Ø"
+
+msgid "Retorno Ø (plg)"
+msgstr "Return Ø"
+
+msgid "Espacio(LC) (m)"
+msgstr "Top run spacing"
+
+msgid "Espacio(LR) (m)"
+msgstr "Return run spacing"
+
+msgid "Polea motriz"
+msgstr "Drive pulley Ø"
+
+msgid "Polea de cabeza"
+msgstr "Head pulley Ø"
+
+msgid "Polea de cola"
+msgstr "Tail pulley Ø"
+
+msgid "Polea de contacto"
+msgstr "Snub pulley Ø"
+
+msgid "Polea de doblez"
+msgstr "Bend pulley Ø"
+
+msgid "Polea tensora"
+msgstr "Take up pulley Ø"
+
+msgid "Polea adicional1"
+msgstr "Additional pulley 1 Ø"
+
+msgid "Polea adicional2"
+msgstr "Additional pulley 2 Ø"
+
+msgid "v.2.5.0.LargoPlanoAcanalado"
+msgstr "Flat-to-trough transition length"
+
+msgid "v.2.5.0.AlturaPolea"
+msgstr "Pulley lift"
+
+msgid "v.2.5.0.LargoZonaTransicion"
+msgstr "Trough-to-flat transition length"
+
+msgid "Finos"
+msgstr "Contingent of fines"
+
+msgid "Angulo de inclinación (°)"
+msgstr "Angle"
+
+msgid "Capacidad (t/h)"
+msgstr "Conveying capacity"
+
+msgid "Carga (percent)"
+msgstr "Percent load"
+
+msgid "Impacto (°)"
+msgstr "Impact"
+
+msgid "Carga (°)"
+msgstr "Angle carry"
+
+msgid "Retorno (°)"
+msgstr "Angle return"
+
+msgid "Arco de contacto"
+msgstr "Angle of wrap"
+
+msgid "RPM motor"
+msgstr "Drive frequency"
+
+msgid "Angulo acanalamiento"
+msgstr "Troughing angle"
+
+
+msgid "rpm"
+msgstr "rpm"
+
+msgid "(t/h)"
+msgstr "tph"
+
+
+
+
+
+#Us add conveyor
+msgid "Material density (lb/ft)"
+msgstr "Material density"
+
+msgid "Lump size (in)"
+msgstr "Lump size"
+
+msgid "Maximum temperature (°F)"
+msgstr "Maximum temperature"
+
+msgid "Minimum temperature (°F)"
+msgstr "Minimum temperature"
+
+msgid "Approx. chute drop (ft)"
+msgstr "Approx. chute drop"
+
+msgid "Center to center length (ft)"
+msgstr "Center to center length"
+
+msgid "Lift (ft)"
+msgstr "Lift"
+
+msgid "Belt speed (fpm)"
+msgstr "Hose speed"
+
+msgid "Counterweight (lbs)"
+msgstr "Counterweight"
+
+msgid "Takeup travel (ft)"
+msgstr "Takeup travel"
+
+msgid "Carry side idler diameter (in)"
+msgstr "Carry side idler diameter"
+
+msgid "Carry side idler spacing (ft)"
+msgstr "Carry side idler spacing"
+
+msgid "Return side idler diameter (in)"
+msgstr "Return side idler diameter"
+
+msgid "Return side idler spacing (ft)"
+msgstr "Return side idler spacing"
+
+msgid "Drive power (hp)"
+msgstr "Drive power"
+
+msgid "Drive pulley diameter (in)"
+msgstr "Drive pulley diameter"
+
+msgid "Head pulley diameter (in)"
+msgstr "Head pulley diameter"
+
+msgid "Takeup pulley diameter (in)"
+msgstr "Takeup pulley diameter"
+
+msgid "Tail pulley diameter (in)"
+msgstr "Tail pulley diameter"
+
+msgid "Head transition (in)"
+msgstr "Head transition"
+
+msgid "Tail transition (in)"
+msgstr "Tail transition"
+
+msgid "Turnover length (ft)"
+msgstr "Turnover length"
+
+msgid "Height above sea level (ft)"
+msgstr "Height above sea level"
+
+msgid "Impacto Ø (plg)"
+msgstr "Impact Ø"
+
+msgid "Width (in)"
+msgstr "Width"
+
+msgid "Lagging Thickness"
+msgstr "Lagging Thickness"
+
+msgid "Diameter (in)"
+msgstr "Diameter"
+
+msgid "Pulley lift (ft)"
+msgstr "Pulley lift"
+
+msgid "Belt length for installation (ft)"
+msgstr "Hose length for installation"
+
+msgid "Feed Angle (°)"
+msgstr "Feed Angle"
+
+msgid "Chute Angle (°)"
+msgstr "Chute Angle"
+
+msgid "Belt incline angle in load zone (°)"
+msgstr "Hose incline angle in load zone"
+
+msgid "Carry side idler angle (°)"
+msgstr "Carry side idler angle"
+
+msgid "Return side idler angle (°)"
+msgstr "Return side idler angle"
+
+msgid "Drive wrap angle (°)"
+msgstr "Drive wrap angle"
+
+msgid "Drive frequency (rpm)"
+msgstr "Drive frequency"
+
+msgid "Angle (°)"
+msgstr "Angle"
+
+msgid "Percent load (%)"
+msgstr "Percent load"
+
+msgid "Angle impact (°)"
+msgstr "Angle impact"
+
+msgid "Percent of fines (%)"
+msgstr "Percent of fines"
+
+msgid "Screw"
+msgstr "Screw"
+
+msgid "Automatic"
+msgstr "Gravity"
+
+msgid "Adapted"
+msgstr "Adapted"
